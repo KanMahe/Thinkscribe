@@ -1,0 +1,121 @@
+[
+    {
+        "title": "Deep Residual Learning for Image Recognition",
+        "authors": [
+            "Kaiming He",
+            "X. Zhang",
+            "Shaoqing Ren",
+            "Jian Sun"
+        ],
+        "year": 2015,
+        "abstract": "Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth. On the ImageNet dataset we evaluate residual nets with a depth of up to 152 layers - 8\u00d7 deeper than VGG nets [40] but still having lower complexity. An ensemble of these residual nets achieves 3.57% error on the ImageNet test set. This result won the 1st place on the ILSVRC 2015 classification task. We also present analysis on CIFAR-10 with 100 and 1000 layers. The depth of representations is of central importance for many visual recognition tasks. Solely due to our extremely deep representations, we obtain a 28% relative improvement on the COCO object detection dataset. Deep residual nets are foundations of our submissions to ILSVRC & COCO 2015 competitions1, where we also won the 1st places on the tasks of ImageNet detection, ImageNet localization, COCO detection, and COCO segmentation.",
+        "url": "https://www.semanticscholar.org/paper/2c03df8b48bf3fa39054345bafabfeff15bfd11d"
+    },
+    {
+        "title": "Is Deep Learning for Image Recognition Applicable to Stock Market Prediction?",
+        "authors": [
+            "H. Sim",
+            "Haein Kim",
+            "J. Ahn"
+        ],
+        "year": 2019,
+        "abstract": "Stock market prediction is a challenging issue for investors. In this paper, we propose a stock price prediction model based on convolutional neural network (CNN) to validate the applicability of new learning methods in stock markets. When applying CNN, 9 technical indicators were chosen as predictors of the forecasting model, and the technical indicators were converted to images of the time series graph. For verifying the usefulness of deep learning for image recognition in stock markets, the predictive accuracies of the proposed model were compared to typical artificial neural network (ANN) model and support vector machine (SVM) model. From the experimental results, we can see that CNN can be a desirable choice for building stock prediction models. To examine the performance of the proposed method, an empirical study was performed using the S&P 500 index. This study addresses two critical issues regarding the use of CNN for stock price prediction: how to use CNN and how to optimize them.",
+        "url": "https://www.semanticscholar.org/paper/53c8d22fee66604f9759d97f325ca778449007ee"
+    },
+    {
+        "title": "This looks like that: deep learning for interpretable image recognition",
+        "authors": [
+            "Chaofan Chen",
+            "Oscar Li",
+            "A. Barnett",
+            "Jonathan Su",
+            "C. Rudin"
+        ],
+        "year": 2018,
+        "abstract": "When we are faced with challenging image classification tasks, we often explain our reasoning by dissecting the image, and pointing out prototypical aspects of one class or another. The mounting evidence for each of the classes helps us make our final decision. In this work, we introduce a deep network architecture -- prototypical part network (ProtoPNet), that reasons in a similar way: the network dissects the image by finding prototypical parts, and combines evidence from the prototypes to make a final classification. The model thus reasons in a way that is qualitatively similar to the way ornithologists, physicians, and others would explain to people on how to solve challenging image classification tasks. The network uses only image-level labels for training without any annotations for parts of images. We demonstrate our method on the CUB-200-2011 dataset and the Stanford Cars dataset. Our experiments show that ProtoPNet can achieve comparable accuracy with its analogous non-interpretable counterpart, and when several ProtoPNets are combined into a larger network, it can achieve an accuracy that is on par with some of the best-performing deep models. Moreover, ProtoPNet provides a level of interpretability that is absent in other interpretable deep models.",
+        "url": "https://www.semanticscholar.org/paper/cc145f046788029322835979a14459652da7247e"
+    },
+    {
+        "title": "Techniques of Deep Learning for Image Recognition",
+        "authors": [
+            "G. Patil",
+            "Dr. R. K. Banyal"
+        ],
+        "year": 2019,
+        "abstract": "Image recognition is the reference of machine vision, is the ability of software to identify objects, peoples, places, actions and writing in images. Deep learning is the core field of machine learning and the most prominent algorithm of deep learning is convolutional neural network (CNN). Convolutional neural networks with more convolution hidden layers have more complex structure and more powerful feature extraction abilities than existing machine learning techniques. Nowadays, CNN has got tremendous success in image recognition. In this paper review the different methods of deep learning which has been utilized in the area for the recognition of image such as localisation and classification.",
+        "url": "https://www.semanticscholar.org/paper/3bcdec04a376e1eb5375d3e300684f1a79caa395"
+    },
+    {
+        "title": "Deep Residual Learning for Image Recognition: A Survey",
+        "authors": [
+            "Muhammad Shafiq",
+            "Zhaoquan Gu"
+        ],
+        "year": 2022,
+        "abstract": "Deep Residual Networks have recently been shown to significantly improve the performance of neural networks trained on ImageNet, with results beating all previous methods on this dataset by large margins in the image classification task. However, the meaning of these impressive numbers and their implications for future research are not fully understood yet. In this survey, we will try to explain what Deep Residual Networks are, how they achieve their excellent results, and why their successful implementation in practice represents a significant advance over existing techniques. We also discuss some open questions related to residual learning as well as possible applications of Deep Residual Networks beyond ImageNet. Finally, we discuss some issues that still need to be resolved before deep residual learning can be applied on more complex problems.",
+        "url": "https://www.semanticscholar.org/paper/4a920546a3797b99d2eafabe8f9e2e2e1188ffe7"
+    },
+    {
+        "title": "Research on Image Recognition Technology Based on Multimodal Deep Learning",
+        "authors": [
+            "Jinyin Wang",
+            "Xingchen Li",
+            "Yixuan Jin",
+            "Yihao Zhong",
+            "Keke Zhang",
+            "Chang Zhou"
+        ],
+        "year": 2024,
+        "abstract": "This research explores a human multi-modal behavior identification algorithm using deep neural networks. The algorithm leverages various deep neural networks tailored to different types of modal information to process diverse video data. By integrating these neural networks, the algorithm effectively identifies behaviors across multiple modalities. Data collection for this study utilized multiple cameras developed by Microsoft Kinect, capturing skeletal point data in addition to conventional images. This dual data collection method enables the extraction of motion features from the images. The synthesized behavioral characteristics from these data sources facilitate precise behavior identification and categorization. The proposed algorithm's effectiveness was validated using the MSR3D dataset. Experimental results demonstrate that behavior recognition accuracy remains consistent across various scenarios, indicating the robustness of the recognition process. The findings reveal that the algorithm substantially enhances the accuracy of pedestrian behavior recognition in video footage.",
+        "url": "https://www.semanticscholar.org/paper/1f3b4dbdc595bdb120a82a8ffd566d5da425c563"
+    },
+    {
+        "title": "DEEP LEARNING FOR IMAGE RECOGNITION",
+        "authors": [
+            "Vysok\u00e9 U\u010den\u00ed",
+            "Technick\u00e9 V Brn\u011b",
+            "Grafiky A Multim\u00e9di\u00ed",
+            "Bakal\u00e1\u0159sk\u00e1 pr\u00e1ce",
+            "B. Thesis",
+            "Autor Pr\u00e1ce",
+            "Milan Munzar",
+            "Rozpozn\u00e1v\u00e1n\u00ed Obrazu"
+        ],
+        "year": 2013,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/68746c8ab10be4e42c8458b33bf1747fda553fe7"
+    },
+    {
+        "title": "These do not Look Like Those: An Interpretable Deep Learning Model for Image Recognition",
+        "authors": [
+            "Gurmail Singh",
+            "K. Yow"
+        ],
+        "year": 2021,
+        "abstract": "Interpretation of the reasoning process of a prediction made by a deep learning model is always desired. However, when it comes to the predictions of a deep learning model that directly impacts on the lives of people then the interpretation becomes a necessity. In this paper, we introduce a deep learning model: negative-positive prototypical part network (NP-ProtoPNet). This model attempts to imitate human reasoning for image recognition while comparing the parts of a test image with the corresponding parts of the images from known classes. We demonstrate our model on the dataset of chest $X$ -ray images of Covid-19 patients, pneumonia patients and normal people. The accuracy and precision that our model receives is on par with the best performing non-interpretable deep learning models.",
+        "url": "https://www.semanticscholar.org/paper/091b6b871b1245aa3cde5924d6f6f4856bd4f929"
+    },
+    {
+        "title": "When Dictionary Learning Meets Deep Learning: Deep Dictionary Learning and Coding Network for Image Recognition With Limited Data",
+        "authors": [
+            "H. Tang",
+            "Hong Liu",
+            "Wei Xiao",
+            "N. Sebe"
+        ],
+        "year": 2020,
+        "abstract": "We present a new deep dictionary learning and coding network (DDLCN) for image-recognition tasks with limited data. The proposed DDLCN has most of the standard deep learning layers (e.g., input/output, pooling, and fully connected), but the fundamental convolutional layers are replaced by our proposed compound dictionary learning and coding layers. The dictionary learning learns an overcomplete dictionary for input training data. At the deep coding layer, a locality constraint is added to guarantee that the activated dictionary bases are close to each other. Then, the activated dictionary atoms are assembled and passed to the compound dictionary learning and coding layers. In this way, the activated atoms in the first layer can be represented by the deeper atoms in the second dictionary. Intuitively, the second dictionary is designed to learn the fine-grained components shared among the input dictionary atoms; thus, a more informative and discriminative low-level representation of the dictionary atoms can be obtained. We empirically compare DDLCN with several leading dictionary learning methods and deep learning models. Experimental results on five popular data sets show that DDLCN achieves competitive results compared with state-of-the-art methods when the training data are limited. Code is available at https://github.com/Ha0Tang/DDLCN.",
+        "url": "https://www.semanticscholar.org/paper/a0a66e6623e5e59b4ee69a134c42a20f2012c367"
+    },
+    {
+        "title": "DECIMER 1.0: deep learning for chemical image recognition using transformers",
+        "authors": [
+            "Kohulan Rajan",
+            "A. Zielesny",
+            "C. Steinbeck"
+        ],
+        "year": 2021,
+        "abstract": "The amount of data available on chemical structures and their properties has increased steadily over the past decades. In particular, articles published before the mid-1990 are available only in printed or scanned form. The extraction and storage of data from those articles in a publicly accessible database are desirable, but doing this manually is a slow and error-prone process. In order to extract chemical structure depictions and convert them into a computer-readable format, Optical Chemical Structure Recognition (OCSR) tools were developed where the best performing OCSR tools are mostly rule-based. The DECIMER (Deep lEarning for Chemical ImagE Recognition) project was launched to address the OCSR problem with the latest computational intelligence methods to provide an automated open-source software solution. Various current deep learning approaches were explored to seek a best-fitting solution to the problem. In a preliminary communication, we outlined the prospect of being able to predict SMILES encodings of chemical structure depictions with about 90% accuracy using a dataset of 50\u2013100\u00a0million molecules. In this article, the new DECIMER model is presented, a transformer-based network, which can predict SMILES with above 96% accuracy from depictions of chemical structures without stereochemical information and above 89% accuracy for depictions with stereochemical information.",
+        "url": "https://www.semanticscholar.org/paper/830a72c485a437fc9f209e7646a0385b8c3b4815"
+    }
+]

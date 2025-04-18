@@ -1,0 +1,124 @@
+[
+    {
+        "title": "Novel Demonstration Generation with Gaussian Splatting Enables Robust\n  One-Shot Manipulation",
+        "authors": [
+            "Sizhe Yang",
+            "Wenye Yu",
+            "Jia Zeng",
+            "Jun Lv",
+            "Kerui Ren",
+            "Cewu Lu",
+            "Dahua Lin",
+            "Jiangmiao Pang"
+        ],
+        "year": 2025,
+        "abstract": "Visuomotor policies learned from teleoperated demonstrations face challenges\nsuch as lengthy data collection, high costs, and limited data diversity.\nExisting approaches address these issues by augmenting image observations in\nRGB space or employing Real-to-Sim-to-Real pipelines based on physical\nsimulators. However, the former is constrained to 2D data augmentation, while\nthe latter suffers from imprecise physical simulation caused by inaccurate\ngeometric reconstruction. This paper introduces RoboSplat, a novel method that\ngenerates diverse, visually realistic demonstrations by directly manipulating\n3D Gaussians. Specifically, we reconstruct the scene through 3D Gaussian\nSplatting (3DGS), directly edit the reconstructed scene, and augment data\nacross six types of generalization with five techniques: 3D Gaussian\nreplacement for varying object types, scene appearance, and robot embodiments;\nequivariant transformations for different object poses; visual attribute\nediting for various lighting conditions; novel view synthesis for new camera\nperspectives; and 3D content generation for diverse object types. Comprehensive\nreal-world experiments demonstrate that RoboSplat significantly enhances the\ngeneralization of visuomotor policies under diverse disturbances. Notably,\nwhile policies trained on hundreds of real-world demonstrations with additional\n2D data augmentation achieve an average success rate of 57.2%, RoboSplat\nattains 87.8% in one-shot settings across six types of generalization in the\nreal world.",
+        "url": "http://arxiv.org/abs/2504.13175v1"
+    },
+    {
+        "title": "It's All Connected: A Journey Through Test-Time Memorization,\n  Attentional Bias, Retention, and Online Optimization",
+        "authors": [
+            "Ali Behrouz",
+            "Meisam Razaviyayn",
+            "Peilin Zhong",
+            "Vahab Mirrokni"
+        ],
+        "year": 2025,
+        "abstract": "Designing efficient and effective architectural backbones has been in the\ncore of research efforts to enhance the capability of foundation models.\nInspired by the human cognitive phenomenon of attentional bias-the natural\ntendency to prioritize certain events or stimuli-we reconceptualize neural\narchitectures, including Transformers, Titans, and modern linear recurrent\nneural networks as associative memory modules that learn a mapping of keys and\nvalues using an internal objective, referred to as attentional bias.\nSurprisingly, we observed that most existing sequence models leverage either\n(1) dot-product similarity, or (2) L2 regression objectives as their\nattentional bias. Going beyond these objectives, we present a set of\nalternative attentional bias configurations along with their effective\napproximations to stabilize their training procedure. We then reinterpret\nforgetting mechanisms in modern deep learning architectures as a form of\nretention regularization, providing a novel set of forget gates for sequence\nmodels. Building upon these insights, we present Miras, a general framework to\ndesign deep learning architectures based on four choices of: (i) associative\nmemory architecture, (ii) attentional bias objective, (iii) retention gate, and\n(iv) memory learning algorithm. We present three novel sequence models-Moneta,\nYaad, and Memora-that go beyond the power of existing linear RNNs while\nmaintaining a fast parallelizable training process. Our experiments show\ndifferent design choices in Miras yield models with varying strengths. For\nexample, certain instances of Miras achieve exceptional performance in special\ntasks such as language modeling, commonsense reasoning, and recall intensive\ntasks, even outperforming Transformers and other modern linear recurrent\nmodels.",
+        "url": "http://arxiv.org/abs/2504.13173v1"
+    },
+    {
+        "title": "Quantum algorithm for solving nonlinear differential equations based on\n  physics-informed effective Hamiltonians",
+        "authors": [
+            "Hsin-Yu Wu",
+            "Annie E. Paine",
+            "Evan Philip",
+            "Antonio A. Gentile",
+            "Oleksandr Kyriienko"
+        ],
+        "year": 2025,
+        "abstract": "We propose a distinct approach to solving linear and nonlinear differential\nequations (DEs) on quantum computers by encoding the problem into ground states\nof effective Hamiltonian operators. Our algorithm relies on constructing such\noperators in the Chebyshev space, where an effective Hamiltonian is a sum of\nglobal differential and data constraints. Once the effective Hamiltonian is\nformed, solutions of differential equations can be obtained using the ground\nstate preparation techniques (e.g. imaginary-time evolution and quantum\nsingular value transformation), bypassing variational search. Unlike approaches\nbased on discrete grids, the algorithm enables evaluation of solutions beyond\nfixed grid points and implements constraints in the physics-informed way. Our\nproposal inherits the best traits from quantum machine learning-based DE\nsolving (compact basis representation, automatic differentiation, nonlinearity)\nand quantum linear algebra-based approaches (fine-grid encoding, provable\nspeed-up for state preparation), offering a robust strategy for quantum\nscientific computing in the early fault-tolerant era.",
+        "url": "http://arxiv.org/abs/2504.13174v1"
+    },
+    {
+        "title": "Personalized Text-to-Image Generation with Auto-Regressive Models",
+        "authors": [
+            "Kaiyue Sun",
+            "Xian Liu",
+            "Yao Teng",
+            "Xihui Liu"
+        ],
+        "year": 2025,
+        "abstract": "Personalized image synthesis has emerged as a pivotal application in\ntext-to-image generation, enabling the creation of images featuring specific\nsubjects in diverse contexts. While diffusion models have dominated this\ndomain, auto-regressive models, with their unified architecture for text and\nimage modeling, remain underexplored for personalized image generation. This\npaper investigates the potential of optimizing auto-regressive models for\npersonalized image synthesis, leveraging their inherent multimodal capabilities\nto perform this task. We propose a two-stage training strategy that combines\noptimization of text embeddings and fine-tuning of transformer layers. Our\nexperiments on the auto-regressive model demonstrate that this method achieves\ncomparable subject fidelity and prompt following to the leading diffusion-based\npersonalization methods. The results highlight the effectiveness of\nauto-regressive models in personalized image generation, offering a new\ndirection for future research in this area.",
+        "url": "http://arxiv.org/abs/2504.13162v1"
+    },
+    {
+        "title": "Extending the Mott-Gurney law to one-dimensional nonplanar diodes using\n  point transformations",
+        "authors": [
+            "Allen L. Garner",
+            "N. R. Sree Harsha",
+            "Amanda M. Loveless"
+        ],
+        "year": 2025,
+        "abstract": "Recent studies have applied variational calculus, conformal mapping, and\npoint transformations to generalize the one-dimensional (1D) space-charge\nlimited current density (SCLCD) and electron emission mechanisms to nonplanar\ngeometries; however, these assessments have focused on extending the\nChild-Langmuir law (CLL) for SCLCD in vacuum. Since the charge in the diode is\nindependent of coordinate system (i.e., covariant), we apply bijective point\ntransformations to extend the Mott-Gurney law (MGL) for the SCLCD in a\ncollisional or semiconductor gap to nonplanar 1D geometries. This yields a\nmodified MGL that replaces the Cartesian gap distance with a canonical gap\ndistance that may be written generally in terms of geometric scale factors that\nare known for multiple geometries. We tabulate results for common geometries.\nSuch an approach may be applied to any current density, including\nnon-space-charge limited gaps and SCLCD that may fall between the CLL and MGL.",
+        "url": "http://arxiv.org/abs/2504.13138v1"
+    },
+    {
+        "title": "Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM\n  Integration",
+        "authors": [
+            "Yusi Sun",
+            "Haoyan Guan",
+            "leith Kin Yep Chan",
+            "Yong Hong Kuo"
+        ],
+        "year": 2025,
+        "abstract": "Most adaptive AR storytelling systems define environmental semantics using\nsimple object labels and spatial coordinates, limiting narratives to rigid,\npre-defined logic. This oversimplification overlooks the contextual\nsignificance of object relationships-for example, a wedding ring on a\nnightstand might suggest marital conflict, yet is treated as just \"two objects\"\nin space. To address this, we explored integrating Vision Language Models\n(VLMs) into AR pipelines. However, several challenges emerged: First, stories\ngenerated with simple prompt guidance lacked narrative depth and spatial usage.\nSecond, spatial semantics were underutilized, failing to support meaningful\nstorytelling. Third, pre-generated scripts struggled to align with AR\nFoundation's object naming and coordinate systems. We propose a scene-driven AR\nstorytelling framework that reimagines environments as active narrative agents,\nbuilt on three innovations: 1. State-aware object semantics: We decompose\nobject meaning into physical, functional, and metaphorical layers, allowing\nVLMs to distinguish subtle narrative cues between similar objects. 2.\nStructured narrative interface: A bidirectional JSON layer maps VLM-generated\nmetaphors to AR anchors, maintaining spatial and semantic coherence. 3. STAM\nevaluation framework: A three-part experimental design evaluates narrative\nquality, highlighting both strengths and limitations of VLM-AR integration. Our\nfindings show that the system can generate stories from the environment itself,\nnot just place them on top of it. In user studies, 70% of participants reported\nseeing real-world objects differently when narratives were grounded in\nenvironmental symbolism. By merging VLMs' generative creativity with AR's\nspatial precision, this framework introduces a novel object-driven storytelling\nparadigm, transforming passive spaces into active narrative landscapes.",
+        "url": "http://arxiv.org/abs/2504.13119v1"
+    },
+    {
+        "title": "Supersymmetric Poisson and Poisson-supersymmetric sigma models",
+        "authors": [
+            "Thomas Basile",
+            "Athanasios Chatzistavrakidis",
+            "Sylvain Lavau"
+        ],
+        "year": 2025,
+        "abstract": "We revisit and construct new examples of supersymmetric 2D topological sigma\nmodels whose target space is a Poisson supermanifold. Inspired by the AKSZ\nconstruction of topological field theories, we follow a graded-geometric\napproach and identify two commuting homological vector fields compatible with\nthe graded symplectic structure, which control the gauge symmetries and the\nsupersymmetries of the sigma models. Exemplifying the general structure, we\nshow that two distinguished cases exist, one being the differential Poisson\nsigma model constructed before by Arias, Boulanger, Sundell and Torres-Gomez\nand the other a contravariant differential Poisson sigma model. The new model\nfeatures nonlinear supersymmetry transformations that are generated by the\nPoisson structure on the body of the target supermanifold, giving rise to a\nPoisson supersymmetry. Further examples are characterised by supersymmetry\ntransformations controlled by the anchor map of a Lie algebroid, when this map\nis invertible, in which case we determine the geometric conditions for\ninvariance under supersymmetry and closure of the supersymmetry algebra.\nMoreover, we show that the common thread through this type of models is that\ntheir supersymmetry-generating vector field is the coadjoint representation up\nto homotopy of a Lie algebroid.",
+        "url": "http://arxiv.org/abs/2504.13114v1"
+    },
+    {
+        "title": "RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and\n  CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection\n  in Complex Orchard Environments Under Label Ambiguity",
+        "authors": [
+            "Ranjan Sapkota",
+            "Rahul Harsha Cheppally",
+            "Ajay Sharda",
+            "Manoj Karkee"
+        ],
+        "year": 2025,
+        "abstract": "This study conducts a detailed comparison of RF-DETR object detection base\nmodel and YOLOv12 object detection model configurations for detecting\ngreenfruits in a complex orchard environment marked by label ambiguity,\nocclusions, and background blending. A custom dataset was developed featuring\nboth single-class (greenfruit) and multi-class (occluded and non-occluded\ngreenfruits) annotations to assess model performance under dynamic real-world\nconditions. RF-DETR object detection model, utilizing a DINOv2 backbone and\ndeformable attention, excelled in global context modeling, effectively\nidentifying partially occluded or ambiguous greenfruits. In contrast, YOLOv12\nleveraged CNN-based attention for enhanced local feature extraction, optimizing\nit for computational efficiency and edge deployment. RF-DETR achieved the\nhighest mean Average Precision (mAP50) of 0.9464 in single-class detection,\nproving its superior ability to localize greenfruits in cluttered scenes.\nAlthough YOLOv12N recorded the highest mAP@50:95 of 0.7620, RF-DETR\nconsistently outperformed in complex spatial scenarios. For multi-class\ndetection, RF-DETR led with an mAP@50 of 0.8298, showing its capability to\ndifferentiate between occluded and non-occluded fruits, while YOLOv12L scored\nhighest in mAP@50:95 with 0.6622, indicating better classification in detailed\nocclusion contexts. Training dynamics analysis highlighted RF-DETR's swift\nconvergence, particularly in single-class settings where it plateaued within 10\nepochs, demonstrating the efficiency of transformer-based architectures in\nadapting to dynamic visual data. These findings validate RF-DETR's\neffectiveness for precision agricultural applications, with YOLOv12 suited for\nfast-response scenarios. >Index Terms: RF-DETR object detection, YOLOv12,\nYOLOv13, YOLOv14, YOLOv15, YOLOE, YOLO World, YOLO, You Only Look Once,\nRoboflow, Detection Transformers, CNNs",
+        "url": "http://arxiv.org/abs/2504.13099v1"
+    },
+    {
+        "title": "Proca theory of four-dimensional regularized Gauss-Bonnet gravity and\n  black holes with primary hair",
+        "authors": [
+            "Christos Charmousis",
+            "Pedro G. S. Fernandes",
+            "Mokhtar Hassaine"
+        ],
+        "year": 2025,
+        "abstract": "We introduce a novel, well-defined four-dimensional regularized Gauss-Bonnet\ntheory of gravity by applying a dimensional regularization procedure. The\nresulting theory is a vector-tensor theory within the generalized Proca class.\nWe then consider the static spherically symmetric solutions of this theory and\nfind black hole solutions that acquire primary hair. Notably, one of the\nintegration constants associated with the Proca field is not manifest in the\noriginal metric, but under a disformal transformation of the seed solution, it\nemerges as a second, independent primary hair. This additional hair acts as an\neffective cosmological constant in the disformed geometry, even in the absence\nof a bare cosmological constant term. We further generalize these black hole\nsolutions to include electromagnetic charges and effects related to the\nscalar-tensor counterparts of the regularized Gauss-Bonnet theory. We discuss\nthe implications of our findings to observations.",
+        "url": "http://arxiv.org/abs/2504.13084v1"
+    },
+    {
+        "title": "Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual\n  Try-Off",
+        "authors": [
+            "Riza Velioglu",
+            "Petra Bevandic",
+            "Robin Chan",
+            "Barbara Hammer"
+        ],
+        "year": 2025,
+        "abstract": "Computer vision is transforming fashion through Virtual Try-On (VTON) and\nVirtual Try-Off (VTOFF). VTON generates images of a person in a specified\ngarment using a target photo and a standardized garment image, while a more\nchallenging variant, Person-to-Person Virtual Try-On (p2p-VTON), uses a photo\nof another person wearing the garment. VTOFF, on the other hand, extracts\nstandardized garment images from clothed individuals. We introduce TryOffDiff,\na diffusion-based VTOFF model. Built on a latent diffusion framework with\nSigLIP image conditioning, it effectively captures garment properties like\ntexture, shape, and patterns. TryOffDiff achieves state-of-the-art results on\nVITON-HD and strong performance on DressCode dataset, covering upper-body,\nlower-body, and dresses. Enhanced with class-specific embeddings, it pioneers\nmulti-garment VTOFF, the first of its kind. When paired with VTON models, it\nimproves p2p-VTON by minimizing unwanted attribute transfer, such as skin\ncolor. Code is available at: https://rizavelioglu.github.io/tryoffdiff/",
+        "url": "http://arxiv.org/abs/2504.13078v1"
+    }
+]
