@@ -18,6 +18,7 @@ def search_semantic_scholar(query, limit=100, year_start=2020, year_end=2025):
             break
 
         data = response.json()
+        print(f"Data retrieved: {data}")  # Debugging: Print raw API response
         new_papers = data.get("data", [])
         if not new_papers:
             break

@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Best Machine Learning Model For Face Recognition in Home Security Application",
+        "authors": [
+            "Istiqomah",
+            "Faqih Alam",
+            "Achmad Rizal"
+        ],
+        "year": 2023,
+        "abstract": "Particularly since the COVID-19 outbreak, Indonesia has seen an annual surge in criminal prosecutions. To increase home security, many technological advances have been made. Face recognition served as the main form of security for almost all of them. Face detection, face segmentation, and face recognition are the three steps in the face recognition process. To avoid misclassification and increase system dependability, accurate recognition of faces becomes crucial in security systems. The optimization tool Grid Search CV produces using a number of machine learning methods that are proposed. Each machine learning has been created using its best model and has attained accuracy levels of at least 90%. The most effective strategy is SVM, which has 100% accuracy rates. A technique for choosing the best model is an alternative. The computation time will be compared to that of more complex systems before these results are eventually communicated to the real system",
+        "url": "https://www.semanticscholar.org/paper/58d5bda9ad736ca776842b0ec46c4d1b500bf9f7"
+    },
+    {
+        "title": "IoT-based Smart Home Security System with Machine Learning Models",
+        "authors": [
+            "Selman H\u0131zal",
+            "\u00dc. \u00c7avu\u015fo\u011flu",
+            "Devrim Akg\u00fcn"
+        ],
+        "year": 2024,
+        "abstract": "The Internet of Things (IoT) has various applications in practice, such as smart homes and buildings, traffic management, industrial management, and smart farming. On the other hand, security issues are raised by the growing use of IoT applications. Researchers develop machine learning models that focus on better classification accuracy and decreasing model response time to solve this security problem. In this study, we made a comparative evaluation of machine learning algorithms for intrusion detection systems on IoT networks using the DS2oS dataset. The dataset was first processed to feature extraction using the info gain attribute evaluation feature extraction approach. The original dataset (12 attributes), the dataset (6 attributes) produced using the info gain approach, and the dataset (11 attributes) obtained by eliminating the timestamp attribute was then formed. These datasets were subjected to performance testing using several machine learning methods and test choices (crossfold-10, percentage split). The test performance results are presented, and an evaluation is performed, such as accuracy, precision, recall, and F1 score. According to the test results, it has been observed that high accuracy detection rates are achieved for IoT devices with limited processing power.",
+        "url": "https://www.semanticscholar.org/paper/4d3af3faad653aa11007cde2f92858eff5ac34b4"
+    },
+    {
+        "title": "Enhancing Smart Home Security and Privacy: Integrating Blockchain and Machine Learning",
+        "authors": [
+            "Jianwen Sheng"
+        ],
+        "year": 2024,
+        "abstract": "Abstract. A smart home is a type of home device connected through the Internet of Things (IoT) technology. With the rapid development of IoT applied to smart homes, this brings great convenience to people and also raises some privacy and security issues. As IoT collects privacy and a large amount of data about users that may be stolen by unscrupulous people through some cyberattacks, people are beginning to pay more and more attention to the security of the smart home. Blockchain is a distributed database technology that stores data in the form of blocks and uses cryptographic methods to ensure the security and integrity of the data. And mechanical learning can detect some network attacks. This study proposes a smart home architecture that integrates blockchain technology and mechanical learning. Combining blockchain technology, machine learning, and smart homes can effectively identify some cyber attacks while ensuring privacy and security so that people can take appropriate measures.",
+        "url": "https://www.semanticscholar.org/paper/480dba7bf57a3c793fbf916dee0b8f9bfcd84a4d"
+    }
+]

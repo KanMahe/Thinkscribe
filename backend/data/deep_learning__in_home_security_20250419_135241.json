@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Enhancing Urban Home Security: Deep Learning Enabled Vehicle Identification",
+        "authors": [
+            "S. N. Lokesh",
+            "Yarramallu Sanjit",
+            "Teja Tummalapalli",
+            "Yatham Nitish Reddy",
+            "S. Anand"
+        ],
+        "year": 2024,
+        "abstract": "The growing rate of crimes in cities is a genuine concern these days. Preventing crimes from happening is a need for the city residents and the administrator community. Various technology-enabled solution approaches can be integrated to prevent crimes in cities. In this work, we explore how the amalgamation of Deep Learning and IoT can prevent crimes and provide enhanced security to citizens. Crimes happen for several reasons, and the right technology-enabled solutions can help prevent crimes by alerting the intended stakeholders on time. This paper focuses on the importance of identifying vehicles and the importance of detecting non-resident vehicles to alert the residents and related security personnel about them. We detailed the steps used to identify the vehicle using YOLOv8. The work also explored various OCR tools to find the best one for number plate identification.",
+        "url": "https://www.semanticscholar.org/paper/0835556aecc4da5f37cb8d7aa3daef42670b0c20"
+    },
+    {
+        "title": "Enhanced Approach of Face Recognition in Home Security Using Deep Learning Techniques",
+        "authors": [
+            "D. Anandan",
+            "Sambath Kumar K R",
+            "Sugadev P",
+            "Srihari G A",
+            "S. B"
+        ],
+        "year": 2024,
+        "abstract": "As progressing machine intelligence continues to change differing facets of common history, the integration of AI electronics into home protection systems arises as a hopeful avenue. This paper presents an AI-located home safety solution engaging first recognition science. By leveraging machine intelligence algorithms, the system embellishes usual security measures, contributing a stronger and more efficient wealth of saving residential establishments. Through the reasoning of facial face, bureaucracy can accurately recognize approved things and promptly discover unwarranted access attempts, by helping the safety and solitude of home owners. This paper outlines the design, exercise, and evaluation of the projected AI-located home security arrangement; nephew sizes its influence in checking security risks and providing homeowners accompanying better peace of mind.",
+        "url": "https://www.semanticscholar.org/paper/09923921a5ccb877801953f277fba288162d4fe5"
+    },
+    {
+        "title": "Smart Video Detection: Deep Learning for Enhanced Home Security",
+        "authors": [
+            "A. C. J. Malar",
+            "Dineshkumar M",
+            "Gokul A",
+            "Hemanthkumar M G"
+        ],
+        "year": 2024,
+        "abstract": "Home video recognition autonomous systems based on traditional approach for face image analysis are inherently unable to provide the required real time/intelligent analytics to adapt to contemporary security threats. This project is centered around utilizing smart technology to bolster home security, more specifically with the help of smart video surveillance. This is the system that learns to recognize the faces and objects in home video to alert homeowners when an intruder enters, but without compromising the privacy of its residents. This has initiated a truly human revolution - introducing deep learning algorithms to enable machines to identify intricate patterns from optical data streams. The purpose of this paper is to provide an insight into the disruptive value of deep learning based algorithms including CNN, ResNet50, VGG16 in the field of home security, exposing the limitations of traditional face image analysis techniques and explaining the revolutionary power of new machine learning approaches. Model accuracy in Normal CNN almost up to 99 percent VGG16 Algorithm too up to 95 percent. This vision recognition system is a substantial leap in improvement in security and surveillance.",
+        "url": "https://www.semanticscholar.org/paper/6c668cf201a64185995e86438306fb8bca5fa532"
+    }
+]
