@@ -1,0 +1,60 @@
+[
+    {
+        "title": "A Survey Of Blockchain Security Issues And Challenges",
+        "authors": [],
+        "year": 2022,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/f7ddf5129b392cc23411c2ca28ece3bc0ad682d6"
+    },
+    {
+        "title": "Post-Quantum Blockchain Security for the Internet of Things: Survey and Research Directions",
+        "authors": [
+            "Hadi Gharavi",
+            "J. Granjal",
+            "Edmundo Monteiro"
+        ],
+        "year": 2024,
+        "abstract": "Blockchain is becoming increasingly popular in the business and academic communities because it can provide security for a wide range of applications. Therefore, researchers have been motivated to exploit blockchain characteristics, such as data immutability, transparency, and resistance to single-point failures in the Internet of Things (IoT), to increase the security of the IoT ecosystem. However, many existing blockchains rely on classical cryptosystems such as the Elliptic Curve Digital Signature Algorithm (ECDSA) and SHA-256 to validate transactions, which will be compromised by Shor and Grover\u2019s algorithms running on quantum computers in the foreseeable future. Post-Quantum Cryptosystems (PQC) are an innovative solution for resisting quantum attacks that can be applied to blockchains, resulting in the creation of a new type of blockchain known as Post-Quantum Blockchains (PQB). In this survey, we will look at the different types of PQC and their recent standard primitives to determine whether they can enable security for blockchain-based IoT applications. It also briefly introduces blockchain and outlines recent blockchain-IoT application proposals. To the best of our knowledge, this is the first study to examine how post-quantum blockchains are being developed and how they can be used to create security mechanisms for different IoT applications. Finally, this study explores the main challenges and potential research directions that arise from integrating quantum-resistance blockchains into IoT ecosystems.",
+        "url": "https://www.semanticscholar.org/paper/ef25d76a0c402423b78caa50e10789a4dc0a35ca"
+    },
+    {
+        "title": "Large Language Models for Blockchain Security: A Systematic Literature Review",
+        "authors": [
+            "Zheyuan He",
+            "Zihao Li",
+            "Sen Yang"
+        ],
+        "year": 2024,
+        "abstract": "Large Language Models (LLMs) have emerged as powerful tools across various domains within cyber security. Notably, recent studies are increasingly exploring LLMs applied to the context of blockchain security (BS). However, there remains a gap in a comprehensive understanding regarding the full scope of applications, impacts, and potential constraints of LLMs on blockchain security. To fill this gap, we undertake a literature review focusing on the studies that apply LLMs in blockchain security (LLM4BS). Our study aims to comprehensively analyze and understand existing research, and elucidate how LLMs contribute to enhancing the security of blockchain systems. Through a thorough examination of existing literature, we delve into the integration of LLMs into various aspects of blockchain security. We explore the mechanisms through which LLMs can bolster blockchain security, including their applications in smart contract auditing, transaction anomaly detection, vulnerability repair, program analysis of smart contracts, and serving as participants in the cryptocurrency community. Furthermore, we assess the challenges and limitations associated with leveraging LLMs for enhancing blockchain security, considering factors such as scalability, privacy concerns, and ethical concerns. Our thorough review sheds light on the opportunities and potential risks of tasks on LLM4BS, providing valuable insights for researchers, practitioners, and policymakers alike.",
+        "url": "https://www.semanticscholar.org/paper/cb744211cfc25c476167ee545883151266d9c223"
+    },
+    {
+        "title": "An artificial intelligence lightweight blockchain security model for security and privacy in IIoT systems",
+        "authors": [
+            "Shitharth Selvarajan",
+            "Gautam Srivastava",
+            "Alaa O. Khadidos",
+            "A. Khadidos",
+            "Mohamed Baza",
+            "A. Alshehri",
+            "Chun-Wei Lin"
+        ],
+        "year": 2023,
+        "abstract": "The Industrial Internet of Things (IIoT) promises to deliver innovative business models across multiple domains by providing ubiquitous connectivity, intelligent data, predictive analytics, and decision-making systems for improved market performance. However, traditional IIoT architectures are highly susceptible to many security vulnerabilities and network intrusions, which bring challenges such as lack of privacy, integrity, trust, and centralization. This research aims to implement an Artificial Intelligence-based Lightweight Blockchain Security Model (AILBSM) to ensure privacy and security of IIoT systems. This novel model is meant to address issues that can occur with security and privacy when dealing with Cloud-based IIoT systems that handle data in the Cloud or on the Edge of Networks (on-device). The novel contribution of this paper is that it combines the advantages of both lightweight blockchain and Convivial Optimized Sprinter Neural Network (COSNN) based AI mechanisms with simplified and improved security operations. Here, the significant impact of attacks is reduced by transforming features into encoded data using an Authentic Intrinsic Analysis (AIA) model. Extensive experiments are conducted to validate this system using various attack datasets. In addition, the results of privacy protection and AI mechanisms are evaluated separately and compared using various indicators. By using the proposed AILBSM framework, the execution time is minimized to 0.6\u00a0seconds, the overall classification accuracy is improved to 99.8%, and detection performance is increased to 99.7%. Due to the inclusion of auto-encoder based transformation and blockchain authentication, the anomaly detection performance of the proposed model is highly improved, when compared to other techniques.",
+        "url": "https://www.semanticscholar.org/paper/99773fe8d62c8f38c3deee545b7b2916da77014b"
+    },
+    {
+        "title": "Blockchain-Enabled Security Solutions for Medical Device Integrity and Provenance in Cloud Environments",
+        "authors": [
+            "Omolola Akinola",
+            "Akintunde Akinola",
+            "Bairat Oyekan",
+            "Omowunmi Oyerinde",
+            "Halimat Folashade Adebiyi",
+            "Busola Sulaimon"
+        ],
+        "year": 2024,
+        "abstract": "The current period of medicine using digital technology for patient care presents a new level of integration of monitoring devices with the cloud computing environment that enables the collection, storage and access to data in ways that were never possible earlier. As the obvious part of this development, it is worth noting that the objective of such innovation is mostly on the integrity of data, provenance and security. Data integrity from as well as security of the Internet connected healthcare devices should be assured in the first place to keep patient safety and protect data privacy along with improve data-based decision-making. The centralized system and crowded nature of the current equipment are susceptible to single point of failure, data breach and potential manipulations of data, which raise questions and create doubts with regards data management processes pertaining to medical device systems. This work is addressed to the analysis of a novel security system based on blockchain that guarantees the implementation of a high performance with the solution of two medical device integrity and provenance safety issues in the cloud ecosystem. Fundamentally differentiating from the centralized systems that exist today, blockchain technology that is based on distributed database architectures, immutable logs, and consensus mechanisms provides for a new way to bring reliability and traceability to the entire medical device data chain. The suggested procedure is based on properties of blockchain technology. Such a solution can help to provide a clear and secure audit trail for medical devices. Storing, securing and accessing the device data can be carried out credibly, maintaining these data\u2019s integrity and provenance. Ultimately, the solution, rely on the implementation of smart contracts, cryptocurrency processes, and the confidentiality and privacy of data, can be the answer which make up the practice of secure data sharing, data accessing and complying with regulations. The journal creates a modular system combining Medical devices, a cloud platform, and Blockchain solution. The architecture is intended to display the blockchain network's essential components, data validation and access control, and secure data storage mechanisms. Furthermore, the recommended solution implies state-of- the-art security tools, such as data encryption, access control, and abidance by regulatory systems, including HIPAA and GDPR. Implementation of an actual scenario of the proof-of-concept and performance evaluation are done to show the efficiency and performance of the blockchain-based solution provided. The results suggest that the proposed solution can establish the data reliability level, record all the various versions of modifications, and strengthen the security and transparency of medical device data processing in cloud computing. Through the exploration of the applications of blockchain for medical data management that this study proposes, we are laying the foundations of a future healthcare environment, which is expected to be more secure and trustworthy, where the sensor data of medical devices can be reliably controlled and accessed without jeopardizing the patient's safety or data privacy. To a great extent, the suggested solution can contribute to building trust in the digital tools utilized in health care, leading to more well-informed clinical decisions and ultimately improving the patients' results.",
+        "url": "https://www.semanticscholar.org/paper/b909e90d7ec755d9eebaad29c5c52b50391158fd"
+    }
+]

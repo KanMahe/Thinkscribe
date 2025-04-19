@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Improving Oil Spill Detection in Marine Environments Through Deep Learning Approaches",
+        "authors": [
+            "M. P. Shanmukh",
+            "S. Priya",
+            "TamilSelvi Madeswaran"
+        ],
+        "year": 2024,
+        "abstract": "Oil spills represent a major environmental threat, particularly in marine ecosystems. Timely detection and segmentation of oil spills from satellite imagery is crucial for directing rapid response and remediation efforts.This research concludes with an insights by developing a deep learning approach for automated detection and segmentation of oil spills from synthetic aperture radar (SAR) imagery.This research implements and compares three algorithms PSPNET,DeepLapV3 and fully convolutional networks (FCN) with U-Net for semantic segmentation of SAR images.All the networks are trained on a dataset of SAR images with pixel-wise labels indicating oil spill regions. This research also evaluates the segmentation performance using common metrics like intersection-over-union (IoU) and pixel-wise accuracy. Our results indicate that both FCN and U-Net can effectively detect and delineate oil spill regions, with U-Net demonstrating slightly higher IoU scores and with and accuracy of 95%. The deep learning models generalize well to unseen SAR images. Overall, this work demonstrates the feasibility of deep convolutional neural networks for automated analysis of SAR imagery to enable rapid oil spill response at marine environment.",
+        "url": "https://www.semanticscholar.org/paper/c21b3bcc718d4c3fa3aefa42c88535535a1f1e5d"
+    },
+    {
+        "title": "Internet of Things Based Oil Pipeline Spill Detection System Using Deep Learning and LAB Colour Algorithm",
+        "authors": [
+            "Muhammad H. Obaid",
+            "Ali H. Hamad"
+        ],
+        "year": 2024,
+        "abstract": "Given the role that pipelines play in transporting crude oil, which is considered the basis of the global economy and across different environments, hundreds of studies revolve around providing the necessary protection for it. Various technologies have been employed in this pursuit, differing in terms of cost, reliability, and efficiency, among other factors. Computer vision has emerged as a prominent technique in this field, albeit requiring a robust image-processing algorithm for spill detection. This study employs image segmentation techniques to enable the computer to interpret visual information and images effectively. The research focuses on detecting spills in oil pipes caused by leakage, utilizing images captured by a drone equipped with a Raspberry Pi and Pi camera. These images, along with their global positioning system (GPS) location, are transmitted to the base station using the message queuing telemetry transport Internet of Things (MQTT IoT) protocol. At the base station, deep learning techniques, specifically Holistically-Nested Edge Detection (HED) and extreme inception (Xception) networks, are employed for image processing to identify contours. The proposed algorithm can detect multiple contours in the images. To pinpoint a contour with a black color, representative of an oil spill, the CIELAB color space (LAB) algorithm effectively removes shadow effects. If a contour is detected, its area and perimeter are calculated to determine whether it exceeds a certain threshold. The effectiveness of the proposed system was tested on Iraqi oil pipeline systems, demonstrating its capability to detect spills of different sizes.",
+        "url": "https://www.semanticscholar.org/paper/e2b0f83ae359d82d7f21c730fad26c107fddea59"
+    },
+    {
+        "title": "A Deep Learning Framework for Real-time Oil Spill Detection and Classification (regular paper)",
+        "authors": [
+            "Pranshu Patel",
+            "Kedar Desai Rinkal Jain",
+            "Chintan M. Bhatt",
+            "Steve Vanlanduit",
+            "Alessandro Bruno",
+            "P. Mazzeo"
+        ],
+        "year": 2024,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/bbed6d6f5ff5b8524930343436c5530b8416d1b3"
+    }
+]

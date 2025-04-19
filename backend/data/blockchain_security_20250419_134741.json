@@ -1,0 +1,31 @@
+[
+    {
+        "title": "A Survey Of Blockchain Security Issues And Challenges",
+        "authors": [],
+        "year": 2022,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/f7ddf5129b392cc23411c2ca28ece3bc0ad682d6"
+    },
+    {
+        "title": "Post-Quantum Blockchain Security for the Internet of Things: Survey and Research Directions",
+        "authors": [
+            "Hadi Gharavi",
+            "J. Granjal",
+            "Edmundo Monteiro"
+        ],
+        "year": 2024,
+        "abstract": "Blockchain is becoming increasingly popular in the business and academic communities because it can provide security for a wide range of applications. Therefore, researchers have been motivated to exploit blockchain characteristics, such as data immutability, transparency, and resistance to single-point failures in the Internet of Things (IoT), to increase the security of the IoT ecosystem. However, many existing blockchains rely on classical cryptosystems such as the Elliptic Curve Digital Signature Algorithm (ECDSA) and SHA-256 to validate transactions, which will be compromised by Shor and Grover\u2019s algorithms running on quantum computers in the foreseeable future. Post-Quantum Cryptosystems (PQC) are an innovative solution for resisting quantum attacks that can be applied to blockchains, resulting in the creation of a new type of blockchain known as Post-Quantum Blockchains (PQB). In this survey, we will look at the different types of PQC and their recent standard primitives to determine whether they can enable security for blockchain-based IoT applications. It also briefly introduces blockchain and outlines recent blockchain-IoT application proposals. To the best of our knowledge, this is the first study to examine how post-quantum blockchains are being developed and how they can be used to create security mechanisms for different IoT applications. Finally, this study explores the main challenges and potential research directions that arise from integrating quantum-resistance blockchains into IoT ecosystems.",
+        "url": "https://www.semanticscholar.org/paper/ef25d76a0c402423b78caa50e10789a4dc0a35ca"
+    },
+    {
+        "title": "Large Language Models for Blockchain Security: A Systematic Literature Review",
+        "authors": [
+            "Zheyuan He",
+            "Zihao Li",
+            "Sen Yang"
+        ],
+        "year": 2024,
+        "abstract": "Large Language Models (LLMs) have emerged as powerful tools across various domains within cyber security. Notably, recent studies are increasingly exploring LLMs applied to the context of blockchain security (BS). However, there remains a gap in a comprehensive understanding regarding the full scope of applications, impacts, and potential constraints of LLMs on blockchain security. To fill this gap, we undertake a literature review focusing on the studies that apply LLMs in blockchain security (LLM4BS). Our study aims to comprehensively analyze and understand existing research, and elucidate how LLMs contribute to enhancing the security of blockchain systems. Through a thorough examination of existing literature, we delve into the integration of LLMs into various aspects of blockchain security. We explore the mechanisms through which LLMs can bolster blockchain security, including their applications in smart contract auditing, transaction anomaly detection, vulnerability repair, program analysis of smart contracts, and serving as participants in the cryptocurrency community. Furthermore, we assess the challenges and limitations associated with leveraging LLMs for enhancing blockchain security, considering factors such as scalability, privacy concerns, and ethical concerns. Our thorough review sheds light on the opportunities and potential risks of tasks on LLM4BS, providing valuable insights for researchers, practitioners, and policymakers alike.",
+        "url": "https://www.semanticscholar.org/paper/cb744211cfc25c476167ee545883151266d9c223"
+    }
+]
