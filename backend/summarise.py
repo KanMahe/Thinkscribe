@@ -3,9 +3,13 @@ import re
 import concurrent.futures
 import time
 from ratelimit import limits, sleep_and_retry
+from dotenv import load_dotenv
+
+dotenv_path = Path(__file__).resolve().parent.parent / '.env'
+load_dotenv(dotenv_path=dotenv_path)
 
 # OpenRouter API configuration
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = os.getenv("openrouter_api_key")
 MODEL_ID = "mistralai/mistral-7b-instruct:free"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
