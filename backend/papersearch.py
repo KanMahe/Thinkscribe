@@ -1,5 +1,7 @@
 import requests
-def search_semantic_scholar(query, limit=100, year_start=2020, year_end=2025):
+import logging
+#year limits cant be given cause semantic scholar api doesnt have such filtering available
+def search_semantic_scholar(query, limit=100):
     url = "https://api.semanticscholar.org/graph/v1/paper/search"
     all_papers = []
     offset = 0
@@ -18,7 +20,8 @@ def search_semantic_scholar(query, limit=100, year_start=2020, year_end=2025):
             break
 
         data = response.json()
-        print(f"Data retrieved: {data}")  # Debugging: Print raw API response
+        logging.basicConfig(filename='search_log.txt', encoding='utf-8', level=logging.INFO)
+
         new_papers = data.get("data", [])
         if not new_papers:
             break
