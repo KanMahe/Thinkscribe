@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Next-Gen Mental Health Detection through Deep Learning and NLP in Social Media",
+        "authors": [
+            "Jagan. A",
+            "S. D",
+            "S. Karunakaran",
+            "Nageswari D",
+            "Regina Shoba Dass",
+            "J. Seetha"
+        ],
+        "year": 2024,
+        "abstract": "Social media proliferation promotes new modalities of understanding and intervening in mental health. This paper presents a new approach to mental health detection using some deep learning and natural language processing techniques over social media data. Enriched by extensive textual content shared across social media platforms such as Twitter, Reddit, and Facebook, we propose to design an automated system that can detect traces of mental health conditions like depression, anxiety, and stress. In line with the proposed methodology, Bi-LSTM networks and attention mechanisms shall be applied to exploit linguistic patterns and semantic features from user posts. Such techniques involve the integration of sentiment analysis and topic modelling, which increase the accuracy and contextual comprehension of detected signals. Either way, the system is trained against a curated dataset of annotated social media posts validated further against clinical assessments for strength and reliability, with quite promising preliminary results\u2014 Rubin et al.'s model achieves high precision and recall in mental health indicator detection. The results reinforce that AI-driven tools have an assay of potential in rendering early detection and intervention support, especially for mental illness, which has contributed to improved mental health outcomes globally.",
+        "url": "https://www.semanticscholar.org/paper/d2f49e1e7737efa14781c7eea79c3c8487895345"
+    },
+    {
+        "title": "Natural Language Processing (NLP) for Sentiment Analysis in Social Media",
+        "authors": [
+            "Thomas Joseph"
+        ],
+        "year": 2024,
+        "abstract": "Purpose: This study sought to analyze Natural Language Processing (NLP) for sentiment analysis in social media. \nMethodology: The study adopted a desktop research methodology. Desk research refers to secondary data or that which can be collected without fieldwork. Desk research is basically involved in collecting data from existing resources hence it is often considered a low cost technique as compared to field research, as the main cost is involved in executive\u2019s time, telephone charges and directories. Thus, the study relied on already published studies, reports and statistics. This secondary data was easily accessed through the online journals and library. \nFindings: The findings reveal that there exists a contextual and methodological gap relating to Natural Language Processing (NLP) for sentiment analysis in social media. Preliminary empirical review revealed that advanced computational techniques significantly advanced the understanding of sentiments across diverse social media platforms. Methodologies such as machine learning algorithms and deep learning models like CNNs and RNNs demonstrated robust capabilities in categorizing sentiments accurately and capturing contextual nuances such as sarcasm and slang. The research highlighted the interdisciplinary nature of NLP applications, integrating linguistics with computer science and social sciences to develop effective frameworks for analyzing large-scale social media data. These findings contributed to enhancing decision-making in marketing, politics, and public opinion research, pointing towards future directions in hybrid NLP models for improved sentiment analysis across different languages and cultural contexts. \nUnique Contribution to Theory, Practice and Policy: The Social Constructionism, Cognitive Linguistics and Discourse Analysis Theory may be used to anchor future studies on Natural Language Processing (NLP). The recommendations aimed to advance theoretical foundations by exploring deep learning models and nuanced sentiment lexicons. Practical applications were enhanced through the development of scalable NLP tools for real-time data processing and integration into social media platforms. Policy implications focused on establishing ethical guidelines for data privacy and bias mitigation in sentiment analysis algorithms. Cross-disciplinary collaboration fostered innovation by integrating insights from computer science, linguistics, psychology, and social sciences. Education initiatives and international collaborations were prioritized to build capacity and standardize methodologies globally, ensuring advancements in both research and practical deployment of sentiment analysis technologies.",
+        "url": "https://www.semanticscholar.org/paper/37552b6373256d33fdf007bc000e017ba116ac74"
+    },
+    {
+        "title": "A Study of NLP and AI-Driven Online Text-to-Video Generation Platforms in Social Media",
+        "authors": [
+            "Gaganpreet Kaur",
+            "Pratibha"
+        ],
+        "year": 2024,
+        "abstract": "The rapid growth of the Internet has introduced various online video production platforms that facilitate content creation for small businesses, education, and social media. However, selecting the right platform based on user needs remains challenging due to varying features and limitations. This study aims to address this challenge by conducting a comparative analysis of five popular text-to-video generation platforms: Pictory, Lumen5, Invideo, Design.ai, and Synthesia. We analyze these platforms based on features such as free trial versions, supported languages, media libraries, and customization options. The contribution of this paper lies in providing a structured comparison to assist users in selecting appropriate platforms for their content creation needs. Additionally, this study explores how Natural Language Processing (NLP) and AI-driven technologies enhance automatic video generation, highlighting the strengths and limitations of each platform for different use cases, such as social media, education, and business.",
+        "url": "https://www.semanticscholar.org/paper/a601b7955e1ed47c998231cb1ae31035d030343d"
+    }
+]

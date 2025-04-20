@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Blockchain in Agriculture Traceability Systems: A Review",
+        "authors": [
+            "K. Demestichas",
+            "N. Peppes",
+            "T. Alexakis",
+            "Evgenia F. Adamopoulou"
+        ],
+        "year": 2020,
+        "abstract": "Food holds a major role in human beings\u2019 lives and in human societies in general across the planet. The food and agriculture sector is considered to be a major employer at a worldwide level. The large number and heterogeneity of the stakeholders involved from different sectors, such as farmers, distributers, retailers, consumers, etc., renders the agricultural supply chain management as one of the most complex and challenging tasks. It is the same vast complexity of the agriproducts supply chain that limits the development of global and efficient transparency and traceability solutions. The present paper provides an overview of the application of blockchain technologies for enabling traceability in the agri-food domain. Initially, the paper presents definitions, levels of adoption, tools and advantages of traceability, accompanied with a brief overview of the functionality and advantages of blockchain technology. It then conducts an extensive literature review on the integration of blockchain into traceability systems. It proceeds with discussing relevant existing commercial applications, highlighting the relevant challenges and future prospects of the application of blockchain technologies in the agri-food supply chain.",
+        "url": "https://www.semanticscholar.org/paper/bc552f33c8761b8e8704dce814334fc9b4108045"
+    },
+    {
+        "title": "Survey on the Applications of Blockchain in Agriculture",
+        "authors": [
+            "Krithika L.B."
+        ],
+        "year": 2022,
+        "abstract": "Dating back many millennia, agriculture is an ancient practice in the evolution of civilization. It was developed when humans thought about it and concluded that not everyone in the community was required to produce food. Instead, specialized labor, tools, and techniques could help people achieve surplus food for their community. Since then, agriculture has continuously evolved across the ages and has occupied a vital, synergistic position in the existence of humanity. The evolution of agriculture was based on a compulsion to feed the growing population, and, importantly, maintain the quality and traceability of food, prevent counterfeit products, and modernize and optimize yield. Recent trends and advancements in blockchain technology have some significant attributes that are ideal for agriculture. The invention and implementation of blockchain have caused a fair share of positive disruptions and evolutionary adoption in agriculture to modernize the domain. Blockchain has been adopted at various stages of the agriculture lifecycle for improved evolution. This work presents an intense survey of the literature on how blockchain has positively impacted and continues to influence various market verticals in agriculture, the challenges and the future.",
+        "url": "https://www.semanticscholar.org/paper/a33f15792fad7cffa12de073fe91ed8dba84564d"
+    },
+    {
+        "title": "Blockchain in Agriculture to Ensure Trust, Effectiveness, and Traceability from Farm Fields to Groceries",
+        "authors": [
+            "Arvind Panwar",
+            "Manju Khari",
+            "Sanjay Misra",
+            "Urvashi Sugandh"
+        ],
+        "year": 2023,
+        "abstract": "Despite its status as one of the most ancient sectors worldwide, agriculture continues to be a fundamental cornerstone of the global economy. Nevertheless, it faces obstacles such as a lack of trust, difficulties in tracking, and inefficiencies in managing the supply chain. This article examines the potential of blockchain technology (BCT) to alter the agricultural industry by providing a decentralized, transparent, and unchangeable solution to meet the difficulties it faces. The initial discussion provides an overview of the challenges encountered by the agricultural industry, followed by a thorough analysis of BCT, highlighting its potential advantages. Following that, the article explores other agricultural uses for blockchain technology, such as managing supply chains, verifying products, and processing payments. In addition, this paper examines the constraints and challenges related to the use of blockchain technology in agriculture, including issues such as scalability, legal frameworks, and interoperability. This paper highlights the potential of BCT to transform the agricultural industry by offering a transparent and secure platform for managing the supply chain. Nevertheless, it emphasizes the need for involving stakeholders, having clear legislation, and possessing technical skills in order to achieve effective implementation. This work utilizes a systematic literature review using the PRISMA technique and applies meta-analysis as the research methodology, enabling a thorough investigation of the present information available. The results emphasize the significant and positive effect of BCT on agriculture, emphasizing the need for cooperative endeavors among governments, industry pioneers, and technology specialists to encourage its extensive implementation and contribute to the advancement of a sustainable and resilient food system.",
+        "url": "https://www.semanticscholar.org/paper/a3a99c7dd053efd8da48000c1194fec07a70cc0f"
+    }
+]

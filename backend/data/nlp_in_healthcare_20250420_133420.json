@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Medical Symptom Text Classification through NLP in Healthcare",
+        "authors": [
+            "Roji",
+            "Dr. Deepak Kumar"
+        ],
+        "year": 2024,
+        "abstract": "Abstract: Medical symptom text classification through Natural Language Processing (NLP) is a rapidly evolving field that aims to leverage computational techniques to analyse and interpret vast amounts of textual data generated in healthcare settings. This paper provides a comprehensive survey of current methodologies, applications, challenges, and future directions in this domain. We begin by discussing the importance of symptom classification for improving patient outcomes, supporting clinical decisionmaking, and enhancing disease surveillance. We then review traditional machine learning approaches and advanced deep learning models, highlighting their respective strengths and limitations. Key pre-processing techniques crucial for handling medical jargon and ensuring data privacy are also examined. The paper further explores real-world applications, including clinical decision support systems, disease outbreak detection, and patient monitoring. Despite significant advancements, challenges such as data quality, model interpretability, and regulatory compliance remain. Finally, we identify emerging trends and potential future developments that could drive further innovation in NLP for healthcare. This survey aims to provide a valuable resource for researchers and practitioners seeking to understand and contribute to the field of medical symptom text classification.",
+        "url": "https://www.semanticscholar.org/paper/7587fc86c37e3fb26bea52780c1b22b6b4536241"
+    },
+    {
+        "title": "An Overview of Natural Language Processing (NLP) in Healthcare: Implications for English Language Teaching",
+        "authors": [
+            "Dr. Jibin Francis",
+            "Dr. M. Subha"
+        ],
+        "year": 2024,
+        "abstract": "Artificial intelligence has made tremendous impact in every aspect of the world. It is being widely used in every field to generate desirable outcomes within stipulated time-frame with efficacy and accuracy. The healthcare industry has been one of the main beneficiaries of Natural Language Processing (NLP) a subfield of the artificial intelligence (AI). This research study deals with the connection between NLP and healthcare with a special emphasis on how it impacts English language training (ELT). Natural Language Processing has definitely made enormous positive impacts in the field of healthcare. The application of Natural Language Processing (NLP) in healthcare has changed patient care, lowered administrative costs, and enabled medical research by enabling sophisticated text and speech recognition, sentiment analysis, and machine translation. These developments in NLP technology, particularly in the field of medical English, which is crucial for medical professionals working in global settings, provide important insights and potential applications in ELT. The language and its usage vary in every field in accordance with the situation. Thus, each variety of English language like Business English, Technical English, Aviation English and so on is unique and the right use of those varieties makes communication better and accurate. This paper investigates how learning environments that are customized to the requirements of individual students can be created using natural language processing (NLP).",
+        "url": "https://www.semanticscholar.org/paper/37e41c954f6e52fe20b4a90369ab7920e354ef86"
+    },
+    {
+        "title": "A Human-centric Approach to NLP in Healthcare Applications",
+        "authors": [
+            "Han-Chin Shing"
+        ],
+        "year": 2021,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/cf18c9d40e4c264784e825e946a2e6756bab282f"
+    },
+    {
+        "title": "A Comprehensive Review of AI in Healthcare: Exploring Neural Networks in Medical Imaging, LLM-Based Interactive Response Systems, NLP-Based EHR Systems, Ethics, and Beyond",
+        "authors": [
+            "Neha P. Sathe",
+            "Vaibhav Deodhe",
+            "Yash Sharma",
+            "Anand Shinde"
+        ],
+        "year": 2023,
+        "abstract": "The AI-based technologies used in healthcare systems have witnessed significant growth and innovation, as this growth is attributed to innovations in AI and rise in data collection in the healthcare sector. This survey paper provides a comprehensive overview of the diverse technological advancements reshaping the healthcare landscape. The reviewed topics include Medical Image Interpretation using Deep Learning, Generative AI-based Large Language Models (LLMs), Natural Language Processing for Healthcare Records to give a sense of what AI based systems look like in healthcare. For each of these topics, we've delved into their technical aspects and their applications. Through an overview of these cutting-edge technologies, this research aims to shed light on their current state, challenges, and potential implications for the future of health care. From enhancing diagnostics to improving patient care and accessibility, AI is poised to play pivotal roles in shaping the healthcare industry for years to come. Furthermore, this survey also delves into the ethical considerations surrounding these technologies.",
+        "url": "https://www.semanticscholar.org/paper/a9eab711118774d1b897f70cbb0f420da144fe85"
+    },
+    {
+        "title": "Clinical Text Classification in Healthcare: Leveraging BERT for NLP",
+        "authors": [
+            "A. K. Rai",
+            "U. Aswal",
+            "Suresh Kumar Muthuvel",
+            "A. Sankhyan",
+            "S. L. Chari",
+            "A. K. Rao"
+        ],
+        "year": 2023,
+        "abstract": "The use of the Bidirectional Encoder Representations from Transformers (BERT) model for clinical text classification in the healthcare industry is investigated in this study. Using a descriptive design and secondary data collection, the study takes a deductive approach and interpretivism as its guiding philosophy. The results, which emphasize accuracy and interpretability, demonstrate BERT's superior efficacy over conventional methods. Its revolutionary effect on healthcare analytics is demonstrated by comparative analysis. The significance of smooth integration, ongoing improvement, and ethical considerations is highlighted by knowledge about practical application. Subsequent research endeavors ought to concentrate on refining domain-specific fine-tuning, improving user interfaces, investigating decentralized learning strategies, and maximizing BERT for resource utilization.",
+        "url": "https://www.semanticscholar.org/paper/50518a04f0e1ee4f9e9c28eaa21c2f76099b5e41"
+    }
+]

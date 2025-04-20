@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Integration of Reinforcement Learning in Industrial Pick-and-Place Robotics",
+        "authors": [
+            "Noor Ul Ain Mushtaq",
+            "Sanam Narejo",
+            "Madeha Memon",
+            "Fahad Ahmed Korai",
+            "Azhar Abbas",
+            "Sahil Jatoi"
+        ],
+        "year": 2024,
+        "abstract": "Industrial robots have significantly transformed manufacturing processes and are increasingly revolutionizing sectors such as logistics, healthcare, agriculture, and construction by enhancing efficiency, quality, and safety, making them indispensable tools for modern industries. Industrial pick-and-place robotics, while significantly advancing, still faces several challenges like Object variability, Environmental factors, Task complexity, Precision and speed. Reinforcement learning (RL) offers a transformative approach to industrial pick-and-place robotics, addressing the limitations of traditional, pre-programmed methods. In order to overcome these challenges, the present research explores how reinforcement learning (RL) may assist robots to determine optimal picking and placing techniques without requiring explicit programming. We developed a framework that employs deep reinforcement learning (DRL) to create an autonomous pick-and-place system. Using Gazebo and ROS, we designed a simulated environment where the robotic arm is trained with Proximal Policy Optimization (PPO) and Deep Q-Network (DQN) algorithms.",
+        "url": "https://www.semanticscholar.org/paper/7cd491547b739d2f4c9542f81482eff609647bf1"
+    },
+    {
+        "title": "Deep Reinforcement Learning Based Flow Aware\u2010QoS Provisioning in SD\u2010IoT for Precision Agriculture",
+        "authors": [
+            "Mohammed J. F. Alenazi",
+            "M. A. Al-Khasawneh",
+            "Saeedur Rahman",
+            "Z. Faheem"
+        ],
+        "year": 2025,
+        "abstract": "To meet the demands of modern technologies such as 5G, big data, edge computing, precision, and sustainable agriculture, the combination of Internet\u2010of\u2010Things (IoT) with software\u2010defined networking (SDN) known as SD\u2010IoT is suggested to automate the network by leveraging the programmable and centralized SDN interfaces. The previous literature has suggested quality\u2010of\u2010service (QoS) aware flow processing using manual strategies or heuristic algorithms, however, these schemes proposed with white\u2010box approaches do not provide effective results as the network scales or dynamic changes are happening. This article proposes a novel QoS provision strategy using deep reinforcement learning (DRL) to calculate the optimal routes autonomously for SD\u2010IoT traffic. To satisfy the different demands of flows in the SD\u2010IoT network the flows are divided into two types. Hence, based on their service demand the routes are generated for them as per service request. The scenario is explained with precision agriculture based on SD\u2010IoT and results are compared with benchmark strategies. A real internet topology is used for the evaluation of results. The results indicated that the proposed method gives improvements for QoS such as delay, throughput, packet loss rate, and jitter compared with benchmark models.",
+        "url": "https://www.semanticscholar.org/paper/b738190f3093485a4d5daec3c2f336e3d92beef9"
+    }
+]
