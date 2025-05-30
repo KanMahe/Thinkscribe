@@ -172,7 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 
 #ignore the environment variable
 .env
 backend\.env
+=======
+>>>>>>> a58e416600af07bed57db814fd9a5a8518198aa0
