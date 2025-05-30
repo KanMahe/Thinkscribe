@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Deepfake DEEPFAKE AND AI-GENERATED IMAGE DETECTION SYSTEM",
+        "authors": [
+            "Iskand Wadhwa",
+            "Yash Choudhary",
+            "Prerna Chauhan",
+            "Anjali Singh",
+            "S. Sathua",
+            "Shaffy Bains"
+        ],
+        "year": 2025,
+        "abstract": "The rapid advancement of deep learning and gen-\nerative artificial intelligence (AI) has led to the proliferation of\ndeepfake and AI-generated images, posing significant challenges\nto digital media integrity, security, and trust. These technologies,\nwhile beneficial in creative and entertainment domains, have\nalso been exploited for malicious purposes, including misinfor-\nmation, identity theft, and fraud. To address these concerns,\nthis research proposes a robust and scalable Deepfake and\nAI-Generated Image Detection System. Leveraging state-of-the-\nart machine learning techniques, including convolutional neural\nnetworks (CNNs), generative adversarial network (GAN) dis-\ncriminators, and transformer-based architectures, the system is\ndesigned to identify subtle artifacts and inconsistencies inherent\nin synthetic media. The proposed framework incorporates multi-\nmodal analysis, combining visual, spatial, and frequency-domain\nfeatures to enhance detection accuracy. Additionally, the system\nis trained on a diverse and comprehensive dataset comprising\nboth publicly available and custom-generated deepfake and\nAI-generated images to ensure generalizability across various\nmanipulation techniques. Experimental results demonstrate the\nsystem\u2019s effectiveness in achieving high precision and recall rates,\noutperforming existing detection methods. This research con-\ntributes to the ongoing efforts to combat digital misinformation\nand uphold the authenticity of visual media in the age of AI.",
+        "url": "https://www.semanticscholar.org/paper/238b9b8e08de6f6938042798fcfdd3b6f10ad845"
+    },
+    {
+        "title": "Rethinking the Up-Sampling Operations in CNN-Based Generative Network for Generalizable Deepfake Detection",
+        "authors": [
+            "Chuangchuang Tan",
+            "Huan Liu",
+            "Yao Zhao",
+            "Shikui Wei",
+            "Guanghua Gu",
+            "Ping Liu",
+            "Yunchao Wei"
+        ],
+        "year": 2024,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/7e3b3d82df3c22cb90f10921f28c2a3f6c07e77f"
+    }
+]

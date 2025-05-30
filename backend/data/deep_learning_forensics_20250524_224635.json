@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Enhancing Phishing Detection: A Novel Hybrid Deep Learning Framework for Cybercrime Forensics",
+        "authors": [
+            "Faisal S. Alsubaei",
+            "A. Almazroi",
+            "N. Ayub"
+        ],
+        "year": 2024,
+        "abstract": "Protecting against interference is essential at a time when wireless communications are essential for sending large amounts of data. Our research presents a novel deep learning technique, the ResNeXt method and embedded Gated Recurrent Unit (GRU) model (RNT), rigorously developed for real-time phishing attack detection. Focused on countering the escalating threat of phishing assaults and bolstering digital forensics, our systematic approach involves SMOTE for managing data imbalance during initial data processing. The model\u2019s discriminative capability is improved, particularly in the feature extraction process, when autoencoders and ResNet (EARN) are integrated with feature engineering. The ensemble technique of feature extraction reveals crucial data patterns. At the core of our AI categorization is the RNT model, optimized using hyperparameters through the Jaya optimization method (RNT-J). Rigorously tested on real phishing attack datasets, our AI model consistently outperforms state-of-the-art algorithms by a substantial margin of 11% to 19% while maintaining exceptional computing efficiency. Furthermore, our model achieves 98% accuracy, low false positive/false negative values, and a statistical execution time with a mean of 36.99s, median of 35.99s, minimum of 34.99s, maximum of 41.99s, and a standard deviation of 1.10s. Moreover, it demonstrates superior accuracy with SMOTE (98%) and without SMOTE (83%) compared to other algorithms. This state-of-the-art AI study, which focuses on digital forensics, offers enhanced security and optimized productivity for businesses and industries, signifying a breakthrough in the continuing battle against phishing attempts. Through strengthening protection against interference in wireless communication, our AI research strives to amplify data accessibility, resilience, and trustworthiness in the face of cybersecurity threats within the organizational context.",
+        "url": "https://www.semanticscholar.org/paper/f23b2b7ee30e1eada6ccf8e89325abcc2c1f1406"
+    },
+    {
+        "title": "Integrating Blockchain and Deep Learning for Enhanced Mobile VPN Forensics: A Comprehensive Framework",
+        "authors": [
+            "S. Alqahtany",
+            "Toqeer Ali Syed"
+        ],
+        "year": 2024,
+        "abstract": "In an era marked by technological advancement, the rising reliance on Virtual Private Networks (VPNs) necessitates sophisticated forensic analysis techniques to investigate VPN traffic, especially in mobile environments. This research introduces an innovative approach utilizing Convolutional Neural Networks (CNNs) and Graph Neural Networks (GNNs) for classifying VPN traffic, aiding forensic investigators in precisely identifying applications or websites accessed via VPN connections. By leveraging the combined strengths of CNNs and GNNs, our method provides an effective solution for discerning user activities during VPN sessions. Further extending this framework, we incorporate blockchain technology to meticulously record all mobile VPN transactions, ensuring a tamper-proof and transparent ledger that significantly bolsters the integrity and admissibility of forensic evidence in legal scenarios. A specific use-case demonstrates this methodology in mobile forensics, where our integrated approach not only accurately classifies data traffic but also securely logs transactional details on the blockchain, offering an unprecedented level of detail and reliability in forensic investigations. Extensive real-world VPN dataset experiments validate our approach, highlighting its potential to achieve high accuracy and offering invaluable insights for both technological and legal domains in the context of mobile VPN usage.",
+        "url": "https://www.semanticscholar.org/paper/7812763c0a9a60d394e6731a5732efc2b0fef42d"
+    },
+    {
+        "title": "BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense",
+        "authors": [
+            "Siyuan Cheng",
+            "Guanhong Tao",
+            "Yingqi Liu",
+            "Shengwei An",
+            "Xiangzhe Xu",
+            "Shiwei Feng",
+            "Guangyu Shen",
+            "Kaiyuan Zhang",
+            "Qiuling Xu",
+            "Shiqing Ma",
+            "Xiangyu Zhang"
+        ],
+        "year": 2023,
+        "abstract": "Deep Learning backdoor attacks have a threat model similar to traditional cyber attacks. Attack forensics, a critical counter-measure for traditional cyber attacks, is hence of importance for defending model backdoor attacks. In this paper, we propose a novel model backdoor forensics technique. Given a few attack samples such as inputs with backdoor triggers, which may represent different types of backdoors, our technique automatically decomposes them to clean inputs and the corresponding triggers. It then clusters the triggers based on their properties to allow automatic attack categorization and summarization. Backdoor scanners can then be automatically synthesized to find other instances of the same type of backdoor in other models. Our evaluation on 2,532 pre-trained models, 10 popular attacks, and comparison with 9 baselines show that our technique is highly effective. The decomposed clean inputs and triggers closely resemble the ground truth. The synthesized scanners substantially outperform the vanilla versions of existing scanners that can hardly generalize to different kinds of attacks.",
+        "url": "https://www.semanticscholar.org/paper/632d1a42f2632f6c418296f059e323761f36b280"
+    }
+]

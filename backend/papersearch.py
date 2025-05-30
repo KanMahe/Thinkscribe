@@ -1,43 +1,53 @@
+# backend/papersearch.py
+
 import requests
-import logging
-#year limits cant be given cause semantic scholar api doesnt have such filtering available
-def search_semantic_scholar(query, limit=100):
-    url = "https://api.semanticscholar.org/graph/v1/paper/search"
+import xml.etree.ElementTree as ET
+from datetime import datetime
+
+def search_arxiv(query: str, limit: int = 100):
+    """
+    Search arXiv for papers matching `query`, return up to `limit` results
+    as a list of dicts with keys: title, authors, abstract, year, url.
+    """
+    base_url = "http://export.arxiv.org/api/query"
     all_papers = []
-    offset = 0
 
-    while len(all_papers) < limit:
-        batch_size = min(100, limit - len(all_papers))
+    batch_size = 100
+    for start in range(0, limit, batch_size):
+        max_results = min(batch_size, limit - start)
         params = {
-            "query": query,
-            "limit": batch_size,
-            "offset": offset,
-            "fields": "title,authors,year,abstract,url",
+            "search_query": f"all:{query}",
+            "start": start,
+            "max_results": max_results
         }
+        resp = requests.get(base_url, params=params, timeout=10)
+        resp.raise_for_status()
 
-        response = requests.get(url, params=params)
-        if response.status_code != 200:
+        root = ET.fromstring(resp.text)
+        ns = {"atom": "http://www.w3.org/2005/Atom"}
+        entries = root.findall("atom:entry", ns)
+        if not entries:
             break
 
-        data = response.json()
-        logging.basicConfig(filename='search_log.txt', encoding='utf-8', level=logging.INFO)
+        for entry in entries:
+            title = entry.find("atom:title", ns).text.strip()
+            abstract = entry.find("atom:summary", ns).text.strip()
+            pub = entry.find("atom:published", ns).text
+            year = datetime.strptime(pub, "%Y-%m-%dT%H:%M:%SZ").year
 
-        new_papers = data.get("data", [])
-        if not new_papers:
+            authors = [a.find("atom:name", ns).text for a in entry.findall("atom:author", ns)]
+            url = entry.find("atom:id", ns).text
+
+            all_papers.append({
+                "title": title,
+                "authors": authors,
+                "year": year,
+                "abstract": abstract,
+                "techniques": [],
+                "url": url
+            })
+
+        if len(all_papers) >= limit:
             break
 
-        for item in new_papers:
-            paper = {
-                "title": item.get("title", "N/A"),
-                "authors": [author.get("name") for author in item.get("authors", [])],
-                "year": item.get("year", "N/A"),
-                "abstract": item.get("abstract", "No abstract available."),
-                "url": item.get("url", "N/A")
-            }
-            all_papers.append(paper)
-
-        offset += batch_size
-
-    return all_papers
-
-
+    return all_papers[:limit]

@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Deepfake Video Detection Using Recurrent Neural Networks",
+        "authors": [
+            "David G\u00fcera",
+            "Edward J. Delp"
+        ],
+        "year": 2018,
+        "abstract": "In recent months a machine learning based free software tool has made it easy to create believable face swaps in videos that leaves few traces of manipulation, in what are known as \"deepfake\" videos. Scenarios where these realistic fake videos are used to create political distress, blackmail someone or fake terrorism events are easily envisioned. This paper proposes a temporal-aware pipeline to automatically detect deepfake videos. Our system uses a convolutional neural network (CNN) to extract frame-level features. These features are then used to train a recurrent neural network (RNN) that learns to classify if a video has been subject to manipulation or not. We evaluate our method against a large set of deepfake videos collected from multiple video websites. We show how our system can achieve competitive results in this task while using a simple architecture.",
+        "url": "https://openalex.org/W2911424785"
+    }
+]

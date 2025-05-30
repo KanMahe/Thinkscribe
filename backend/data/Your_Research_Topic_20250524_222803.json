@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Sources of Research Topic Generation: Lessons From Proficient\n Researchers of Business Management Disciplines",
+        "authors": [
+            "Adrian France"
+        ],
+        "year": 2019,
+        "abstract": "Abstract: Journal publications are an output of research\n though there is little research into the process that led to the\n outcome and the lack of discussion and debate surrounding the\n process leads to an allure of mysticism. This paper studies the\n norms of research through investigating how successful business\n researchers choose their research topics. In\u2011depth semi\u2011structured\n interviews were conducted with business researchers. Generating\n topic ideas by successful researchers were separated into two\n general sources: \u2018Professional Capacity\u2019 and \u2018Individual\n Motivators\u2019. The main Professional Capacity sources were students\n and previous research. These Professional Capacity sources can be\n used by an established researcher. The most valuable Individual\n Motivator is to read. Researchers also revealed that they chose\n topics they found intrinsically interesting rather than topics that\n would necessary have a significant impact on the literature. To\n achieve research and publication success, it is important to make\n research part of your routine and read, attend conferences, submit\n your work for review, and persevere.",
+        "url": "https://www.semanticscholar.org/paper/7d10298706891c3e4f0a2041b4e7d6dfb2a4624b"
+    },
+    {
+        "title": "Autophagy: research topic, painting, poem, dance\u2026",
+        "authors": [
+            "D. Klionsky"
+        ],
+        "year": 2015,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/778f99c15390d10d22490ad31dd102bb2163d302"
+    },
+    {
+        "title": "Supporting Your Idea Reasonably: A Knowledge-Aware Topic Reasoning Strategy for Citation Recommendation",
+        "authors": [
+            "Likang Wu",
+            "Zhi Li",
+            "Hongke Zhao",
+            "Zhenya Huang",
+            "Yongqiang Han",
+            "Junji Jiang",
+            "Enhong Chen"
+        ],
+        "year": 2024,
+        "abstract": "With the explosive growth of scholarly information, researchers spend much time and effort copiously quoting authoritative works to support their ideas or motivations. We aim to alleviate this situation by proposing a citation recommendation strategy that recalls related papers for a rough idea (a piece of text, i.e., abstract, manuscript). However, the perspective of existing citation recommendations can not be well applied to our task for two defects. First, these methods neglect the reasoning of research topics, which makes the recommendation mechanism not meticulous enough and lacks explainability. For instance, they are not able to mine the hidden citing logic for the candidate paper while recommending. We fill the research gap by constructing structural topics consisting of knowledge concepts from the textual content, where reasoning paths between topics are extracted from an external knowledge graph. Second, the citation network is viewed as a crucial structural context to enhance the recommendation performance, but the new target idea does not have links to the citation network as published papers do. To simulate the prospective topological structure, our model, meanwhile, incorporates a contrastive-learning-based alignment paradigm to encourage the consistency of content embeddings and structure-oriented embeddings. We evaluate our proposed model on three real-world datasets and demonstrate that it significantly improves recommendation accuracy while providing high-quality knowledge-aware reasoning. And an interesting visual example illustrates the reasoning process when our model actually judges samples, which supports the feasibility of our topic-view learning paradigm.",
+        "url": "https://www.semanticscholar.org/paper/68f81c9aa9de699bddae940fabb4b6c8dbb005c5"
+    },
+    {
+        "title": "Feature Topic at Organizational Research Methods",
+        "authors": [
+            "Sven Kunisch",
+            "Markus Menz",
+            "J. Bartunek",
+            "Laura B. Cardinal",
+            "D. Denyer"
+        ],
+        "year": 2018,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/3f4c6c35ba6ad630e5cd7fdf4c4faea2a09c818d"
+    },
+    {
+        "title": "Research Methods for Business Students",
+        "authors": [
+            "M. Saunders",
+            "P. Lewis",
+            "A. Thornhill"
+        ],
+        "year": 2006,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/bef028d7d7fcb4705c24451304b089f4912920d4"
+    },
+    {
+        "title": "Turning Your Research Idea into a Proposal Worth Funding.",
+        "authors": [
+            "S. Kanji"
+        ],
+        "year": 2015,
+        "abstract": "Great ideas for clinical research often originate at the bedside when clinicians are forced to make a decision about a patient\u2019s care, but an absence of published evidence complicates the decision-making process. This is typically how gaps in the literature are identified and translated into opportunities for clinical research. This scenario happens on a daily basis, possibly many times per day, in every clinical discipline. Most of these ideas will not be worthy of the time and effort required to develop and conduct a research project, but a few will come up often enough to warrant further consideration. This consideration requires self-assessment of your level of interest in the topic; assessment of the clinical need for new data and the feasibility and logistics of actually conducting the study; and assessment of local resources available to do the research. It is highly unusual to identify meaningful projects for which all the necessary resources are readily available, but the need to obtain external funding may be seen as a roadblock for novice researchers. A study that requires funding should be viewed not as a closed door to researchers new to the world of grantsmanship but rather as a necessary step that will increase the chances of research success and validate the importance of the project.",
+        "url": "https://www.semanticscholar.org/paper/fb1a342bafd048467d75a4d0e45f10a2531fb67a"
+    },
+    {
+        "title": "Creative Research",
+        "authors": [
+            "H. Collins"
+        ],
+        "year": 2025,
+        "abstract": "The essential step-by-step guide for artists and designers undertaking research, now with new sections on visual research and data analysis.\n Academic research in practical design and the creative industries can seem daunting. In this updated edition ofCreative Research, Hilary Collins walks you through the process of creating a great research project from both practice-based and theoretical perspectives.\n The perfect companion for researchers or students within the creative industries, this easy-to-follow guide covers: - Choosing a topic - Deciding your approach - Using previous research and writing a literature review - Obtaining your own data and using it appropriately - Best practice, through examples and case studies\n This edition also includes new sections on speculative design, design thinking and iterative fieldwork, as well as expanded coverage of data analysis vs data synthesis, using analytics data, usability testing, developing visual research and sense-making and discourse analysis.\n With advice on everything from time management and project structuring to ethnography and ethics, as well as helpful diagrams, case studies and summaries throughout, Collins marries theory and practice from start to finish to help you confidently embark on your creative research project.",
+        "url": "https://www.semanticscholar.org/paper/e1abe1e4aebe898559efefae96d2266cc49463b5"
+    },
+    {
+        "title": "Planning your Research",
+        "authors": [
+            "Bryan Greetham"
+        ],
+        "year": 2014,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/9f967584b1e8aade512431bc7c13da959e3323ed"
+    },
+    {
+        "title": "Writing for academia: Getting your research into print: AMEE Guide No. 74",
+        "authors": [
+            "J. Coverdale",
+            "L. Roberts",
+            "R. Balon",
+            "E. Beresin"
+        ],
+        "year": 2013,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/41efdb2b989e1de85e9eb62b933a1c5af4df0bbe"
+    },
+    {
+        "title": "Understanding, Selecting, and Integrating a Theoretical Framework in Dissertation Research: Creating the Blueprint for Your \"House\".",
+        "authors": [
+            "Cynthia Grant",
+            "Azadeh F. Osanloo"
+        ],
+        "year": 2016,
+        "abstract": "The theoretical framework is one of the most important aspects in the research process, yet is often misunderstood by doctoral candidates as they prepare their dissertation research study. The importance of theory-driven thinking and acting is emphasized in relation to the selection of a topic, the development of research questions, the conceptualization of the literature review, the design approach, and the analysis plan for the dissertation study. Using a metaphor of the \u201cblueprint\u201d of a house, this article explains the application of a theoretical framework in a dissertation. Steps for how to select and integrate a theoretical framework to structure all aspects of the research process are described, with an example of how to thread theory throughout the dissertation.",
+        "url": "https://www.semanticscholar.org/paper/9875bd0ce8d81e00958df82a743d6f3c1172bece"
+    }
+]

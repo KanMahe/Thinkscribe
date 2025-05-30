@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Deep Learning-Based, Multiclass Approach to Cancer Classification on Liquid Biopsy Data",
+        "authors": [
+            "M. Jopek",
+            "Krzysztof Pastuszak",
+            "Sebastian Cygert",
+            "M. Best",
+            "Thomas Wurdinger",
+            "Jacek Jassem",
+            "A. \u017baczek",
+            "A. Supernat"
+        ],
+        "year": 2024,
+        "abstract": "The field of cancer diagnostics has been revolutionized by liquid biopsies, which offer a bridge between laboratory research and clinical settings. These tests are less invasive than traditional biopsies and more convenient than routine imaging methods. Liquid biopsies allow studying of tumor-derived markers in bodily fluids, enabling the development of more precise cancer diagnostic tests for screening, disease monitoring, and therapy personalization. This study presents a multiclass approach based on deep learning to analyze and classify diseases based on blood platelet RNA. Its primary objective is to enhance cancer-type diagnosis in clinical settings by leveraging the power of deep learning combined with high-throughput sequencing of liquid biopsy. Ultimately, the study demonstrates the potential of this approach to accurately identify the patient\u2019s type of cancer. Methods: The developed method classifies patients using heatmap images, generated based on gene expression arranged according to the Kyoto Encyclopedia of Genes and Genomes pathways. The images represent samples of patients with ovarian cancer, endometrial cancer, glioblastoma, non-small cell lung cancer, and sarcoma, as well as cancer patients with brain metastasis. Results: Our deep learning-based models reached 66.51% balanced accuracy when distinguishing between those 6 sites of cancer origin and 90.5% balanced accuracy on a location-specific dataset where cancer types from close locations were grouped. The developed models were further investigated with an explainable artificial intelligence-based approach (XAI) - SHAP. They returned a set of 60 genes with the highest impact on the models\u2019 decision-making process. Conclusions: Our results show that deep-learning methods are a promising opportunity for cancer detection and could support clinicians\u2019 decision-making process in finding the solution for the black-box problem. Clinical and Translational Impact Statement\u2014 Utilizing TEPs-based liquid biopsies and deep learning, our study offers a novel approach to early cancer detection, highlighting cancer origin. The integration of Explainable AI reinforces trust in predictive outcomes. Category: Early/Pre-Clinical Research.",
+        "url": "https://www.semanticscholar.org/paper/80e8795bfa2cb80f3a1ee248be0b2734fa7d504b"
+    },
+    {
+        "title": "Abstract A010: Biofluid-Ensemble Analysis through Multi-modal Spectroscopy (BEAMS): A deep learning architecture for rapid early-stage liquid biopsy cancer diagnostics",
+        "authors": [
+            "Kwan Lun Chiu",
+            "Antonio Guillen-Perez",
+            "Rebecca Mayer",
+            "Wesley Viner",
+            "Hanna Koster",
+            "Matthew Benson",
+            "Jeremy Rowe",
+            "Maria Navas-Moreno",
+            "Andrew Birkeland",
+            "Mar\u00eda-Dolores Cano",
+            "J. S. Gomez-Diaz",
+            "Randy P. Carney"
+        ],
+        "year": 2024,
+        "abstract": "\n Introduction: Head and neck cancer (HNC) is one of the most common cancer types globally without an accessible rapid screening method. Conventional screening occurs at the clinician\u2019s office, where grading and staging of the tumors are physically performed, and the clinician\u2019s preliminary diagnosis is usually confirmed through laborious procedures of histology and CT/PET/MR scans. Patient\u2019s quality of life and expected outcomes can be improved through early-stage screening, yet there is no existing technology on the market that tackles this dire need. As such, we propose a rapid liquid biopsy diagnostic platform empowered by deep learning algorithms that makes early-stage non-invasive screening possible. The platform utilizes the complementary vibrational spectral biomarkers information from Fourier Transform Infrared Spectroscopy (FTIR) and Raman spectroscopy. We coupled the techniques with two biofluids: saliva and plasma, which offered information on circulating and localized metabolites. Materials and Methods: The patient\u2019s biofluid is first drop-casted on top of a substrate and air-dried at room temperature. Using an FTIR microscope or a Raman microscope, 25 spot measurements are made in a 5 by 5 grid pattern to produce a comprehensive scan of the sample. The measured spectra are subsequently fed into the deep learning framework to perform classification. The deep machine learning framework is composed of spectrum and subject-level models. Specifically, the spectrum-level model employs cascading convolutional layers to identify the prominent features within the spectrum. This is followed by a sequence of linear layers that further extract features from the convolutional layers and carry out binary classification. For each patient, preliminary classification results of the spectral level model are then evaluated on a per- modality basis across our four modalities (FTIR/Raman measurements made on saliva/plasma) where the patient is classified as positive if any of the modality models deem it so. This framework is applied to a cohort of 96 patients, with 36 non-cancerous patients, 28 early-stage patients, and 32 late-stage patients. Results and Discussion: Our model optimized for general cancer detection has a sensitivity of 91.7%, specificity of 77.8%, and accuracy of 86.5%. Late- stage cancer has proven to be less challenging to detect since our model optimized for late-stage cancer diagnosis has a sensitivity of 93.8%, a specificity of 83.3%, and an accuracy of 88.2%. Our best early-stage model has a sensitivity of 89.3%, a specificity of 69.4%, and an accuracy of 78.1%. Conclusions: Our proposed framework has demonstrated promising capability as the preliminary screening method for high-risk patients (e.g. tobacco users) while providing further interpretability of the deep learning model that is often characterized as a \u201cblack box\u201d. The modular nature of our model structure offers substantial flexibility, enabling effective performance even when specific biofluids or spectroscopy modalities are unavailable.\n Citation Format: Kwan Lun Chiu, Antonio Guillen-Perez, Rebecca Mayer, Wesley Viner, Hanna Koster, Matthew Benson, Jeremy Rowe, Maria Navas-Moreno, Andrew Birkeland, Maria-Dolores Cano, J. Sebasti\u00e1n Gomez-Diaz, Randy Carney. Biofluid-Ensemble Analysis through Multi-modal Spectroscopy (BEAMS): A deep learning architecture for rapid early-stage liquid biopsy cancer diagnostics [abstract]. In: Proceedings of the AACR Special Conference: Liquid Biopsy: From Discovery to Clinical Implementation; 2024 Nov 13-16; San Diego, CA. Philadelphia (PA): AACR; Clin Cancer Res 2024;30(21_Suppl):Abstract nr A010.",
+        "url": "https://www.semanticscholar.org/paper/3af2e074ca184361ab6de225857f582b9bc85b37"
+    },
+    {
+        "title": "Integrating deep learning network and liquid biopsy for the evaluation and prediction of response in patients with advanced non-small cell lung cancer: Initial results from the RATIONALE prospective study.",
+        "authors": [
+            "V. Gristina",
+            "G. Cutaia",
+            "Giuseppe Salvaggio",
+            "Emanuele Grassedonio",
+            "A. Comelli",
+            "T. B. Bazan Russo",
+            "U. Randazzo",
+            "Giuliana Iann\u00ec",
+            "M. Bono",
+            "F. Iacono",
+            "Pietro Zanatta",
+            "Alessandro Casamento",
+            "S. Cutaia",
+            "A. Carreca",
+            "L. Incorvaia",
+            "G. Badalamenti",
+            "A. Galvano",
+            "V. Bazan",
+            "I. Carreca",
+            "Antonio Russo"
+        ],
+        "year": 2024,
+        "abstract": "e20036 Background: Lung cancerstill represents one of the most common and lethal diseases worldwide. There remains an unmet clinical need for the discovery of biomarkers to refine the management of patients with advanced non-small cell lung cancer (NSCLC). The combined evaluation of circulating cell-free DNA (cfDNA) and deep learning-based radiomic methods remains to be validated in the clinical setting. Methods: The RATIONALE study is a retro-prospective observational clinical trial consecutively enrolling treatment-na\u00efve patients with advanced NSCLC who received standard first-line systemic treatments at Paolo Giaccone University Hospital, Palermo (Italy). Baseline and follow-up blood samples were collected according to computed tomography (CT) examinations performed using the same equipment (Siemens SOMATOM 128 slices), the same acquisition protocol, and the same contrast medium (Iomeron 400) every twelve weeks. All primary lung tumor internal regions of interest (ROIs) were segmented. Radiomic feature extraction was performed on the ROIs using Pyradiomics, an extension of the 3DSlicer. Circulating cfDNA was extracted from 1 ml of plasma using a QIAamp Circulating Nucleic Acid Kit (Qiagen) and quantified in terms of ng/\u03bcL using a QubitTM dsDNA HS Assay Kit (ThermoFisher Scientific). The diagnostic performance was evaluated using receiver operating characteristic (ROC) curves. Results: Between June 2021 and November 2023, fifty-five patients were included. Here we present the first results from the cohort of twenty patients undergoing first-line pembrolizumab-based treatments. Among the thirteen features extracted, the feature 'original_glcm_Id' evaluating the local image homogeneity emerged as statistically significant for differentiating adenocarcinoma and squamous cell carcinoma (sensitivity of 83.7%, specificity of 81.0%, accuracy of 82.8%; p < 0.001). When correlating cfDNA dynamics and radiologic response, out of the eight features examined, the feature 'first order_mean' measuring the average intensity of gray levels proved to be statistically significant (sensitivity of 86.0%, specificity of 87.7%, accuracy of 86.9%; p < 0.006). Finally, the feature 'size zone non-uniformity' measuring the variability of volumes in different gray level zones within the image showed a good performance in predicting overall survival (sensitivity of 65.8%, specificity of 100.0%, accuracy of 77.8%; p < 0.001). Conclusions: The preliminary results of this ongoing study suggest the combined evaluation of liquid biopsy and radiomic features for obtaining minimally invasive and cost-effective biomarkers in the first-line clinical setting of NSCLC undergoing first-line pembrolizumab.",
+        "url": "https://www.semanticscholar.org/paper/0853a9482cb26cb87a5f5d09597b299f14395e80"
+    }
+]

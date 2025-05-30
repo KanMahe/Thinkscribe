@@ -1,0 +1,68 @@
+[
+  {
+    "abstract": "Hyperledger Fabric is a popular open-source project for deploying\npermissioned blockchains. Many performance characteristics of the latest\nHyperledger Fabric, such as performance characteristics of each phase, the\nimpacts of ordering services, and bottleneck and scalability, are still not\nwell understood due to the performance complexity of distributed systems. We\nconducted a thorough performance evaluation on the first long term support\nrelease of Hyperledger Fabric. We studied the performance characteristics of\neach phase, including execute, order, and the validate phase, according to\nHyperledger Fabric new execute-order-validate architecture. We also studied the\nordering services, including Solo, Kafka, and Raft. Our experimental results\nshowed some findings as follows. 1) The execution phase exhibited a good\nscalability under the OR endorsement policy but not with the AND endorsement\npolicy. 2) We were not able to find a significant performance difference\nbetween the three ordering services. 3) The validate phase was likely to be the\nsystem bottleneck due to the low validation speed of chaincode. Overall, our\nwork helps to understand and improve Hyperledger Fabric.",
+    "authors": [
+      "Canhui Wang",
+      "Xiaowen Chu"
+    ],
+    "techniques": [],
+    "title": "Performance Characterization and Bottleneck Analysis of Hyperledger\n  Fabric",
+    "url": "http://arxiv.org/abs/2008.05946v2",
+    "year": 2020
+  },
+  {
+    "abstract": "Permissioned blockchain such as Hyperledger fabric enables a secure supply\nchain model in Industrial Internet of Things (IIoT) through multichannel and\nprivate data collection mechanisms. Sharing of Industrial data including\nprivate data exchange at every stage between supply chain partners helps to\nimprove product quality, enable future forecast, and enhance management\nactivities. However, the existing data sharing and querying mechanism in\nHyperledger fabric is not suitable for supply chain environment in IIoT because\nthe queries are evaluated on actual data stored on ledger which consists of\nsensitive information such as business secrets, and special discounts offered\nto retailers and individuals. To solve this problem, we propose a differential\nprivacy-based permissioned blockchain using Hyperledger fabric to enable\nprivate data sharing in supply chain in IIoT (DH-IIoT). We integrate\ndifferential privacy into the chaindcode (smart contract) of Hyperledger fabric\nto achieve privacy preservation. As a result, the query response consists of\nperturbed data which protects the sensitive information in the ledger. The\nproposed work (DH-IIoT) is evaluated by simulating a permissioned blockchain\nusing Hyperledger fabric. We compare our differential privacy integrated\nchaincode of Hyperledger fabric with the default chaincode setting of\nHyperledger fabric for supply chain scenario. The results confirm that the\nproposed work maintains 96.15% of accuracy in the shared data while guarantees\nthe protection of sensitive ledger's data.",
+    "authors": [
+      "Muhammad Islam",
+      "Mubashir Husain Rehmani",
+      "Jinjun Chen"
+    ],
+    "techniques": [],
+    "title": "Differential Privacy-based Permissioned Blockchain for Private Data\n  Sharing in Industrial IoT",
+    "url": "http://arxiv.org/abs/2102.09857v2",
+    "year": 2021
+  },
+  {
+    "abstract": "Non-Factoid (NF) Question Answering (QA) is challenging to evaluate due to\ndiverse potential answers and no objective criterion. The commonly used\nautomatic evaluation metrics like ROUGE or BERTScore cannot accurately measure\nsemantic similarities or answers from different perspectives. Recently, Large\nLanguage Models (LLMs) have been resorted to for NFQA evaluation due to their\ncompelling performance on various NLP tasks. Common approaches include\npointwise scoring of each candidate answer and pairwise comparisons between\nanswers. Inspired by the evolution from pointwise to pairwise to listwise in\nlearning-to-rank methods, we propose a novel listwise NFQA evaluation approach,\nthat utilizes LLMs to rank candidate answers in a list of reference answers\nsorted by descending quality. Moreover, for NF questions that do not have\nmulti-grade or any golden answers, we leverage LLMs to generate the reference\nanswer list of various quality to facilitate the listwise evaluation. Extensive\nexperimental results on three NFQA datasets, i.e., ANTIQUE, the TREC-DL-NF, and\nWebGLM show that our method has significantly higher correlations with human\nannotations compared to automatic scores and common pointwise and pairwise\napproaches.",
+    "authors": [
+      "Sihui Yang",
+      "Keping Bi",
+      "Wanqing Cui",
+      "Jiafeng Guo",
+      "Xueqi Cheng"
+    ],
+    "techniques": [],
+    "title": "LINKAGE: Listwise Ranking among Varied-Quality References for\n  Non-Factoid QA Evaluation via LLMs",
+    "url": "http://arxiv.org/abs/2409.14744v2",
+    "year": 2024
+  },
+  {
+    "abstract": "Question answering based on retrieval augmented generation (RAG-QA) is an\nimportant research topic in NLP and has a wide range of real-world\napplications. However, most existing datasets for this task are either\nconstructed using a single source corpus or consist of short extractive\nanswers, which fall short of evaluating large language model (LLM) based RAG-QA\nsystems on cross-domain generalization. To address these limitations, we create\nLong-form RobustQA (LFRQA), a new dataset comprising human-written long-form\nanswers that integrate short extractive answers from multiple documents into a\nsingle, coherent narrative, covering 26K queries and large corpora across seven\ndifferent domains. We further propose RAG-QA Arena by directly comparing\nmodel-generated answers against LFRQA's answers using LLMs as evaluators. We\nshow via extensive experiments that RAG-QA Arena and human judgments on answer\nquality are highly correlated. Moreover, only 41.3% of the most competitive\nLLM's answers are preferred to LFRQA's answers, demonstrating RAG-QA Arena as a\nchallenging evaluation platform for future research.",
+    "authors": [
+      "Rujun Han",
+      "Yuhao Zhang",
+      "Peng Qi",
+      "Yumo Xu",
+      "Jenyuan Wang",
+      "Lan Liu",
+      "William Yang Wang",
+      "Bonan Min",
+      "Vittorio Castelli"
+    ],
+    "techniques": [],
+    "title": "RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval\n  Augmented Question Answering",
+    "url": "http://arxiv.org/abs/2407.13998v2",
+    "year": 2024
+  },
+  {
+    "abstract": "Identifying the genes and mutations that drive the emergence of tumors is a\nmajor step to improve understanding of cancer and identify new directions for\ndisease diagnosis and treatment. Despite the large volume of genomics data, the\nprecise detection of driver mutations and their carrying genes, known as cancer\ndriver genes, from the millions of possible somatic mutations remains a\nchallenge. Computational methods play an increasingly important role in\nidentifying genomic patterns associated with cancer drivers and developing\nmodels to predict driver events. Machine learning (ML) has been the engine\nbehind many of these efforts and provides excellent opportunities for tackling\nremaining gaps in the field. Thus, this survey aims to perform a comprehensive\nanalysis of ML-based computational approaches to identify cancer driver\nmutations and genes, providing an integrated, panoramic view of the broad data\nand algorithmic landscape within this scientific problem. We discuss how the\ninteractions among data types and ML algorithms have been explored in previous\nsolutions and outline current analytical limitations that deserve further\nattention from the scientific community. We hope that by helping readers become\nmore familiar with significant developments in the field brought by ML, we may\ninspire new researchers to address open problems and advance our knowledge\ntowards cancer driver discovery.",
+    "authors": [
+      "Renan Andrades",
+      "Mariana Recamonde-Mendoza"
+    ],
+    "techniques": [],
+    "title": "Machine learning methods for prediction of cancer driver genes: a survey\n  paper",
+    "url": "http://arxiv.org/abs/2109.13685v1",
+    "year": 2021
+  }
+]

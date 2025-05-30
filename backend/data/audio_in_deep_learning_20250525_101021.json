@@ -1,0 +1,75 @@
+[
+    {
+        "title": "Deep learning audio magnetotellurics inversion using residual-based deep convolution neural network",
+        "authors": [
+            "Zhengguang Liu",
+            "Huang Chen",
+            "Z. Ren",
+            "Jingtian Tang",
+            "Zhimin Xu",
+            "Yuan-Ho Chen",
+            "Xu Liu"
+        ],
+        "year": 2021,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/d476dc9f1d1072f4186834e2b0610e310a579281"
+    },
+    {
+        "title": "Deep Learning Audio Spectrograms Processing to the Early COVID-19 Detection",
+        "authors": [
+            "C. Rodriguez",
+            "Daniel Angeles",
+            "Renzo Chafloque",
+            "Freddy Kaseng",
+            "Bishwajeet K. Pandey"
+        ],
+        "year": 2020,
+        "abstract": "The objective of the paper is to provide a model capable of serving as a basis for retraining a convolutional neural network that can be used to detect COVID-19 cases through spectrograms of coughing, sneezing and other respiratory sounds from infected people. To address this challenge, the methodology was focused on Deep Learning technics worked with a dataset of sounds of sick and non-sick people, and using ImageNet's Xception architecture to train the model to be presented through Fine-Tuning. The results obtained were a precision of 0.75 to 0.80, this being drastically affected by the quality of the dataset at our availability, however, when getting relatively high results for the conditions of the data used, we can conclude that the model can present much better results if it is working with a dataset specifically of respiratory sounds of COVID-19 cases with high quality.",
+        "url": "https://www.semanticscholar.org/paper/c14966f3a8cb781556c2dd132271508df27e0ab4"
+    },
+    {
+        "title": "Deep learning, audio adversaries, and music content analysis",
+        "authors": [
+            "Corey Kereliuk",
+            "Bob L. Sturm",
+            "J. Larsen"
+        ],
+        "year": 2015,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/adf87437d94b19c21b38b0dd6ca2764ea021e40b"
+    },
+    {
+        "title": "Leveraging Recent Advances in Deep Learning for Audio-Visual Emotion Recognition",
+        "authors": [
+            "Liam Schoneveld",
+            "Alice Othmani",
+            "Hazem Abdelkawy"
+        ],
+        "year": 2021,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/0013eb49cbc8941d339b28e3801bc97f058020bd"
+    },
+    {
+        "title": "Transfer Learning from Audio Deep Learning Models for Micro-Doppler Activity Recognition",
+        "authors": [
+            "K. T. Tran",
+            "Lewis D. Griffin",
+            "K. Chetty",
+            "S. Vishwakarma"
+        ],
+        "year": 2020,
+        "abstract": "This paper presents a mechanism to transform radio frequency micro-Doppler signatures into a pseudo-audio representation, which results in significant improvements in transfer learning from a deep learning model trained on audio. We also demonstrate that transfer learning from a deep learning model trained on audio is more effective than transfer learning from a model trained on images, which suggests machine learning methods used to analyse audio can be leveraged for micro-Doppler. Finally, we utilise an occlusion method to gain an insight into how the deep learning model interprets the micro-Doppler signatures and the subsequent pseudo-audio representations.",
+        "url": "https://www.semanticscholar.org/paper/0bbe6f5ad3ac207f0c17dda0d91ef9abe3ebb7f1"
+    },
+    {
+        "title": "Automatic Assessment of Dysarthric Severity Level Using Audio-Video Cross-Modal Approach in Deep Learning",
+        "authors": [
+            "H. Tong",
+            "H. Sharifzadeh",
+            "I. Mcloughlin"
+        ],
+        "year": 2020,
+        "abstract": "Dysarthria is a speech disorder that can signi\ufb01cantly impact a person\u2019s daily life, and yet may be amenable to therapy. To automatically detect and classify dysarthria, researchers have proposed various computational approaches ranging from traditional speech processing methods focusing on speech rate, intelligibility, intonation, etc. to more advanced machine learning techniques. Recently developed machine learning systems rely on audio features for classi\ufb01cation; however, research in other \ufb01elds has shown that audio-video cross-modal frameworks can improve classi\ufb01cation accuracy while simultaneously reducing the amount of training data required compared to uni-modal systems (i.e. audio-or video-only). In this paper, we propose an audio-video cross-modal deep learning framework that takes both audio and video data as input to classify dysarthria severity levels. Our novel cross-modal framework achieves over 99% test accuracy on the UASPEECH dataset \u2013 signi\ufb01cantly outperforming current uni-modal systems that utilise audio data alone. More importantly, it is able to accelerate training time while improving accuracy, and to do so with reduced training data requirements.",
+        "url": "https://www.semanticscholar.org/paper/2ecdbe16fd9a317f6dd782dc8a84cac3692dbb59"
+    }
+]

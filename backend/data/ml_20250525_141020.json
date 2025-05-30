@@ -1,0 +1,125 @@
+[
+    {
+        "title": "Photocatalytic Z-scheme overall water splitting for hydrogen generation with Sc2CCl2/ML (ML = MoTe2, Hf2CO2) heterostructures",
+        "authors": [
+            "Xiao-Ting Li",
+            "Chuanlu Yang",
+            "Wenkai Zhao",
+            "Yuliang Liu"
+        ],
+        "year": 2024,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/6a861e8987a40f2abc71d2490bb26e8da9276656"
+    },
+    {
+        "title": "Kid-ML: ML For Kidney Malignant Tissues Identification",
+        "authors": [
+            "A. Hassanein"
+        ],
+        "year": 2023,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/68c53a554d6b1c1316ab578cfa9658148ac62bb7"
+    },
+    {
+        "title": "Improving Online Algorithms via ML Predictions",
+        "authors": [
+            "Manish Purohit",
+            "Zoya Svitkina",
+            "Ravi Kumar"
+        ],
+        "year": 2024,
+        "abstract": "In this work we study the problem of using machine-learned predictions to improve performance of online algorithms. We consider two classical problems, ski rental and non-clairvoyant job scheduling, and obtain new online algorithms that use predictions to make their decisions. These algorithms are oblivious to the performance of the predictor, improve with better predictions, but do not degrade much if the predictions are poor.",
+        "url": "https://www.semanticscholar.org/paper/68bc259a5eba4182c98d92f0242b13457fa8d69b"
+    },
+    {
+        "title": "M ? L ? ML ? ML ? ? ? ? M ? ? L ?",
+        "authors": [
+            "Ahmed E. Fazary",
+            "Ayed S. Alshihri",
+            "Mohammad Y. Alfaifi",
+            "Permatasari Santoso",
+            "Artik Elisa Angkawijaya",
+            "JU YI-HSU"
+        ],
+        "year": 2018,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/7d4ee27ec81c0651ea1da1805d67b87bb8c1dc1f"
+    },
+    {
+        "title": "Can Urinary Total Protein-to-Creatinine Ratio Determine the Presence of Micro albuminuria in Patients with eGFR> 60 ml/ml/min/m\u00c2\u00b2?",
+        "authors": [
+            "A. A. Kutlugun",
+            "F. Ebin\u00e7",
+            "M. Tek"
+        ],
+        "year": 2017,
+        "abstract": "Objective \nTo determine the relationship between spot urine total protein-to-creatinine ratio (TPCR) and albumin-to-creatinin ratio (ACR) in diabetic and/or hypertensive patients with estimated glomerular filtration rate (eGFR) greater than 60 ml/min/m2 and to determine the optimal TPCR value that can predict microalbuminuria. \nMethods \n190 diabetic and/or hypertensive patients who had eGFR \u2265 60 ml/min/1.73 m2 were studied. Urine dipstick test, spot urine TPCR and ACR values of the patients were evaluated. \nResults \n\u00a0A strong positive correlation was found between ACR and TPCR (p<0.001; r=0.565). The optimal cut-off value for TPCR was 119 mg/g. Sensitivity, specificity and AUC for this cut-off value were 83%, 69% and 0.811, respectively. According to the dipstick test, only 20.9% of the patients had microalbuminuria in the urine protein negative group.",
+        "url": "https://www.semanticscholar.org/paper/8356c7cd198f12947fae830e8153d0c7a947802f"
+    },
+    {
+        "title": "How to DP-fy ML: A Practical Guide to Machine Learning with Differential Privacy",
+        "authors": [
+            "N. Ponomareva",
+            "Hussein Hazimeh",
+            "Alexey Kurakin",
+            "Zheng Xu",
+            "Carson E. Denison",
+            "H. B. McMahan",
+            "Sergei Vassilvitskii",
+            "Steve Chien",
+            "Abhradeep Thakurta"
+        ],
+        "year": 2023,
+        "abstract": "Machine Learning (ML) models are ubiquitous in real-world applications and are a constant focus of research. Modern ML models have become more complex, deeper, and harder to reason about. At the same time, the community has started to realize the importance of protecting the privacy of the training data that goes into these models.\nDifferential Privacy (DP) has become a gold standard for making formal statements about data anonymization. However, while some adoption of DP has happened in industry, attempts to apply DP to real world complex ML models are still few and far between. The adoption of DP is hindered by limited practical guidance of what DP protection entails, what privacy guarantees to aim for, and the difficulty of achieving good privacy-utility-computation trade-offs for ML models. Tricks for tuning and maximizing performance are scattered among papers or stored in the heads of practitioners, particularly with respect to the challenging task of hyperparameter tuning. Furthermore, the literature seems to present conflicting evidence on how and whether to apply architectural adjustments and which components are \u201csafe\u201d to use with DP.\nIn this survey paper, we attempt to create a self-contained guide that gives an in-depth overview of the field of DP ML. We aim to assemble information about achieving the best possible DP ML model with rigorous privacy guarantees. Our target audience is both researchers and practitioners. Researchers interested in DP for ML will benefit from a clear overview of current advances and areas for improvement. We also include theory-focused sections that highlight important topics such as privacy accounting and convergence. For a practitioner, this survey provides a background in DP theory and a clear step-by-step guide for choosing an appropriate privacy definition and approach, implementing DP training, potentially updating the model architecture, and tuning hyperparameters. For both researchers and practitioners, consistently and fully reporting privacy guarantees is critical, so we propose a set of specific best practices for stating guarantees.\nWith sufficient computation and a sufficiently large training set or supplemental nonprivate data, both good accuracy (that is, almost as good as a non-private model) and good privacy can often be achievable. And even when computation and dataset size are limited, there are advantages to training with even a weak (but still finite) formal DP guarantee. Hence, we hope this work will facilitate more widespread deployments of DP ML models.",
+        "url": "https://www.semanticscholar.org/paper/5b0f2ff37a977fd4b0c845b27726b65682bf8ac6"
+    },
+    {
+        "title": "ML-KNN: A lazy learning approach to multi-label learning",
+        "authors": [
+            "Min-Ling Zhang",
+            "Zhi-Hua Zhou"
+        ],
+        "year": 2007,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/57af20b27db58aad6238eb137c293534cf79286e"
+    },
+    {
+        "title": "nuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles",
+        "authors": [
+            "Holger Caesar",
+            "Juraj Kabzan",
+            "Kok Seang Tan",
+            "Whye Kit Fong",
+            "Eric M. Wolff",
+            "A. Lang",
+            "L. Fletcher",
+            "Oscar Beijbom",
+            "Sammy Omari"
+        ],
+        "year": 2021,
+        "abstract": "In this work, we propose the world's first closed-loop ML-based planning benchmark for autonomous driving. While there is a growing body of ML-based motion planners, the lack of established datasets and metrics has limited the progress in this area. Existing benchmarks for autonomous vehicle motion prediction have focused on short-term motion forecasting, rather than long-term planning. This has led previous works to use open-loop evaluation with L2-based metrics, which are not suitable for fairly evaluating long-term planning. Our benchmark overcomes these limitations by introducing a large-scale driving dataset, lightweight closed-loop simulator, and motion-planning-specific metrics. We provide a high-quality dataset with 1500h of human driving data from 4 cities across the US and Asia with widely varying traffic patterns (Boston, Pittsburgh, Las Vegas and Singapore). We will provide a closed-loop simulation framework with reactive agents and provide a large set of both general and scenario-specific planning metrics. We plan to release the dataset at NeurIPS 2021 and organize benchmark challenges starting in early 2022.",
+        "url": "https://www.semanticscholar.org/paper/b88b38ec61a4881173ab94647d1e97500f4af15b"
+    },
+    {
+        "title": "Dlib-ml: A Machine Learning Toolkit",
+        "authors": [
+            "Davis E. King"
+        ],
+        "year": 2009,
+        "abstract": "There are many excellent toolkits which provide support for developing machine learning software in Python, R, Matlab, and similar environments. Dlib-ml is an open source library, targeted at both engineers and research scientists, which aims to provide a similarly rich environment for developing machine learning software in the C++ language. Towards this end, dlib-ml contains an extensible linear algebra toolkit with built in BLAS support. It also houses implementations of algorithms for performing inference in Bayesian networks and kernel-based methods for classification, regression, clustering, anomaly detection, and feature ranking. To enable easy use of these tools, the entire library has been developed with contract programming, which provides complete and precise documentation as well as powerful debugging tools.",
+        "url": "https://www.semanticscholar.org/paper/2ea6a93199c9227fa0c1c7de13725f918c9be3a4"
+    },
+    {
+        "title": "ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models",
+        "authors": [
+            "A. Salem",
+            "Yang Zhang",
+            "Mathias Humbert",
+            "Mario Fritz",
+            "M. Backes"
+        ],
+        "year": 2018,
+        "abstract": "Machine learning (ML) has become a core component of many real-world applications and training data is a key factor that drives current progress. This huge success has led Internet companies to deploy machine learning as a service (MLaaS). Recently, the first membership inference attack has shown that extraction of information on the training set is possible in such MLaaS settings, which has severe security and privacy implications. \nHowever, the early demonstrations of the feasibility of such attacks have many assumptions on the adversary, such as using multiple so-called shadow models, knowledge of the target model structure, and having a dataset from the same distribution as the target model's training data. We relax all these key assumptions, thereby showing that such attacks are very broadly applicable at low cost and thereby pose a more severe risk than previously thought. We present the most comprehensive study so far on this emerging and developing threat using eight diverse datasets which show the viability of the proposed attacks across domains. \nIn addition, we propose the first effective defense mechanisms against such broader class of membership inference attacks that maintain a high level of utility of the ML model.",
+        "url": "https://www.semanticscholar.org/paper/a68fccc152d238f62848de1be8522ccd71137ac0"
+    }
+]

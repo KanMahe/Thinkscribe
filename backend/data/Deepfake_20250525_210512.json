@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Behind the Deepfake: 8% Create; 90% Concerned. Surveying public exposure\n  to and perceptions of deepfakes in the UK",
+        "authors": [
+            "Tvesha Sippy",
+            "Florence Enock",
+            "Jonathan Bright",
+            "Helen Z. Margetts"
+        ],
+        "year": 2024,
+        "abstract": "This article examines public exposure to and perceptions of deepfakes based\non insights from a nationally representative survey of 1403 UK adults. The\nsurvey is one of the first of its kind since recent improvements in deepfake\ntechnology and widespread adoption of political deepfakes. The findings reveal\nthree key insights. First, on average, 15% of people report exposure to harmful\ndeepfakes, including deepfake pornography, deepfake frauds/scams and other\npotentially harmful deepfakes such as those that spread health/religious\nmisinformation/propaganda. In terms of common targets, exposure to deepfakes\nfeaturing celebrities was 50.2%, whereas those featuring politicians was 34.1%.\nAnd 5.7% of respondents recall exposure to a selection of high profile\npolitical deepfakes in the UK. Second, while exposure to harmful deepfakes was\nrelatively low, awareness of and fears about deepfakes were high (and women\nwere significantly more likely to report experiencing such fears than men). As\nwith fears, general concerns about the spread of deepfakes were also high;\n90.4% of the respondents were either very concerned or somewhat concerned about\nthis issue. Most respondents (at least 91.8%) were concerned that deepfakes\ncould add to online child sexual abuse material, increase distrust in\ninformation and manipulate public opinion. Third, while awareness about\ndeepfakes was high, usage of deepfake tools was relatively low (8%). Most\nrespondents were not confident about their detection abilities and were\ntrustful of audiovisual content online. Our work highlights how the problem of\ndeepfakes has become embedded in public consciousness in just a few years; it\nalso highlights the need for media literacy programmes and other policy\ninterventions to address the spread of harmful deepfakes.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2407.05529v1"
+    },
+    {
+        "title": "WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection",
+        "authors": [
+            "Bojia Zi",
+            "Minghao Chang",
+            "Jingjing Chen",
+            "Xingjun Ma",
+            "Yu-Gang Jiang"
+        ],
+        "year": 2021,
+        "abstract": "In recent years, the abuse of a face swap technique called deepfake has\nraised enormous public concerns. So far, a large number of deepfake videos\n(known as \"deepfakes\") have been crafted and uploaded to the internet, calling\nfor effective countermeasures. One promising countermeasure against deepfakes\nis deepfake detection. Several deepfake datasets have been released to support\nthe training and testing of deepfake detectors, such as DeepfakeDetection and\nFaceForensics++. While this has greatly advanced deepfake detection, most of\nthe real videos in these datasets are filmed with a few volunteer actors in\nlimited scenes, and the fake videos are crafted by researchers using a few\npopular deepfake softwares. Detectors developed on these datasets may become\nless effective against real-world deepfakes on the internet. To better support\ndetection against real-world deepfakes, in this paper, we introduce a new\ndataset WildDeepfake which consists of 7,314 face sequences extracted from 707\ndeepfake videos collected completely from the internet. WildDeepfake is a small\ndataset that can be used, in addition to existing datasets, to develop and test\nthe effectiveness of deepfake detectors against real-world deepfakes. We\nconduct a systematic evaluation of a set of baseline detection networks on both\nexisting and our WildDeepfake datasets, and show that WildDeepfake is indeed a\nmore challenging dataset, where the detection performance can decrease\ndrastically. We also propose two (eg. 2D and 3D) Attention-based Deepfake\nDetection Networks (ADDNets) to leverage the attention masks on real/fake faces\nfor improved detection. We empirically verify the effectiveness of ADDNets on\nboth existing datasets and WildDeepfake. The dataset is available at:\nhttps://github.com/OpenTAI/wild-deepfake.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2101.01456v2"
+    },
+    {
+        "title": "Linguistic Profiling of Deepfakes: An Open Database for Next-Generation\n  Deepfake Detection",
+        "authors": [
+            "Yabin Wang",
+            "Zhiwu Huang",
+            "Zhiheng Ma",
+            "Xiaopeng Hong"
+        ],
+        "year": 2024,
+        "abstract": "The emergence of text-to-image generative models has revolutionized the field\nof deepfakes, enabling the creation of realistic and convincing visual content\ndirectly from textual descriptions. However, this advancement presents\nconsiderably greater challenges in detecting the authenticity of such content.\nExisting deepfake detection datasets and methods often fall short in\neffectively capturing the extensive range of emerging deepfakes and offering\nsatisfactory explanatory information for detection. To address the significant\nissue, this paper introduces a deepfake database (DFLIP-3K) for the development\nof convincing and explainable deepfake detection. It encompasses about 300K\ndiverse deepfake samples from approximately 3K generative models, which boasts\nthe largest number of deepfake models in the literature. Moreover, it collects\naround 190K linguistic footprints of these deepfakes. The two distinguished\nfeatures enable DFLIP-3K to develop a benchmark that promotes progress in\nlinguistic profiling of deepfakes, which includes three sub-tasks namely\ndeepfake detection, model identification, and prompt prediction. The deepfake\nmodel and prompt are two essential components of each deepfake, and thus\ndissecting them linguistically allows for an invaluable exploration of\ntrustworthy and interpretable evidence in deepfake detection, which we believe\nis the key for the next-generation deepfake detection. Furthermore, DFLIP-3K is\nenvisioned as an open database that fosters transparency and encourages\ncollaborative efforts to further enhance its growth. Our extensive experiments\non the developed benchmark verify that our DFLIP-3K database is capable of\nserving as a standardized resource for evaluating and comparing\nlinguistic-based deepfake detection, identification, and prompt prediction\ntechniques.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2401.02335v1"
+    },
+    {
+        "title": "Deepfake-Eval-2024: A Multi-Modal In-the-Wild Benchmark of Deepfakes\n  Circulated in 2024",
+        "authors": [
+            "Nuria Alina Chandra",
+            "Ryan Murtfeldt",
+            "Lin Qiu",
+            "Arnab Karmakar",
+            "Hannah Lee",
+            "Emmanuel Tanumihardja",
+            "Kevin Farhat",
+            "Ben Caffee",
+            "Sejin Paik",
+            "Changyeon Lee",
+            "Jongwook Choi",
+            "Aerin Kim",
+            "Oren Etzioni"
+        ],
+        "year": 2025,
+        "abstract": "In the age of increasingly realistic generative AI, robust deepfake detection\nis essential for mitigating fraud and disinformation. While many deepfake\ndetectors report high accuracy on academic datasets, we show that these\nacademic benchmarks are out of date and not representative of real-world\ndeepfakes. We introduce Deepfake-Eval-2024, a new deepfake detection benchmark\nconsisting of in-the-wild deepfakes collected from social media and deepfake\ndetection platform users in 2024. Deepfake-Eval-2024 consists of 45 hours of\nvideos, 56.5 hours of audio, and 1,975 images, encompassing the latest\nmanipulation technologies. The benchmark contains diverse media content from 88\ndifferent websites in 52 different languages. We find that the performance of\nopen-source state-of-the-art deepfake detection models drops precipitously when\nevaluated on Deepfake-Eval-2024, with AUC decreasing by 50% for video, 48% for\naudio, and 45% for image models compared to previous benchmarks. We also\nevaluate commercial deepfake detection models and models finetuned on\nDeepfake-Eval-2024, and find that they have superior performance to\noff-the-shelf open-source models, but do not yet reach the accuracy of deepfake\nforensic analysts. The dataset is available at\nhttps://github.com/nuriachandra/Deepfake-Eval-2024.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2503.02857v3"
+    },
+    {
+        "title": "DeePhy: On Deepfake Phylogeny",
+        "authors": [
+            "Kartik Narayan",
+            "Harsh Agarwal",
+            "Kartik Thakral",
+            "Surbhi Mittal",
+            "Mayank Vatsa",
+            "Richa Singh"
+        ],
+        "year": 2022,
+        "abstract": "Deepfake refers to tailored and synthetically generated videos which are now\nprevalent and spreading on a large scale, threatening the trustworthiness of\nthe information available online. While existing datasets contain different\nkinds of deepfakes which vary in their generation technique, they do not\nconsider progression of deepfakes in a \"phylogenetic\" manner. It is possible\nthat an existing deepfake face is swapped with another face. This process of\nface swapping can be performed multiple times and the resultant deepfake can be\nevolved to confuse the deepfake detection algorithms. Further, many databases\ndo not provide the employed generative model as target labels. Model\nattribution helps in enhancing the explainability of the detection results by\nproviding information on the generative model employed. In order to enable the\nresearch community to address these questions, this paper proposes DeePhy, a\nnovel Deepfake Phylogeny dataset which consists of 5040 deepfake videos\ngenerated using three different generation techniques. There are 840 videos of\none-time swapped deepfakes, 2520 videos of two-times swapped deepfakes and 1680\nvideos of three-times swapped deepfakes. With over 30 GBs in size, the database\nis prepared in over 1100 hours using 18 GPUs of 1,352 GB cumulative memory. We\nalso present the benchmark on DeePhy dataset using six deepfake detection\nalgorithms. The results highlight the need to evolve the research of model\nattribution of deepfakes and generalize the process over a variety of deepfake\ngeneration techniques. The database is available at:\nhttp://iab-rubric.org/deephy-database",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2209.09111v1"
+    },
+    {
+        "title": "Robust Sequential DeepFake Detection",
+        "authors": [
+            "Rui Shao",
+            "Tianxing Wu",
+            "Ziwei Liu"
+        ],
+        "year": 2023,
+        "abstract": "Since photorealistic faces can be readily generated by facial manipulation\ntechnologies nowadays, potential malicious abuse of these technologies has\ndrawn great concerns. Numerous deepfake detection methods are thus proposed.\nHowever, existing methods only focus on detecting one-step facial manipulation.\nAs the emergence of easy-accessible facial editing applications, people can\neasily manipulate facial components using multi-step operations in a sequential\nmanner. This new threat requires us to detect a sequence of facial\nmanipulations, which is vital for both detecting deepfake media and recovering\noriginal faces afterwards. Motivated by this observation, we emphasize the need\nand propose a novel research problem called Detecting Sequential DeepFake\nManipulation (Seq-DeepFake). Unlike the existing deepfake detection task only\ndemanding a binary label prediction, detecting Seq-DeepFake manipulation\nrequires correctly predicting a sequential vector of facial manipulation\noperations. To support a large-scale investigation, we construct the first\nSeq-DeepFake dataset, where face images are manipulated sequentially with\ncorresponding annotations of sequential facial manipulation vectors. Based on\nthis new dataset, we cast detecting Seq-DeepFake manipulation as a specific\nimage-to-sequence task and propose a concise yet effective Seq-DeepFake\nTransformer (SeqFakeFormer). To better reflect real-world deepfake data\ndistributions, we further apply various perturbations on the original\nSeq-DeepFake dataset and construct the more challenging Sequential DeepFake\ndataset with perturbations (Seq-DeepFake-P). To exploit deeper correlation\nbetween images and sequences when facing Seq-DeepFake-P, a dedicated\nSeq-DeepFake Transformer with Image-Sequence Reasoning (SeqFakeFormer++) is\ndevised, which builds stronger correspondence between image-sequence pairs for\nmore robust Seq-DeepFake detection.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2309.14991v2"
+    }
+]

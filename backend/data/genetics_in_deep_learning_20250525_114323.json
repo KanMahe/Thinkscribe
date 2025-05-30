@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Deep learning predicts therapy-relevant genetics in acute myeloid leukemia from Pappenheim-stained bone marrow smears",
+        "authors": [
+            "Jacqueline Kockwelp",
+            "Sebastian Thiele",
+            "Jannis Bartsch",
+            "Lars Haalck",
+            "J\u00f6rg Gromoll",
+            "S. Schlatt",
+            "Rita Exeler",
+            "Annalen Bleckmann",
+            "Georg Lenz",
+            "Sebastian Wolf",
+            "B. Steffen",
+            "W. Berdel",
+            "C. Schliemann",
+            "Benjamin Risse",
+            "L. Angenendt"
+        ],
+        "year": 2023,
+        "abstract": "Key Points \u2022 A fully automated, end-to-end deep learning pipeline can predict genetic features of AML from routine bone marrow smears.\u2022 The automated single-cell image generation and analysis pipeline is a new tool for morphologic characterization of bone marrow disorders.",
+        "url": "https://www.semanticscholar.org/paper/5498030e5483a4097841c94201b97b5beaa188fd"
+    },
+    {
+        "title": "Deep Learning Analysis on Images of iPSC-derived Motor Neurons Carrying fALS-genetics Reveals Disease-Relevant Phenotypes",
+        "authors": [
+            "Rahul Atmaramani",
+            "Tommaso Dreossi",
+            "Kevin Ford",
+            "Lin Gan",
+            "Jana Mitchell",
+            "Shengjiang Tu",
+            "Jeevaa Velayutham",
+            "Haoyang Zeng",
+            "Michael Chickering",
+            "Thomas W Soare",
+            "Srinivasan Sivanandan",
+            "Ryan Conrad",
+            "Yujia Bao",
+            "Santiago Akle",
+            "Jonathan Liu",
+            "Stephanie Redmond",
+            "Syuan-Ming Guo",
+            "Patrick Conrad",
+            "Flora Yi",
+            "Nick Atkeson",
+            "Difei Xu",
+            "Aidan McMorrow",
+            "Emiliano Hergenreder",
+            "Mukund Hari",
+            "Ahmed Sandakli",
+            "Nitya Mittal",
+            "Liyuan Zhang",
+            "Aaron Topol",
+            "Brigham Hartley",
+            "Elaine Lam",
+            "Eva-Maria Krauel",
+            "Theofanis Karaletsos",
+            "M. Labow",
+            "Richard Hargreaves",
+            "Matthew Trotter",
+            "Shameek Biswas",
+            "A. Pisco",
+            "A. Kaykas",
+            "Daphne Koller",
+            "Samuel Sances"
+        ],
+        "year": 2024,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/76f059d973a23611d55850824d0f44a8ac3e84ac"
+    },
+    {
+        "title": "Cancer genetics and deep learning applications for diagnosis, prognosis, and categorization",
+        "authors": [
+            "M. Sokouti",
+            "B. Sokouti"
+        ],
+        "year": 2024,
+        "abstract": "Gene expression data are used to discover meaningful hidden information in gene datasets. Cancer and other disorders may be diagnosed based on differences in gene expression profiles, and this information can be gleaned by gene sequencing. Thanks to the tremendous power of artificial intelligence (AI), healthcare has become a significant user of deep learning (DL) for predicting cancer diseases and categorizing gene expression. Gene expression Microarrays have been proved effective in predicting cancer diseases and categorizing gene expression. Gene expression datasets contain only limited samples, but the features of cancer are diverse and complex. To overcome their dimensionality, gene expression datasets must be enhanced. By learning and analyzing features of input data, it is possible to extract features, as multidimensional arrays, from the data. Synthetic samples are needed to strengthen the range of information. DL strategies may be used when gene expression data are used to diagnose and classify cancer diseases.",
+        "url": "https://www.semanticscholar.org/paper/9e913931719bff78832d8c7e713b31dd781d4f8f"
+    }
+]

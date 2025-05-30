@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Deepfake DEEPFAKE AND AI-GENERATED IMAGE DETECTION SYSTEM",
+        "authors": [
+            "Iskand Wadhwa",
+            "Yash Choudhary",
+            "Prerna Chauhan",
+            "Anjali Singh",
+            "S. Sathua",
+            "Shaffy Bains"
+        ],
+        "year": 2025,
+        "abstract": "The rapid advancement of deep learning and gen-\nerative artificial intelligence (AI) has led to the proliferation of\ndeepfake and AI-generated images, posing significant challenges\nto digital media integrity, security, and trust. These technologies,\nwhile beneficial in creative and entertainment domains, have\nalso been exploited for malicious purposes, including misinfor-\nmation, identity theft, and fraud. To address these concerns,\nthis research proposes a robust and scalable Deepfake and\nAI-Generated Image Detection System. Leveraging state-of-the-\nart machine learning techniques, including convolutional neural\nnetworks (CNNs), generative adversarial network (GAN) dis-\ncriminators, and transformer-based architectures, the system is\ndesigned to identify subtle artifacts and inconsistencies inherent\nin synthetic media. The proposed framework incorporates multi-\nmodal analysis, combining visual, spatial, and frequency-domain\nfeatures to enhance detection accuracy. Additionally, the system\nis trained on a diverse and comprehensive dataset comprising\nboth publicly available and custom-generated deepfake and\nAI-generated images to ensure generalizability across various\nmanipulation techniques. Experimental results demonstrate the\nsystem\u2019s effectiveness in achieving high precision and recall rates,\noutperforming existing detection methods. This research con-\ntributes to the ongoing efforts to combat digital misinformation\nand uphold the authenticity of visual media in the age of AI.",
+        "url": "https://www.semanticscholar.org/paper/238b9b8e08de6f6938042798fcfdd3b6f10ad845"
+    },
+    {
+        "title": "Rethinking the Up-Sampling Operations in CNN-Based Generative Network for Generalizable Deepfake Detection",
+        "authors": [
+            "Chuangchuang Tan",
+            "Huan Liu",
+            "Yao Zhao",
+            "Shikui Wei",
+            "Guanghua Gu",
+            "Ping Liu",
+            "Yunchao Wei"
+        ],
+        "year": 2024,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/7e3b3d82df3c22cb90f10921f28c2a3f6c07e77f"
+    },
+    {
+        "title": "A Novel Blockchain-Based Deepfake Detection Method Using Federated and Deep Learning Models",
+        "authors": [
+            "Arash Heidari",
+            "Nima Jafari Navimipour",
+            "Hasan Dag",
+            "Samira Talebi",
+            "Mehmet Unal"
+        ],
+        "year": 2024,
+        "abstract": "In recent years, the proliferation of deep learning (DL) techniques has given rise to a significant challenge in the form of deepfake videos, posing a grave threat to the authenticity of media content. With the rapid advancement of DL technology, the creation of convincingly realistic deepfake videos has become increasingly prevalent, raising serious concerns about the potential misuse of such content. Deepfakes have the potential to undermine trust in visual media, with implications for fields as diverse as journalism, entertainment, and security. This study presents an innovative solution by harnessing blockchain-based federated learning (FL) to address this issue, focusing on preserving data source anonymity. The approach combines the strengths of SegCaps and convolutional neural network (CNN) methods for improved image feature extraction, followed by capsule network (CN) training to enhance generalization. A novel data normalization technique is introduced to tackle data heterogeneity stemming from diverse global data sources. Moreover, transfer learning (TL) and preprocessing methods are deployed to elevate DL performance. These efforts culminate in collaborative global model training zfacilitated by blockchain and FL while maintaining the utmost confidentiality of data sources. The effectiveness of our methodology is rigorously tested and validated through extensive experiments. These experiments reveal a substantial improvement in accuracy, with an impressive average increase of 6.6% compared to six benchmark models. Furthermore, our approach demonstrates a 5.1% enhancement in the area under the curve (AUC) metric, underscoring its ability to outperform existing detection methods. These results substantiate the effectiveness of our proposed solution in countering the proliferation of deepfake content. In conclusion, our innovative approach represents a promising avenue for advancing deepfake detection. By leveraging existing data resources and the power of FL and blockchain technology, we address a critical need for media authenticity and security. As the threat of deepfake videos continues to grow, our comprehensive solution provides an effective means to protect the integrity and trustworthiness of visual media, with far-reaching implications for both industry and society. This work stands as a significant step toward countering the deepfake menace and preserving the authenticity of visual content in a rapidly evolving digital landscape.",
+        "url": "https://www.semanticscholar.org/paper/887737d87129133f26d245b5f9e54ac768433087"
+    },
+    {
+        "title": "Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Domain Learning",
+        "authors": [
+            "Chuangchuang Tan",
+            "Yao Zhao",
+            "Shikui Wei",
+            "Guanghua Gu",
+            "Ping Liu",
+            "Yunchao Wei"
+        ],
+        "year": 2024,
+        "abstract": "This research addresses the challenge of developing a universal deepfake detector that can effectively identify unseen deepfake images despite limited training data. Existing frequency-based paradigms have relied on frequency-level artifacts introduced during the up-sampling in GAN pipelines to detect forgeries. However, the rapid advancements in synthesis technology have led to specific artifacts for each generation model. Consequently, these detectors have exhibited a lack of proficiency in learning the frequency domain and tend to overfit to the artifacts present in the training data, leading to suboptimal performance on unseen sources. To address this issue, we introduce a novel frequency-aware approach called FreqNet, centered around frequency domain learning, specifically designed to enhance the generalizability of deepfake detectors. Our method forces the detector to continuously focus on high-frequency information, exploiting high-frequency representation of features across spatial and channel dimensions. Additionally, we incorporate a straightforward frequency domain learning module to learn source-agnostic features. It involves convolutional layers applied to both the phase spectrum and amplitude spectrum between the Fast Fourier Transform (FFT) and Inverse Fast Fourier Transform (iFFT). Extensive experimentation involving 17 GANs demonstrates the effectiveness of our proposed method, showcasing state-of-the-art performance (+9.8\\%) while requiring fewer parameters. The code is available at https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection.",
+        "url": "https://www.semanticscholar.org/paper/a19241eaaa6c35f8763b4c3bf5c754b9fdb09331"
+    },
+    {
+        "title": "Preserving Fairness Generalization in Deepfake Detection",
+        "authors": [
+            "Li Lin",
+            "Xinan He",
+            "Yan Ju",
+            "Xin Wang",
+            "Feng Ding",
+            "Shu Hu"
+        ],
+        "year": 2024,
+        "abstract": "Although effective deepfake detection models have been developed in recent years, recent studies have revealed that these models can result in unfair performance disparities among demographic groups, such as race and gender. This can lead to particular groups facing unfair targeting or exclusion from detection, potentially allowing misclassified deepfakes to manipulate public opinion and undermine trust in the model. The existing method for addressing this problem is providing a fair loss function. It shows good fairness performance for intra-domain evaluation but does not maintain fairness for cross-domain testing. This highlights the significance of fairness generalization in the fight against deepfakes. In this work, we propose the first method to address the fairness generalization problem in deepfake detection by simultaneously considering features, loss, and optimization aspects. Our method employs disentanglement learning to extract demographic and domain-agnostic forgery features, fusing them to encourage fair learning across a flattened loss landscape. Extensive experiments on prominent deepfake datasets demonstrate our method's effectiveness, surpassing state-of-the-art approaches in preserving fairness during cross-domain deepfake detection. The code is available at https://github.com/Purdue-M2/Fairness-Generalization.",
+        "url": "https://www.semanticscholar.org/paper/5e0e4c07a806eccb4e826b1ac4ea9bf1aa1623b5"
+    }
+]

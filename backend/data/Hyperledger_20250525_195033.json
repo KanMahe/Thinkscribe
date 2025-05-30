@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Stochastic Performance Analysis of Phase Decomposition in Hyperledger\n  Fabric",
+        "authors": [
+            "Canhui Wang",
+            "Xiaowen Chu"
+        ],
+        "year": 2023,
+        "abstract": "Hyperledger Fabric is one of the most popular permissioned blockchain\nplatforms. Although many existing works on the overall system performance of\nHyperledger Fabric are available, a decomposition of each phase in Hyperledger\nFabric remains to be explored. Admittedly, the overall system performance of\nHyperledger Fabric might provide an end-user with satisfied performance\ninformation when invoking a transaction; however, it is far from informative\nwhen deploying a distributed system with specific performance goals, except for\nunderstanding each phase in Hyperledger Fabric. In this paper, we develop a\nmeasurement framework to characterize each phase's transaction and block data\nin Hyperledger Fabric based on the Fabric SDK Nodejs, where we thoroughly\nanalyze and open source the implementation details of the measurement\nframework. We evaluate the performance of Hyperledger Fabric and have some\ninteresting observations; 1. The number of CPU cores has a linear impact on the\nthroughput of an endorsing peer. 2. The Raft-based ordering service shows good\nscalability with the number of ordering service nodes. 3. The communication\nlatencies between the client and service in Hyperledger Fabric are significant.\nWe then identify each phase's dominant latency in Hyperledger Fabric via\nprimitive operation analysis and propose a stochastic computation model for\nperformance analysis. We also use the alpha-beta communication model to analyze\nthe corresponding communication latency. Finally, we validate the accuracy of\nthe performance model on both local and cloud clusters. The experiment results\nand the performance model help guide the deployment of the Hyperledger Fabric\nservice.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2309.09547v1"
+    },
+    {
+        "title": "MinIndy: Uma Ferramenta de In\u00edcio R\u00e1pido do Hyperledger Indy",
+        "authors": [
+            "Alan Veloso",
+            "Jeffson Sousa",
+            "Bruno Evaristo",
+            "Ant\u00f4nio Abel\u00e9m"
+        ],
+        "year": 2023,
+        "abstract": "The Hyperledger Indy blockchain platform, aimed at identity management\nnetworks, has gained importance, but instantiating a complete network is\ncomplex and requires experience. Therefore, the present work describes MinIndy,\na tool designed to simplify the installation and configuration of Hyperledger\nIndy networks. This simplification will allow people with a lower level of\nexpertise to create their Indy networks. Which makes it a viable alternative\nfor organizations looking to adopt Hyperledger Indy Blockchain networks with\nless effort.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2311.16263v1"
+    },
+    {
+        "title": "Performance Characterization and Bottleneck Analysis of Hyperledger\n  Fabric",
+        "authors": [
+            "Canhui Wang",
+            "Xiaowen Chu"
+        ],
+        "year": 2020,
+        "abstract": "Hyperledger Fabric is a popular open-source project for deploying\npermissioned blockchains. Many performance characteristics of the latest\nHyperledger Fabric, such as performance characteristics of each phase, the\nimpacts of ordering services, and bottleneck and scalability, are still not\nwell understood due to the performance complexity of distributed systems. We\nconducted a thorough performance evaluation on the first long term support\nrelease of Hyperledger Fabric. We studied the performance characteristics of\neach phase, including execute, order, and the validate phase, according to\nHyperledger Fabric new execute-order-validate architecture. We also studied the\nordering services, including Solo, Kafka, and Raft. Our experimental results\nshowed some findings as follows. 1) The execution phase exhibited a good\nscalability under the OR endorsement policy but not with the AND endorsement\npolicy. 2) We were not able to find a significant performance difference\nbetween the three ordering services. 3) The validate phase was likely to be the\nsystem bottleneck due to the low validation speed of chaincode. Overall, our\nwork helps to understand and improve Hyperledger Fabric.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2008.05946v2"
+    },
+    {
+        "title": "Differential Privacy-based Permissioned Blockchain for Private Data\n  Sharing in Industrial IoT",
+        "authors": [
+            "Muhammad Islam",
+            "Mubashir Husain Rehmani",
+            "Jinjun Chen"
+        ],
+        "year": 2021,
+        "abstract": "Permissioned blockchain such as Hyperledger fabric enables a secure supply\nchain model in Industrial Internet of Things (IIoT) through multichannel and\nprivate data collection mechanisms. Sharing of Industrial data including\nprivate data exchange at every stage between supply chain partners helps to\nimprove product quality, enable future forecast, and enhance management\nactivities. However, the existing data sharing and querying mechanism in\nHyperledger fabric is not suitable for supply chain environment in IIoT because\nthe queries are evaluated on actual data stored on ledger which consists of\nsensitive information such as business secrets, and special discounts offered\nto retailers and individuals. To solve this problem, we propose a differential\nprivacy-based permissioned blockchain using Hyperledger fabric to enable\nprivate data sharing in supply chain in IIoT (DH-IIoT). We integrate\ndifferential privacy into the chaindcode (smart contract) of Hyperledger fabric\nto achieve privacy preservation. As a result, the query response consists of\nperturbed data which protects the sensitive information in the ledger. The\nproposed work (DH-IIoT) is evaluated by simulating a permissioned blockchain\nusing Hyperledger fabric. We compare our differential privacy integrated\nchaincode of Hyperledger fabric with the default chaincode setting of\nHyperledger fabric for supply chain scenario. The results confirm that the\nproposed work maintains 96.15% of accuracy in the shared data while guarantees\nthe protection of sensitive ledger's data.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2102.09857v2"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Liquid biopsy in cancer: current status, challenges and future prospects",
+        "authors": [
+            "Liwei Ma",
+            "Huiling Guo",
+            "Yunxiang Zhao",
+            "Zhibo Liu",
+            "Chenran Wang",
+            "Jiahao Bu",
+            "Ting Sun",
+            "Jianwei Wei"
+        ],
+        "year": 2024,
+        "abstract": "Cancer has a high mortality rate across the globe, and tissue biopsy remains the gold standard for tumor diagnosis due to its high level of laboratory standardization, good consistency of results, relatively stable samples, and high accuracy of results. However, there are still many limitations and drawbacks in the application of tissue biopsy in tumor. The emergence of liquid biopsy provides new ideas for early diagnosis and prognosis of tumor. Compared with tissue biopsy, liquid biopsy has many advantages in the diagnosis and treatment of various types of cancer, including non-invasive, quickly and so on. Currently, the application of liquid biopsy in tumor detection has received widely attention. It is now undergoing rapid progress, and it holds significant potential for future applications. Around now, liquid biopsies encompass several components such as circulating tumor cells, circulating tumor DNA, exosomes, microRNA, circulating RNA, tumor platelets, and tumor endothelial cells. In addition, advances in the identification of liquid biopsy indicators have significantly enhanced the possibility of utilizing liquid biopsies in clinical settings. In this review, we will discuss the application, advantages and challenges of liquid biopsy in some common tumors from the perspective of diverse systems of tumors, and look forward to its future development prospects in the field of cancer diagnosis and treatment.",
+        "url": "https://www.semanticscholar.org/paper/86a94fcc054ef152e302fb48da453820a6e57558"
+    },
+    {
+        "title": "Liquid biopsy for human cancer: cancer screening, monitoring, and treatment",
+        "authors": [
+            "Hao Wang",
+            "Yi Zhang",
+            "Hao Zhang",
+            "Hui Cao",
+            "Jinning Mao",
+            "Xinxin Chen",
+            "Liangchi Wang",
+            "Nan Zhang",
+            "Peng Luo",
+            "Ji Xue",
+            "Xiaoya Qi",
+            "Xiancheng Dong",
+            "Guodong Liu",
+            "Q. Cheng"
+        ],
+        "year": 2024,
+        "abstract": "Abstract Currently, tumor treatment modalities such as immunotherapy and targeted therapy have more stringent requirements for obtaining tumor growth information and require more accurate and easy\u2010to\u2010operate tumor information detection methods. Compared with traditional tissue biopsy, liquid biopsy is a novel, minimally invasive, real\u2010time detection tool for detecting information directly or indirectly released by tumors in human body fluids, which is more suitable for the requirements of new tumor treatment modalities. Liquid biopsy has not been widely used in clinical practice, and there are fewer reviews of related clinical applications. This review summarizes the clinical applications of liquid biopsy components (e.g., circulating tumor cells, circulating tumor DNA, extracellular vesicles, etc.) in tumorigenesis and progression. This includes the development process and detection techniques of liquid biopsies, early screening of tumors, tumor growth detection, and guiding therapeutic strategies (liquid biopsy\u2010based personalized medicine and prediction of treatment response). Finally, the current challenges and future directions for clinical applications of liquid biopsy are proposed. In sum, this review will inspire more researchers to use liquid biopsy technology to promote the realization of individualized therapy, improve the efficacy of tumor therapy, and provide better therapeutic options for tumor patients.",
+        "url": "https://www.semanticscholar.org/paper/0b30b1997bba687ead032b1763e1d78a15804214"
+    },
+    {
+        "title": "Research progress of CTC, ctDNA, and EVs in cancer liquid biopsy",
+        "authors": [
+            "Xiaoling Wang",
+            "Lijuan Wang",
+            "Haihong Lin",
+            "Yifan Zhu",
+            "Defa Huang",
+            "Mi Lai",
+            "Xuxiang Xi",
+            "Junyun Huang",
+            "Wenjuan Zhang",
+            "Tianyu Zhong"
+        ],
+        "year": 2024,
+        "abstract": "Circulating tumor cells (CTCs), circulating tumor DNA (ctDNA), and extracellular vehicles (EVs) have received significant attention in recent times as emerging biomarkers and subjects of transformational studies. The three main branches of liquid biopsy have evolved from the three primary tumor liquid biopsy detection targets\u2014CTC, ctDNA, and EVs\u2014each with distinct benefits. CTCs are derived from circulating cancer cells from the original tumor or metastases and may display global features of the tumor. ctDNA has been extensively analyzed and has been used to aid in the diagnosis, treatment, and prognosis of neoplastic diseases. EVs contain tumor-derived material such as DNA, RNA, proteins, lipids, sugar structures, and metabolites. The three provide different detection contents but have strong complementarity to a certain extent. Even though they have already been employed in several clinical trials, the clinical utility of three biomarkers is still being studied, with promising initial findings. This review thoroughly overviews established and emerging technologies for the isolation, characterization, and content detection of CTC, ctDNA, and EVs. Also discussed were the most recent developments in the study of potential liquid biopsy biomarkers for cancer diagnosis, therapeutic monitoring, and prognosis prediction. These included CTC, ctDNA, and EVs. Finally, the potential and challenges of employing liquid biopsy based on CTC, ctDNA, and EVs for precision medicine were evaluated.",
+        "url": "https://www.semanticscholar.org/paper/1b080177fbca9d40bcd26810f9cd8916c0c66d7e"
+    },
+    {
+        "title": "Recommendations for the Equitable and Widespread Implementation of Liquid Biopsy for Cancer Care",
+        "authors": [
+            "Phillip G Febbo",
+            "Mina Allo",
+            "Emma Alme",
+            "G. Cuyun Carter",
+            "R. Dumanois",
+            "Alessia Essig",
+            "Estevan P. Kiernan",
+            "Caitlin B Kubler",
+            "Nikki Martin",
+            "Medeea C Popescu",
+            "Lauren C Leiman"
+        ],
+        "year": 2024,
+        "abstract": "Liquid biopsies\u2014tests that detect circulating tumor cellular components in the bloodstream\u2014have the potential to transform cancer by reducing health inequities in screening, diagnostics, and monitoring. Today, liquid biopsies are being used to guide treatment choices for patients and monitor for cancer recurrence, and promising work in multi-cancer early detection is ongoing. However, without awareness of the barriers to adoption of this new technology and a willingness to build mitigation efforts into the implementation of widespread liquid biopsy testing, the communities that could most benefit may be the last to access and use them. In this work, we review the challenges likely to affect the accessibility of liquid biopsies in both the general population and underserved populations, and recommend specific actions to facilitate equitable access for all patients.",
+        "url": "https://www.semanticscholar.org/paper/8fc8657b877e0a3a9d3b6f5e75441bd8229964e8"
+    },
+    {
+        "title": "Liquid Biopsy in the Clinical Management of Cancers",
+        "authors": [
+            "Ho-Yin Ho",
+            "Kei-See (Kasey) Chung",
+            "C. Kan",
+            "S. Wong"
+        ],
+        "year": 2024,
+        "abstract": "Liquid biopsy, a noninvasive diagnosis that examines circulating tumor components in body fluids, is increasingly used in cancer management. An overview of relevant literature emphasizes the current state of liquid biopsy applications in cancer care. Biomarkers in liquid biopsy, particularly circulating tumor DNA (ctDNA), circulating tumor RNAs (ctRNA), circulating tumor cells (CTCs), extracellular vesicles (EVs), and other components, offer promising opportunities for early cancer diagnosis, treatment selection, monitoring, and disease assessment. The implementation of liquid biopsy in precision medicine has shown significant potential in various cancer types, including lung cancer, colorectal cancer, breast cancer, and prostate cancer. Advances in genomic and molecular technologies such as next-generation sequencing (NGS) and digital polymerase chain reaction (dPCR) have expanded the utility of liquid biopsy, enabling the detection of somatic variants and actionable genomic alterations in tumors. Liquid biopsy has also demonstrated utility in predicting treatment responses, monitoring minimal residual disease (MRD), and assessing tumor heterogeneity. Nevertheless, standardizing liquid biopsy techniques, interpreting results, and integrating them into the clinical routine remain as challenges. Despite these challenges, liquid biopsy has significant clinical implications in cancer management, offering a dynamic and noninvasive approach to understanding tumor biology and guiding personalized treatment strategies.",
+        "url": "https://www.semanticscholar.org/paper/acfea334b166eb9816095f76c54d5709a24ad5d6"
+    },
+    {
+        "title": "Beyond blood: Advancing the frontiers of liquid biopsy in oncology and personalized medicine",
+        "authors": [
+            "Ying Bao",
+            "Dejing Zhang",
+            "Huihui Guo",
+            "Wenxue Ma"
+        ],
+        "year": 2024,
+        "abstract": "Liquid biopsy is emerging as a pivotal tool in precision oncology, offering a noninvasive and comprehensive approach to cancer diagnostics and management. By harnessing biofluids such as blood, urine, saliva, cerebrospinal fluid, and pleural effusions, this technique profiles key biomarkers including circulating tumor DNA, circulating tumor cells, microRNAs, and extracellular vesicles. This review discusses the extended scope of liquid biopsy, highlighting its indispensable role in enhancing patient outcomes through early detection, continuous monitoring, and tailored therapy. While the advantages are notable, we also address the challenges, emphasizing the necessity for precision, cost\u2010effectiveness, and standardized methodologies in its broader application. The future trajectory of liquid biopsy is set to expand its reach in personalized medicine, fueled by technological advancements and collaborative research.",
+        "url": "https://www.semanticscholar.org/paper/eb4790ae2e3b7c5aff005b50303b060d4bde70ed"
+    }
+]

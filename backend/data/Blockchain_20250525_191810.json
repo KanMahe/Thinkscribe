@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Vulnerability of Finitely-long Blockchains in Securing Data",
+        "authors": [
+            "Yiming Jiang",
+            "Jiangfan Zhang"
+        ],
+        "year": 2023,
+        "abstract": "Recently, blockchain has been applied in various fields to secure data\nexchanges and storage in decentralized systems. In a blockchain application\nwhere the task of the application which makes use of the data stored in a\nblockchain has to be accomplished by a time instant, the employed blockchain is\nessentially finitely-long. In this paper, we consider a general finitely-long\nblockchain model which is generalized from most existing works on finitely-long\nblockchain applications, and take the first step towards characterizing the\nvulnerability of finitely-long blockchains in securing data against\ndouble-spending attacks. For the first time, we develop a general closed-form\nexpression for the probability of success in launching a double-spending attack\non a finitely-long blockchain. This probability essentially characterizes the\nvulnerability of finitely-long blockchains. Then, we prove that the probability\nof success in launching a double-spending attack on a finitely-long blockchain\nis no greater than that on an infinitely-long blockchain, which implies that\nfinitely-long blockchains are less vulnerable to double-spending attacks than\ninfinitely-long blockchains. Moreover, we show that unlike infinitely-long\nblockchains which can be surely paralyzed by a 51% attack, finitely-long\nblockchains are more resistant to 51% attacks.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2304.09965v1"
+    },
+    {
+        "title": "A Framework for Blockchain Interoperability and Runtime Selection",
+        "authors": [
+            "Philipp Frauenthaler",
+            "Michael Borkowski",
+            "Stefan Schulte"
+        ],
+        "year": 2019,
+        "abstract": "The suitability of a particular blockchain for a given use case depends\nmainly on the blockchain's functional and non-functional properties. Such\nproperties may vary over time, and thus, a selected blockchain may become\nunsuitable for a given use case. This uncertainty may hinder the widespread\nadoption of blockchain technologies in general. To mitigate the impact of\nvolatile blockchain properties, we propose a framework that monitors several\nblockchains, allows the user to define functional and non-functional\nrequirements, determines the most appropriate blockchain, and enables the\nswitchover to that chain at runtime. Our evaluation using a reference\nimplementation shows that switching to another blockchain can save cost and\nenable users to benefit from better performance and a higher level of trust.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/1905.07014v1"
+    },
+    {
+        "title": "Blockchain Technologies for Smart Energy Systems: Fundamentals,\n  Challenges and Solutions",
+        "authors": [
+            "Naveed UL Hassan",
+            "Chau Yuen",
+            "Dusit Niyato"
+        ],
+        "year": 2019,
+        "abstract": "In this paper, we discuss the integration of blockchain in smart energy\nsystems. We present various blockchain technology solutions, review important\nblockchain platforms, and several blockchain based smart energy projects in\ndifferent smart energy domains. The majority of blockchain platforms with\nembedded combination of blockchain technology solutions are computing- and\nresource- intensive, and hence not entirely suitable for smart energy\napplications. We consider the requirements of smart energy systems and\naccordingly identify appropriate blockchain technology solutions for smart\nenergy applications. Our analysis can help in the development of flexible\nblockchain platforms for smart energy systems.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/1909.02914v1"
+    },
+    {
+        "title": "Testimonium: A Cost-Efficient Blockchain Relay",
+        "authors": [
+            "Philipp Frauenthaler",
+            "Marten Sigwart",
+            "Christof Spanring",
+            "Stefan Schulte"
+        ],
+        "year": 2020,
+        "abstract": "Current blockchain technologies provide very limited means of\ninteroperability. In particular, solutions enabling blockchains to verify the\nexistence of data on other blockchains are either very costly or are not fully\ndecentralized. To overcome these limitations, we introduce Testimonium, a novel\nblockchain relay scheme that applies a validation-on-demand pattern and the\non-chain execution of Simplified Payment Verifications to enable the\nverification of data across blockchains while remaining fully decentralized.\nEvaluating the scheme for Ethereum-based blockchains shows that Testimonium\nachieves a cost reduction of up to 92% over existing solutions. As such, the\nscheme lays a strong foundation for generic blockchain interoperability. For\ninstance, it enables the development of an atomic-commit protocol for\ndistributed transactions across blockchains.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2002.12837v1"
+    }
+]

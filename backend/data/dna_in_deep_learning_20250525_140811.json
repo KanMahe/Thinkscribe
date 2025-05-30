@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Dr. DNA: Combating Silent Data Corruptions in Deep Learning using Distribution of Neuron Activations",
+        "authors": [
+            "Dongning Ma",
+            "F. Lin",
+            "Alban Desmaison",
+            "Joel Coburn",
+            "Daniel Moore",
+            "Sriram Sankar",
+            "Xun Jiao"
+        ],
+        "year": 2024,
+        "abstract": "Deep neural networks (DNNs) have been widely-adopted in various safety-critical applications such as computer vision and autonomous driving. However, as technology scales and applications diversify, coupled with the increasing heterogeneity of underlying hardware architectures, silent data corruption (SDC) has been emerging as a pronouncing threat to the reliability of DNNs. Recent reports from industry hyperscalars underscore the difficulty in addressing SDC due to their \"stealthy\" nature and elusive manifestation. In this paper, we propose Dr. DNA, a novel approach to enhance the reliability of DNN systems by detecting and mitigating SDCs. Specifically, we formulate and extract a set of unique SDC signatures from the Distribution of Neuron Activations (DNA), based on which we propose early-stage detection and mitigation of SDCs during DNN inference. We perform an extensive evaluation across 3 vision tasks, 5 different datasets, and 10 different models, under 4 different error models. Results show that Dr. DNA achieves 100% SDC detection rate for most cases, 95% detection rate on average and >90% detection rate across all cases, representing 20% - 70% improvement over baselines. Dr. DNA can also mitigate the impact of SDCs by effectively recovering DNN model performance with <1% memory overhead and <2.5% latency overhead.",
+        "url": "https://www.semanticscholar.org/paper/ef859ced69167f810ea700eb7edc66d3c394171d"
+    },
+    {
+        "title": "Deep DNA Storage: Scalable and Robust DNA Storage via Coding Theory and Deep Learning",
+        "authors": [
+            "Daniella Bar-Lev",
+            "Itai Orr",
+            "Omer Sabary",
+            "T. Etzion",
+            "Eitan Yaakobi"
+        ],
+        "year": 2021,
+        "abstract": "DNA-based storage is an emerging technology that enables digital information to be archived in DNA molecules. This method enjoys major advantages over magnetic and optical storage solutions such as exceptional information density, enhanced data durability, and negligible power consumption to maintain data integrity. To access the data, an information retrieval process is employed, where some of the main bottlenecks are the scalability and accuracy, which have a natural tradeoff between the two. Here we show a modular and holistic approach that combines Deep Neural Networks (DNN) trained on simulated data, Tensor-Product (TP) based Error-Correcting Codes (ECC), and a safety margin mechanism into a single coherent pipeline. We demonstrated our solution on 3.1MB of information using two different sequencing technologies. Our work improves upon the current leading solutions by up to x3200 increase in speed, 40% improvement in accuracy, and offers a code rate of 1.6 bits per base in a high noise regime. In a broader sense, our work shows a viable path to commercial DNA storage solutions hindered by current information retrieval processes.",
+        "url": "https://www.semanticscholar.org/paper/1f3240f48e650d5fb60d728bddceef385b585924"
+    },
+    {
+        "title": "Predicting DNA structure using a deep learning method",
+        "authors": [
+            "Jinsen Li",
+            "Tsu-Pei Chiu",
+            "R. Rohs"
+        ],
+        "year": 2024,
+        "abstract": "In this work, the authors report a deep learning method, Deep DNAshape, to predict the influence of flanking regions on three-dimensional DNA structure and\u00a0in structural readout mechanisms of protein-DNA binding. Understanding the mechanisms of protein-DNA binding is critical in comprehending gene regulation. Three-dimensional DNA structure, also described as DNA shape, plays a key role in these mechanisms. In this study, we present a deep learning-based method, Deep DNAshape, that fundamentally changes the current k -mer based high-throughput prediction of DNA shape features by accurately accounting for the influence of extended flanking regions, without the need for extensive molecular simulations or structural biology experiments. By using the Deep DNAshape method, DNA structural features can be predicted for any length and number of DNA sequences in a high-throughput manner, providing an understanding of the effects of flanking regions on DNA structure in a target region of a sequence. The Deep DNAshape method provides access to the influence of distant flanking regions on a region of interest. Our findings reveal that DNA shape readout mechanisms of a core target are quantitatively affected by flanking regions, including extended flanking regions, providing valuable insights into the detailed structural readout mechanisms of protein-DNA binding. Furthermore, when incorporated in machine learning models, the features generated by Deep DNAshape improve the model prediction accuracy. Collectively, Deep DNAshape can serve as versatile and powerful tool for diverse DNA structure-related studies.",
+        "url": "https://www.semanticscholar.org/paper/699ac72fa0c7471ca66c9bd88df3d1006b325dea"
+    }
+]

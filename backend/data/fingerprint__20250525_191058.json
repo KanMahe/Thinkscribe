@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Contactless Fingerprint Recognition Using 3D Graph Matching",
+        "authors": [
+            "Zhe Cui",
+            "Yuwei Jia",
+            "Siyang Zheng",
+            "Fei Su"
+        ],
+        "year": 2024,
+        "abstract": "Contactless fingerprint is a newly developed type of fingerprint, and has\ngained lots of attention in recent fingerprint studies. However, most existing\ncontactless fingerprint algorithms treat contactless fingerprints as 2D plain\nfingerprints, and utilize similar recognition methods as traditional\ncontact-based 2D fingerprints. This recognition approach does not consider the\nmodality difference between contactless and contact fingerprints, especially\nthe intrinsic 3D characteristic of contactless fingerprints. This paper\nproposes a novel contactless fingerprint recognition algorithm that captures\nthe revealed 3D feature of contactless fingerprints rather than the plain 2D\nfeature. The proposed method first recovers 3D features from the input\ncontactless fingerprint, including the 3D shape model and 3D fingerprint\nfeature (minutiae, orientation, etc.). Then, a novel 3D graph matching is\nconducted in 3D space according to the extracted 3D feature. Our method\ncaptures the real 3D nature of contactless fingerprints as the whole feature\nextraction and matching algorithms are completed in real 3D space. Experiments\nresults on contactless fingerprint databases show that the proposed method\nsuccessfully improves the matching accuracy of contactless fingerprints.\nExceptionally, our method performs stably across multiple poses of contactless\nfingerprints due to 3D graph matching, which is a great advantage compared to\nprevious contactless fingerprint recognition algorithms.",
+        "url": "http://arxiv.org/abs/2409.08782v1"
+    },
+    {
+        "title": "Synthetic Latent Fingerprint Generation Using Style Transfer",
+        "authors": [
+            "Amol S. Joshi",
+            "Ali Dabouei",
+            "Nasser Nasrabadi",
+            "Jeremy Dawson"
+        ],
+        "year": 2023,
+        "abstract": "Limited data availability is a challenging problem in the latent fingerprint\ndomain. Synthetically generated fingerprints are vital for training data-hungry\nneural network-based algorithms. Conventional methods distort clean\nfingerprints to generate synthetic latent fingerprints. We propose a simple and\neffective approach using style transfer and image blending to synthesize\nrealistic latent fingerprints. Our evaluation criteria and experiments\ndemonstrate that the generated synthetic latent fingerprints preserve the\nidentity information from the input contact-based fingerprints while possessing\nsimilar characteristics as real latent fingerprints. Additionally, we show that\nthe generated fingerprints exhibit several qualities and styles, suggesting\nthat the proposed method can generate multiple samples from a single\nfingerprint.",
+        "url": "http://arxiv.org/abs/2309.15734v1"
+    },
+    {
+        "title": "Deep Learning-Based Approaches for Contactless Fingerprints Segmentation\n  and Extraction",
+        "authors": [
+            "M. G. Sarwar Murshed",
+            "Syed Konain Abbas",
+            "Sandip Purnapatra",
+            "Daqing Hou",
+            "Faraz Hussain"
+        ],
+        "year": 2023,
+        "abstract": "Fingerprints are widely recognized as one of the most unique and reliable\ncharacteristics of human identity. Most modern fingerprint authentication\nsystems rely on contact-based fingerprints, which require the use of\nfingerprint scanners or fingerprint sensors for capturing fingerprints during\nthe authentication process. Various types of fingerprint sensors, such as\noptical, capacitive, and ultrasonic sensors, employ distinct techniques to\ngather and analyze fingerprint data. This dependency on specific hardware or\nsensors creates a barrier or challenge for the broader adoption of fingerprint\nbased biometric systems. This limitation hinders the widespread adoption of\nfingerprint authentication in various applications and scenarios. Border\ncontrol, healthcare systems, educational institutions, financial transactions,\nand airport security face challenges when fingerprint sensors are not\nuniversally available. To mitigate the dependence on additional hardware, the\nuse of contactless fingerprints has emerged as an alternative. Developing\nprecise fingerprint segmentation methods, accurate fingerprint extraction\ntools, and reliable fingerprint matchers are crucial for the successful\nimplementation of a robust contactless fingerprint authentication system. This\npaper focuses on the development of a deep learning-based segmentation tool for\ncontactless fingerprint localization and segmentation. Our system leverages\ndeep learning techniques to achieve high segmentation accuracy and reliable\nextraction of fingerprints from contactless fingerprint images. In our\nevaluation, our segmentation method demonstrated an average mean absolute error\n(MAE) of 30 pixels, an error in angle prediction (EAP) of 5.92 degrees, and a\nlabeling accuracy of 97.46%. These results demonstrate the effectiveness of our\nnovel contactless fingerprint segmentation and extraction tools.",
+        "url": "http://arxiv.org/abs/2311.15163v1"
+    }
+]

@@ -2,6 +2,8 @@ import requests
 import re
 import concurrent.futures
 import time
+import os
+from pathlib import Path
 from ratelimit import limits, sleep_and_retry
 from dotenv import load_dotenv
 

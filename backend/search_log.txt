@@ -32,3 +32,219 @@ INFO:werkzeug:127.0.0.1 - - [20/Apr/2025 13:35:15] "OPTIONS /bibtex HTTP/1.1" 20
 INFO:werkzeug:127.0.0.1 - - [20/Apr/2025 13:35:15] "POST /bibtex HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [20/Apr/2025 13:35:15] "POST /bibtex HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [20/Apr/2025 13:35:15] "POST /bibtex HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2025 22:28:03] "GET /fetch_and_store?query=Your+Research+Topic&limit=10 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2025 22:30:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2025 22:31:50] "[31m[1mGET /upload_pdf HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2025 22:44:00] "[33mPOST /upload_pdf%0A%0A HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2025 22:45:28] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2025 22:46:18] "POST /bibtex HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/May/2025 22:46:35] "GET /fetch_and_store?query=deep+learning+forensics&limit=3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:09] "GET /fetch_and_store?query=deepfake&limit=5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:09] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:09] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:09] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:09] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:09] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:14] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:14] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:14] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:15] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:15] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:21:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:34:20] "GET /fetch_and_store?query=deepfake&limit=4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:34:21] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:34:21] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:34:21] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:34:21] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:34:26] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:34:26] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:34:26] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:34:26] "POST /extract-info HTTP/1.1" 200 -
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:37:19] "POST /upload_pdf HTTP/1.1" 200 -
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:37:33] "POST /upload_pdf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:37:48] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 00:38:07] "POST /bibtex HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 09:46:27] "GET /fetch_and_store?query=audio&limit=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 09:46:27] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 09:46:32] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 09:56:27] "[31m[1mGET /extract-info HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 09:56:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\litsurvey\\backend\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:21] "GET /fetch_and_store?query=audio%20in%20deep%20learning&limit=9 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:21] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:21] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:21] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:21] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:21] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:21] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:22] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:22] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:22] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:26] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:26] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:26] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:26] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:26] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:26] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:31] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:31] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:04:31] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:05:48] "[31m[1mGET /extract-info HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:27] "GET /fetch_and_store?query=audio%20in%20deep%20learning&limit=6 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:27] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:27] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:27] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:27] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:27] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:27] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:31] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:32] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:32] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:32] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:32] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 10:10:32] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:22:49] "GET /fetch_and_store?query=genetics%20in%20deep%20learning&limit=2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:22:49] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:22:49] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:22:54] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:22:56] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:23:37] "OPTIONS /bibtex HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:23:37] "OPTIONS /bibtex HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:23:38] "POST /bibtex HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:23:38] "POST /bibtex HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:27:57] "GET /fetch_and_store?query=audio%20in%20deep%20learning&limit=2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:27:57] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:27:57] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:28:02] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:28:02] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:31:45] "GET /fetch_and_store?query=audio%20in%20deep%20learning&limit=3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:31:45] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:31:46] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:31:46] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:31:50] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:31:51] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:31:54] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:35:39] "GET /fetch_and_store?query=audio%20in%20deep%20learning&limit=3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:35:39] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:35:39] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:35:39] "OPTIONS /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 11:35:44] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\litsurvey\\backend\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 12:23:43] "POST /extract-info HTTP/1.1" 200 -
+WARNING:root:[Rate Limit] Retrying after 5 seconds...
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 12:33:03] "POST /extract-info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 12:39:41] "GET /fetch_and_store?query=audio%20in%20deep%20learning&limit=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 12:42:56] "GET /fetch_and_store?query=deepfake&limit=2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 12:49:35] "GET /fetch_and_store?query=deepfake&limit=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 13:16:12] "[33mGET /fetch_and_store?query=liquid%20bopsy%20&limit=2 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 13:16:35] "[33mGET /fetch_and_store?query=liquid%20biopsy%20in%20ml&limit=2 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 13:16:46] "[33mGET /fetch_and_store?query=genetics&limit=2 HTTP/1.1[0m" 404 -
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 814-425-297
+INFO:werkzeug: * Detected change in 'D:\\litsurvey\\backend\\papersearch.py', reloading
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 13:26:32] "[33mGET /fetch_and_store?query=machine%20learning&limit=2 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 13:30:18] "[33mGET /fetch_and_store?query=ml&limit=10 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 13:36:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 13:36:39] "[33mGET /fetch_and_store?query=audio%20in%20ml&limit=2 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 13:37:42] "GET /fetch_and_store?query=genetics%20in%20deep%20learning&limit=4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 13:43:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 13:43:30] "[33mGET /fetch_and_store?query=deep%20learning&limit=3 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 14:27:41] "GET /fetch_and_store?query=machine%20learning&limit=4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 18:39:12] "[33mGET /get-papers HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 18:39:12] "[33mGET /get-papers HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 18:39:35] "[31m[1mPOST /upload_pdf HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 18:39:53] "[33mGET /get-papers HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 18:39:53] "[33mGET /get-papers HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 19:01:17] "GET /get-papers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 19:01:17] "GET /get-papers HTTP/1.1" 200 -
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+WARNING:pdfminer.pdfpage:CropBox missing from /Page, defaulting to MediaBox
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 19:01:27] "[35m[1mPOST /upload_pdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 19:01:33] "GET /get-papers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 19:01:33] "GET /get-papers HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\litsurvey\\backend\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 19:11:41] "GET /get-papers HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/May/2025 19:11:41] "GET /get-papers HTTP/1.1" 200 -

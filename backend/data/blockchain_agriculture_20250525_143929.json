@@ -1,0 +1,63 @@
+[
+    {
+        "title": "The rise of blockchain technology in agriculture and food supply chains",
+        "authors": [
+            "Andreas Kamilaris",
+            "Agusti Fonts",
+            "Francesc X. Prenafeta\u2010Bold\u00fa"
+        ],
+        "year": 2019,
+        "abstract": "No abstract available.",
+        "url": "https://openalex.org/W2965761488"
+    },
+    {
+        "title": "Blockchain-Based Soybean Traceability in Agricultural Supply Chain",
+        "authors": [
+            "Khaled Salah",
+            "Nishara Nizamuddin",
+            "Raja Jayaraman",
+            "Mohammad Omar"
+        ],
+        "year": 2019,
+        "abstract": "The globalized production and the distribution of agriculture production bring a renewed focus on the safety, quality, and the validation of several important criteria in agriculture and food supply chains. The growing number of issues related to food safety and contamination risks has established an immense need for effective traceability solution that acts as an essential quality management tool ensuring adequate safety of products in the agricultural supply chain. Blockchain is a disruptive technology that can provide an innovative solution for product traceability in agriculture and food supply chains. Today's agricultural supply chains are complex ecosystem involving several stakeholders making it cumbersome to validate several important criteria such as country of origin, stages in crop development, conformance to quality standards, and monitor yields. In this paper, we propose an approach that leverages the Ethereum blockchain and smart contracts efficiently perform business transactions for soybean tracking and traceability across the agricultural supply chain. Our proposed solution eliminates the need for a trusted centralized authority, intermediaries and provides transactions records, enhancing efficiency and safety with high integrity, reliability, and security. The proposed solution focuses on the utilization of smart contracts to govern and control all interactions and transactions among all the participants involved within the supply chain ecosystem. All transactions are recorded and stored in the blockchain's immutable ledger with links to a decentralized file system (IPFS) and thus providing to all a high level of transparency and traceability into the supply chain ecosystem in a secure, trusted, reliable, and efficient manner.",
+        "url": "https://openalex.org/W2945437340"
+    },
+    {
+        "title": "Modeling the blockchain enabled traceability in agriculture supply chain",
+        "authors": [
+            "Sachin Kamble",
+            "Angappa Gunasekaran",
+            "Rohit Sharma"
+        ],
+        "year": 2019,
+        "abstract": "No abstract available.",
+        "url": "https://openalex.org/W2952858199"
+    },
+    {
+        "title": "Blockchain: The Evolutionary Next Step for ICT E-Agriculture",
+        "authors": [
+            "Yu\u2010Pin Lin",
+            "Joy R. Petway",
+            "Johnathen Anthony",
+            "Hussnain Mukhtar",
+            "Shih-Wei Liao",
+            "Cheng\u2010Fu Chou",
+            "Yi-Fong Ho"
+        ],
+        "year": 2017,
+        "abstract": "Blockchain technology, while still challenged with key limitations, is a transformative Information and Communications Technology (ICT) that has changed our notion of trust. Improved efficiencies for agricultural sustainable development has been demonstrated when ICT-enabled farms have access to knowledge banks and other digital resources. UN FAO-recommended ICT e-agricultural infrastructure components are a confluence of ICT and blockchain technology requirements. When ICT e-agricultural systems with blockchain infrastructure are immutable and distributed ledger systems for record management, baseline agricultural environmental data integrity is safeguarded for those who participate in transparent data management. This paper reviewed blockchain-based concepts associated with ICT-based technology. Moreover, a model ICT e-agriculture system with a blockchain infrastructure is proposed for use at the local and regional scale. To determine context specific technical and social requirements of blockchain technology for ICT e-agriculture systems, an evaluation tool is presented. The proposed system and tool can be evaluated and applied to further developments of e-agriculture systems.",
+        "url": "https://openalex.org/W2738885274"
+    },
+    {
+        "title": "Blockchain Technology for Agriculture: Applications and Rationale",
+        "authors": [
+            "Hang Xiong",
+            "Tobias Dalhaus",
+            "Puqing Wang",
+            "Jiajin Huang"
+        ],
+        "year": 2020,
+        "abstract": "The blockchain is a ledger of accounts and transactions that are written and stored by all participants. It promises a reliable source of truth about the state of farms, inventories and contracts in agriculture, where the collection of such information is often incredibly costly. The blockchain technology can track the provenance of food and thus helps create trustworthy food supply chains and build trust between producers and consumers. As a trusted way of storing data, it facilitates the use of data-driven technologies to make farming smarter. In addition, jointly used with smart contracts, it allows timely payments between stakeholders that can be triggered by data changes appearing in the blockchain This article examines the applications of blockchain technology in food supply chains, agricultural insurance, smart farming, transactions of agricultural products for both theoretical and practical perspectives. We also discuss the challenges of recording transactions made by smallholder farmers and creating the ecosystem for utilizing the blockchain technology in the food and agriculture sector.",
+        "url": "https://openalex.org/W3007237729"
+    }
+]

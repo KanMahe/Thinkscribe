@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Consolidating and Developing Benchmarking Datasets for the Nepali\n  Natural Language Understanding Tasks",
+        "authors": [
+            "Jinu Nyachhyon",
+            "Mridul Sharma",
+            "Prajwal Thapa",
+            "Bal Krishna Bal"
+        ],
+        "year": 2024,
+        "abstract": "The Nepali language has distinct linguistic features, especially its complex\nscript (Devanagari script), morphology, and various dialects, which pose a\nunique challenge for natural language processing (NLP) evaluation. While the\nNepali Language Understanding Evaluation (Nep-gLUE) benchmark provides a\nfoundation for evaluating models, it remains limited in scope, covering four\ntasks. This restricts their utility for comprehensive assessments of NLP\nmodels. To address this limitation, we introduce eight new datasets, creating a\nnew benchmark, the Nepali Language Understanding Evaluation (NLUE) benchmark,\nwhich covers a total of 12 tasks for evaluating the performance of models\nacross a diverse set of Natural Language Understanding (NLU) tasks. The added\ntasks include single-sentence classification, similarity and paraphrase tasks,\nand Natural Language Inference (NLI) tasks. On evaluating the models using\nadded tasks, we observe that the existing models fall short in handling complex\nNLU tasks effectively. This expanded benchmark sets a new standard for\nevaluating, comparing, and advancing models, contributing significantly to the\nbroader goal of advancing NLP research for low-resource languages.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2411.19244v1"
+    },
+    {
+        "title": "K-QA: A Real-World Medical Q&A Benchmark",
+        "authors": [
+            "Itay Manes",
+            "Naama Ronn",
+            "David Cohen",
+            "Ran Ilan Ber",
+            "Zehavi Horowitz-Kugler",
+            "Gabriel Stanovsky"
+        ],
+        "year": 2024,
+        "abstract": "Ensuring the accuracy of responses provided by large language models (LLMs)\nis crucial, particularly in clinical settings where incorrect information may\ndirectly impact patient health. To address this challenge, we construct K-QA, a\ndataset containing 1,212 patient questions originating from real-world\nconversations held on K Health (an AI-driven clinical platform). We employ a\npanel of in-house physicians to answer and manually decompose a subset of K-QA\ninto self-contained statements. Additionally, we formulate two NLI-based\nevaluation metrics approximating recall and precision: (1) comprehensiveness,\nmeasuring the percentage of essential clinical information in the generated\nanswer and (2) hallucination rate, measuring the number of statements from the\nphysician-curated response contradicted by the LLM answer. Finally, we use K-QA\nalong with these metrics to evaluate several state-of-the-art models, as well\nas the effect of in-context learning and medically-oriented augmented retrieval\nschemes developed by the authors. Our findings indicate that in-context\nlearning improves the comprehensiveness of the models, and augmented retrieval\nis effective in reducing hallucinations. We make K-QA available to to the\ncommunity to spur research into medically accurate NLP applications.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2401.14493v1"
+    },
+    {
+        "title": "Graphemic Normalization of the Perso-Arabic Script",
+        "authors": [
+            "Raiomond Doctor",
+            "Alexander Gutkin",
+            "Cibu Johny",
+            "Brian Roark",
+            "Richard Sproat"
+        ],
+        "year": 2022,
+        "abstract": "Since its original appearance in 1991, the Perso-Arabic script representation\nin Unicode has grown from 169 to over 440 atomic isolated characters spread\nover several code pages representing standard letters, various diacritics and\npunctuation for the original Arabic and numerous other regional orthographic\ntraditions. This paper documents the challenges that Perso-Arabic presents\nbeyond the best-documented languages, such as Arabic and Persian, building on\nearlier work by the expert community. We particularly focus on the situation in\nnatural language processing (NLP), which is affected by multiple, often\nneglected, issues such as the use of visually ambiguous yet canonically\nnonequivalent letters and the mixing of letters from different orthographies.\nAmong the contributing conflating factors are the lack of input methods, the\ninstability of modern orthographies, insufficient literacy, and loss or lack of\northographic tradition. We evaluate the effects of script normalization on\neight languages from diverse language families in the Perso-Arabic script\ndiaspora on machine translation and statistical language modeling tasks. Our\nresults indicate statistically significant improvements in performance in most\nconditions for all the languages considered when normalization is applied. We\nargue that better understanding and representation of Perso-Arabic script\nvariation within regional orthographic traditions, where those are present, is\ncrucial for further progress of modern computational NLP techniques especially\nfor languages with a paucity of resources.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2210.12273v3"
+    },
+    {
+        "title": "Rissanen Data Analysis: Examining Dataset Characteristics via\n  Description Length",
+        "authors": [
+            "Ethan Perez",
+            "Douwe Kiela",
+            "Kyunghyun Cho"
+        ],
+        "year": 2021,
+        "abstract": "We introduce a method to determine if a certain capability helps to achieve\nan accurate model of given data. We view labels as being generated from the\ninputs by a program composed of subroutines with different capabilities, and we\nposit that a subroutine is useful if and only if the minimal program that\ninvokes it is shorter than the one that does not. Since minimum program length\nis uncomputable, we instead estimate the labels' minimum description length\n(MDL) as a proxy, giving us a theoretically-grounded method for analyzing\ndataset characteristics. We call the method Rissanen Data Analysis (RDA) after\nthe father of MDL, and we showcase its applicability on a wide variety of\nsettings in NLP, ranging from evaluating the utility of generating subquestions\nbefore answering a question, to analyzing the value of rationales and\nexplanations, to investigating the importance of different parts of speech, and\nuncovering dataset gender bias.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2103.03872v1"
+    }
+]

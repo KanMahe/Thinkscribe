@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+        "authors": [
+            "Pengfei Liu",
+            "Weizhe Yuan",
+            "Jinlan Fu",
+            "Zhengbao Jiang",
+            "Hiroaki Hayashi",
+            "Graham Neubig"
+        ],
+        "year": 2021,
+        "abstract": "This article surveys and organizes research works in a new paradigm in natural language processing, which we dub \u201cprompt-based learning.\u201d Unlike traditional supervised learning, which trains a model to take in an input x and predict an output y as P(y|x), prompt-based learning is based on language models that model the probability of text directly. To use these models to perform prediction tasks, the original input x is modified using a template into a textual string prompt x\u2032 that has some unfilled slots, and then the language model is used to probabilistically fill the unfilled information to obtain a final string x\u0302, from which the final output y can be derived. This framework is powerful and attractive for a number of reasons: It allows the language model to be pre-trained on massive amounts of raw text, and by defining a new prompting function the model is able to perform few-shot or even zero-shot learning, adapting to new scenarios with few or no labeled data. In this article, we introduce the basics of this promising paradigm, describe a unified set of mathematical notations that can cover a wide variety of existing work, and organize existing work along several dimensions, e.g., the choice of pre-trained language models, prompts, and tuning strategies. To make the field more accessible to interested beginners, we not only make a systematic review of existing works and a highly structured typology of prompt-based concepts but also release other resources, e.g., a website NLPedia\u2013Pretrain including constantly updated survey and paperlist.",
+        "url": "https://www.semanticscholar.org/paper/28692beece311a90f5fa1ca2ec9d0c2ce293d069"
+    },
+    {
+        "title": "The Stanford CoreNLP Natural Language Processing Toolkit",
+        "authors": [
+            "Christopher D. Manning",
+            "M. Surdeanu",
+            "John Bauer",
+            "J. Finkel",
+            "Steven Bethard",
+            "David McClosky"
+        ],
+        "year": 2014,
+        "abstract": "We describe the design and use of the Stanford CoreNLP toolkit, an extensible pipeline that provides core natural language analysis. This toolkit is quite widely used, both in the research NLP community and also among commercial and government users of open source NLP technology. We suggest that this follows from a simple, approachable design, straightforward interfaces, the inclusion of robust and good quality analysis components, and not requiring use of a large amount of associated baggage.",
+        "url": "https://www.semanticscholar.org/paper/2f5102ec3f70d0dea98c957cc2cab4d15d83a2da"
+    },
+    {
+        "title": "Natural Language Processing (Almost) from Scratch",
+        "authors": [
+            "R. Collobert",
+            "J. Weston",
+            "L. Bottou",
+            "Michael Karlen",
+            "K. Kavukcuoglu",
+            "Pavel P. Kuksa"
+        ],
+        "year": 2011,
+        "abstract": "We propose a unified neural network architecture and learning algorithm that can be applied to various natural language processing tasks including part-of-speech tagging, chunking, named entity recognition, and semantic role labeling. This versatility is achieved by trying to avoid task-specific engineering and therefore disregarding a lot of prior knowledge. Instead of exploiting man-made input features carefully optimized for each task, our system learns internal representations on the basis of vast amounts of mostly unlabeled training data. This work is then used as a basis for building a freely available tagging system with good performance and minimal computational requirements.",
+        "url": "https://www.semanticscholar.org/paper/bc1022b031dc6c7019696492e8116598097a8c12"
+    }
+]

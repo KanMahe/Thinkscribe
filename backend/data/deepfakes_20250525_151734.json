@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Deepfake Video Detection Using Recurrent Neural Networks",
+        "authors": [
+            "David G\u00fcera",
+            "Edward J. Delp"
+        ],
+        "year": 2018,
+        "abstract": "In recent months a machine learning based free software tool has made it easy to create believable face swaps in videos that leaves few traces of manipulation, in what are known as \"deepfake\" videos. Scenarios where these realistic fake videos are used to create political distress, blackmail someone or fake terrorism events are easily envisioned. This paper proposes a temporal-aware pipeline to automatically detect deepfake videos. Our system uses a convolutional neural network (CNN) to extract frame-level features. These features are then used to train a recurrent neural network (RNN) that learns to classify if a video has been subject to manipulation or not. We evaluate our method against a large set of deepfake videos collected from multiple video websites. We show how our system can achieve competitive results in this task while using a simple architecture.",
+        "url": "https://openalex.org/W2911424785"
+    },
+    {
+        "title": "Celeb-DF: A Large-Scale Challenging Dataset for DeepFake Forensics",
+        "authors": [
+            "Yuezun Li",
+            "Xin Yang",
+            "Pu Sun",
+            "Honggang Qi",
+            "Siwei Lyu"
+        ],
+        "year": 2020,
+        "abstract": "AI-synthesized face-swapping videos, commonly known as DeepFakes, is an emerging problem threatening the trustworthiness of online information. The need to develop and evaluate DeepFake detection algorithms calls for datasets of DeepFake videos. However, current DeepFake datasets suffer from low visual quality and do not resemble DeepFake videos circulated on the Internet. We present a new large-scale challenging DeepFake video dataset, Celeb-DF, which contains 5,639 high-quality DeepFake videos of celebrities generated using improved synthesis process. We conduct a comprehensive evaluation of DeepFake detection methods and datasets to demonstrate the escalated level of challenges posed by Celeb-DF.",
+        "url": "https://openalex.org/W3034713808"
+    },
+    {
+        "title": "Exposing DeepFake Videos By Detecting Face Warping Artifacts",
+        "authors": [
+            "Yuezun Li",
+            "Siwei Lyu"
+        ],
+        "year": 2018,
+        "abstract": "In this work, we describe a new deep learning based method that can effectively distinguish AI-generated fake videos (referred to as {\\em DeepFake} videos hereafter) from real videos. Our method is based on the observations that current DeepFake algorithm can only generate images of limited resolutions, which need to be further warped to match the original faces in the source video. Such transforms leave distinctive artifacts in the resulting DeepFake videos, and we show that they can be effectively captured by convolutional neural networks (CNNs). Compared to previous methods which use a large amount of real and DeepFake generated images to train CNN classifier, our method does not need DeepFake generated images as negative training examples since we target the artifacts in affine face warping as the distinctive feature to distinguish real and fake images. The advantages of our method are two-fold: (1) Such artifacts can be simulated directly using simple image processing operations on a image to make it as negative example. Since training a DeepFake model to generate negative examples is time-consuming and resource-demanding, our method saves a plenty of time and resources in training data collection; (2) Since such artifacts are general existed in DeepFake videos from different sources, our method is more robust compared to others. Our method is evaluated on two sets of DeepFake video datasets for its effectiveness in practice.",
+        "url": "https://openalex.org/W2898877033"
+    },
+    {
+        "title": "Exploiting Visual Artifacts to Expose Deepfakes and Face Manipulations",
+        "authors": [
+            "Falko Matern",
+            "Christian Rie\u00df",
+            "Marc Stamminger"
+        ],
+        "year": 2019,
+        "abstract": "High quality face editing in videos is a growing concern and spreads distrust in video content. However, upon closer examination, many face editing algorithms exhibit artifacts that resemble classical computer vision issues that stem from face tracking and editing. As a consequence, we wonder how difficult it is to expose artificial faces from current generators? To this end, we review current facial editing methods and several characteristic artifacts from their processing pipelines. We also show that relatively simple visual artifacts can be already quite effective in exposing such manipulations, including Deepfakes and Face2Face. Since the methods are based on visual features, they are easily explicable also to non-technical experts. The methods are easy to implement and offer capabilities for rapid adjustment to new manipulation types with little data available. Despite their simplicity, the methods are able to achieve AUC values of up to 0.866.",
+        "url": "https://openalex.org/W2913399670"
+    }
+]

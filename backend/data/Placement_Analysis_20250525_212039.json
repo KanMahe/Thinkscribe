@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Single Video Performance Analysis for Video-on-Demand Systems",
+        "authors": [
+            "James Yifei Yang",
+            "Bruce Hajek"
+        ],
+        "year": 2013,
+        "abstract": "We study the content placement problem for cache delivery video-on-demand\nsystems under static random network topologies with fixed heavy-tailed video\ndemand. The performance measure is the amount of server load; we wish to\nminimize the total download rate for all users from the server and maximize the\nrate from caches. Our approach reduces the analysis for multiple videos to\nconsideration of decoupled systems with a single video each. For each placement\npolicy, insights gained from the single video analysis carry back to the\noriginal multiple video content placement problem. Finally, we propose a hybrid\nplacement technique that achieves near optimal performance with low complexity.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/1307.0849v1"
+    },
+    {
+        "title": "An Analysis on Caching Placement for Millimeter/Micro Wave Hybrid\n  Networks",
+        "authors": [
+            "Sudip Biswas",
+            "Tong Zhang",
+            "Keshav Singh",
+            "Satyanarayana Vuppala",
+            "Tharmalingam Ratnarajah"
+        ],
+        "year": 2018,
+        "abstract": "In this paper, we consider a hybrid millimeter wave (mmWave) and micro wave\n($\\mu$Wave) network from the perspective of \\emph{wireless caching} and study\nthe optimal probabilistic content/file caching placement at desirable base\nstations (BSs) using a stochastic geometric framework. Considering the average\nsuccess probability (ASP) of file delivery as the performance metric, we derive\nexpressions for the association probability of the typical user to the mmWave\nand $\\mu$Wave networks. Accordingly, we provide an upper bound for the ASP of\nfile delivery and formulate the content caching placement scheme as an\noptimization problem with respect to caching probabilities, that jointly\noptimizes the ASP of file delivery considering both content placement and\ndelivery phases. In particular, we consider the caching placement strategy\nunder both noise-limited and interference-limited environments. We numerically\nevaluate the performance of the proposed caching schemes under essential\nfactors, such as blockages in the mmWave network, cluster radius, BS density,\nand path loss and compare it with uniform caching placement, caching $M$ most\npopular contents, and random caching placement. Numerical results demonstrate\nthe superiority of the proposed caching scheme over others, albeit certain\ntrade-offs.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/1802.10326v2"
+    },
+    {
+        "title": "Task and Energy Aware Node Placement in Wirelessly Rechargeable WSNs",
+        "authors": [
+            "Md Solimul Chowdhury"
+        ],
+        "year": 2018,
+        "abstract": "In this paper, we present a novel problem of optimal placement of sensor\nnodes in wirelessly rechargeable Wireless Sensor Networks (WSNs) wrt. a\ncharging requirement constraint and a task utility requirement constraint. We\ncall this problem Task and Energy Aware Node Placement (TENP) problem. We have\ndevised an algorithm to solve the TENP problem. Our theoretical analysis shows\nthat the devised algorithm is an incomplete but tractable method for solving\nTENP. We have performed an empirical evaluation of the devised algorithm for\nthree different version of TENP in various experimental settings. The\nexperimental results reveal numbers of interesting insights on the relationship\nbetween sensor node placement, charge harvest, and task utility.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/1805.07795v1"
+    },
+    {
+        "title": "Optimal Sensor Placement for Target Localization and Tracking in 2D and\n  3D",
+        "authors": [
+            "Shiyu Zhao",
+            "Ben M. Chen",
+            "Tong H. Lee"
+        ],
+        "year": 2012,
+        "abstract": "This paper analytically characterizes optimal sensor placements for target\nlocalization and tracking in 2D and 3D. Three types of sensors are considered:\nbearing-only, range-only, and received-signal-strength. The optimal placement\nproblems of the three sensor types are formulated as an identical parameter\noptimization problem and consequently analyzed in a unified framework. Recently\ndeveloped frame theory is applied to the optimality analysis. We prove\nnecessary and sufficient conditions for optimal placements in 2D and 3D. A\nnumber of important analytical properties of optimal placements are further\nexplored. In order to verify the analytical analysis, we present a gradient\ncontrol law that can numerically construct generic optimal placements.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/1210.7397v1"
+    }
+]

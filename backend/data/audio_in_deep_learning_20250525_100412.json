@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Deep learning audio magnetotellurics inversion using residual-based deep convolution neural network",
+        "authors": [
+            "Zhengguang Liu",
+            "Huang Chen",
+            "Z. Ren",
+            "Jingtian Tang",
+            "Zhimin Xu",
+            "Yuan-Ho Chen",
+            "Xu Liu"
+        ],
+        "year": 2021,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/d476dc9f1d1072f4186834e2b0610e310a579281"
+    },
+    {
+        "title": "Deep Learning Audio Spectrograms Processing to the Early COVID-19 Detection",
+        "authors": [
+            "C. Rodriguez",
+            "Daniel Angeles",
+            "Renzo Chafloque",
+            "Freddy Kaseng",
+            "Bishwajeet K. Pandey"
+        ],
+        "year": 2020,
+        "abstract": "The objective of the paper is to provide a model capable of serving as a basis for retraining a convolutional neural network that can be used to detect COVID-19 cases through spectrograms of coughing, sneezing and other respiratory sounds from infected people. To address this challenge, the methodology was focused on Deep Learning technics worked with a dataset of sounds of sick and non-sick people, and using ImageNet's Xception architecture to train the model to be presented through Fine-Tuning. The results obtained were a precision of 0.75 to 0.80, this being drastically affected by the quality of the dataset at our availability, however, when getting relatively high results for the conditions of the data used, we can conclude that the model can present much better results if it is working with a dataset specifically of respiratory sounds of COVID-19 cases with high quality.",
+        "url": "https://www.semanticscholar.org/paper/c14966f3a8cb781556c2dd132271508df27e0ab4"
+    },
+    {
+        "title": "Deep learning, audio adversaries, and music content analysis",
+        "authors": [
+            "Corey Kereliuk",
+            "Bob L. Sturm",
+            "J. Larsen"
+        ],
+        "year": 2015,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/adf87437d94b19c21b38b0dd6ca2764ea021e40b"
+    },
+    {
+        "title": "Leveraging Recent Advances in Deep Learning for Audio-Visual Emotion Recognition",
+        "authors": [
+            "Liam Schoneveld",
+            "Alice Othmani",
+            "Hazem Abdelkawy"
+        ],
+        "year": 2021,
+        "abstract": null,
+        "url": "https://www.semanticscholar.org/paper/0013eb49cbc8941d339b28e3801bc97f058020bd"
+    },
+    {
+        "title": "Transfer Learning from Audio Deep Learning Models for Micro-Doppler Activity Recognition",
+        "authors": [
+            "K. T. Tran",
+            "Lewis D. Griffin",
+            "K. Chetty",
+            "S. Vishwakarma"
+        ],
+        "year": 2020,
+        "abstract": "This paper presents a mechanism to transform radio frequency micro-Doppler signatures into a pseudo-audio representation, which results in significant improvements in transfer learning from a deep learning model trained on audio. We also demonstrate that transfer learning from a deep learning model trained on audio is more effective than transfer learning from a model trained on images, which suggests machine learning methods used to analyse audio can be leveraged for micro-Doppler. Finally, we utilise an occlusion method to gain an insight into how the deep learning model interprets the micro-Doppler signatures and the subsequent pseudo-audio representations.",
+        "url": "https://www.semanticscholar.org/paper/0bbe6f5ad3ac207f0c17dda0d91ef9abe3ebb7f1"
+    },
+    {
+        "title": "Automatic Assessment of Dysarthric Severity Level Using Audio-Video Cross-Modal Approach in Deep Learning",
+        "authors": [
+            "H. Tong",
+            "H. Sharifzadeh",
+            "I. Mcloughlin"
+        ],
+        "year": 2020,
+        "abstract": "Dysarthria is a speech disorder that can signi\ufb01cantly impact a person\u2019s daily life, and yet may be amenable to therapy. To automatically detect and classify dysarthria, researchers have proposed various computational approaches ranging from traditional speech processing methods focusing on speech rate, intelligibility, intonation, etc. to more advanced machine learning techniques. Recently developed machine learning systems rely on audio features for classi\ufb01cation; however, research in other \ufb01elds has shown that audio-video cross-modal frameworks can improve classi\ufb01cation accuracy while simultaneously reducing the amount of training data required compared to uni-modal systems (i.e. audio-or video-only). In this paper, we propose an audio-video cross-modal deep learning framework that takes both audio and video data as input to classify dysarthria severity levels. Our novel cross-modal framework achieves over 99% test accuracy on the UASPEECH dataset \u2013 signi\ufb01cantly outperforming current uni-modal systems that utilise audio data alone. More importantly, it is able to accelerate training time while improving accuracy, and to do so with reduced training data requirements.",
+        "url": "https://www.semanticscholar.org/paper/2ecdbe16fd9a317f6dd782dc8a84cac3692dbb59"
+    },
+    {
+        "title": "Performance Analysis of Deep Learning Model-Compression Techniques for Audio Classification on Edge Devices",
+        "authors": [
+            "Afsana Mou",
+            "M. Milanova"
+        ],
+        "year": 2024,
+        "abstract": "Audio classification using deep learning models, which is essential for applications like voice assistants and music analysis, faces challenges when deployed on edge devices due to their limited computational resources and memory. Achieving a balance between performance, efficiency, and accuracy is a significant obstacle to optimizing these models for such constrained environments. In this investigation, we evaluate diverse deep learning architectures, including Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM), for audio classification tasks on the ESC 50, UrbanSound8k, and Audio Set datasets. Our empirical findings indicate that Mel spectrograms outperform raw audio data, attributing this enhancement to their synergistic alignment with advanced image classification algorithms and their congruence with human auditory perception. To address the constraints of model size, we apply model-compression techniques, notably magnitude pruning, Taylor pruning, and 8-bit quantization. The research demonstrates that a hybrid pruned model achieves a commendable accuracy rate of 89 percent, which, although marginally lower than the 92 percent accuracy of the uncompressed CNN, strikingly illustrates an equilibrium between efficiency and performance. Subsequently, we deploy the optimized model on the Raspberry Pi 4 and NVIDIA Jetson Nano platforms for audio classification tasks. These findings highlight the significant potential of model-compression strategies in enabling effective deep learning applications on resource-limited devices, with minimal compromise on accuracy.",
+        "url": "https://www.semanticscholar.org/paper/3163c99aa32937cf810ba1035fa97ce2a35ff142"
+    },
+    {
+        "title": "A Deep Learning-based Audio-in-Image Watermarking Scheme",
+        "authors": [
+            "A. Das",
+            "Xin Zhong"
+        ],
+        "year": 2021,
+        "abstract": "This paper presents a deep learning-based audio-in-image watermarking scheme. Audio-in-image watermarking is the process of covertly embedding and extracting audio watermarks on a cover-image. Using audio watermarks can open up possibilities for different downstream applications. For the purpose of implementing an audio-in-image watermarking that adapts to the demands of increasingly diverse situations, a neural network architecture is designed to automatically learn the watermarking process in an unsupervised manner. In addition, a similarity network is developed to recognize the audio watermarks under distortions, therefore providing robustness to the proposed method. Experimental results have shown high fidelity and robustness of the proposed blind audio-in-image watermarking scheme.",
+        "url": "https://www.semanticscholar.org/paper/5dcace88dc578aadd18a1f618c747e9f3164f78a"
+    },
+    {
+        "title": "Optimizing poultry audio signal classification with deep learning and burn layer fusion",
+        "authors": [
+            "Esraa Hassan",
+            "Samar Elbedwehy",
+            "Mahmoud Y. Shams",
+            "Tarek Abd El-Hafeez",
+            "Nora El-Rashidy"
+        ],
+        "year": 2024,
+        "abstract": "This study introduces a novel deep learning-based approach for classifying poultry audio signals, incorporating a custom Burn Layer to enhance model robustness. The methodology integrates digital audio signal processing, convolutional neural networks (CNNs), and the innovative Burn Layer, which injects controlled random noise during training to reinforce the model's resilience to input signal variations. The proposed architecture is streamlined, with convolutional blocks, densely connected layers, dropout, and an additional Burn Layer to fortify robustness. The model demonstrates efficiency by reducing trainable parameters to 191,235, compared to traditional architectures with over 1.7 million parameters. The proposed model utilizes a Burn Layer with burn intensity as a parameter and an Adamax optimizer to optimize and address the overfitting problem. Thorough evaluation using six standard classification metrics showcases the model's superior performance, achieving exceptional sensitivity (96.77%), specificity (100.00%), precision (100.00%), negative predictive value (NPV) (95.00%), accuracy (98.55%), F1 score (98.36%), and Matthew\u2019s correlation coefficient (MCC) (95.88%). This research contributes valuable insights into the fields of audio signal processing, animal health monitoring, and robust deep-learning classification systems. The proposed model presents a systematic approach for developing and evaluating a deep learning-based poultry audio classification system. It processes raw audio data and labels to generate digital representations, utilizes a Burn Layer for training variability, and constructs a CNN model with convolutional blocks, pooling, and dense layers. The model is optimized using the Adamax algorithm and trained with data augmentation and early-stopping techniques. Rigorous assessment on a test dataset using standard metrics demonstrates the model's robustness and efficiency, with the potential to significantly advance animal health monitoring and disease detection through audio signal analysis.",
+        "url": "https://www.semanticscholar.org/paper/3b707b69d42f16e7cbfeca7c30cdacbaf065da71"
+    }
+]

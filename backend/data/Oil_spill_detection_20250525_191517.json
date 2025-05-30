@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Hyperspectral Remote Sensing Benchmark Database for Oil Spill Detection\n  with an Isolation Forest-Guided Unsupervised Detector",
+        "authors": [
+            "Puhong Duan",
+            "Xudong Kang",
+            "Pedram Ghamisi"
+        ],
+        "year": 2022,
+        "abstract": "Oil spill detection has attracted increasing attention in recent years since\nmarine oil spill accidents severely affect environments, natural resources, and\nthe lives of coastal inhabitants. Hyperspectral remote sensing images provide\nrich spectral information which is beneficial for the monitoring of oil spills\nin complex ocean scenarios. However, most of the existing approaches are based\non supervised and semi-supervised frameworks to detect oil spills from\nhyperspectral images (HSIs), which require a huge amount of effort to annotate\na certain number of high-quality training sets. In this study, we make the\nfirst attempt to develop an unsupervised oil spill detection method based on\nisolation forest for HSIs. First, considering that the noise level varies among\ndifferent bands, a noise variance estimation method is exploited to evaluate\nthe noise level of different bands, and the bands corrupted by severe noise are\nremoved. Second, kernel principal component analysis (KPCA) is employed to\nreduce the high dimensionality of the HSIs. Then, the probability of each pixel\nbelonging to one of the classes of seawater and oil spills is estimated with\nthe isolation forest, and a set of pseudo-labeled training samples is\nautomatically produced using the clustering algorithm on the detected\nprobability. Finally, an initial detection map can be obtained by performing\nthe support vector machine (SVM) on the dimension-reduced data, and then, the\ninitial detection result is further optimized with the extended random walker\n(ERW) model so as to improve the detection accuracy of oil spills. Experiments\non airborne hyperspectral oil spill data (HOSD) created by ourselves\ndemonstrate that the proposed method obtains superior detection performance\nwith respect to other state-of-the-art detection approaches.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2209.14971v1"
+    },
+    {
+        "title": "Large-scale detection and categorization of oil spills from SAR images\n  with deep learning",
+        "authors": [
+            "Filippo Maria Bianchi",
+            "Martine M. Espeseth",
+            "Nj\u00e5l Borch"
+        ],
+        "year": 2020,
+        "abstract": "We propose a deep learning framework to detect and categorize oil spills in\nsynthetic aperture radar (SAR) images at a large scale. By means of a carefully\ndesigned neural network model for image segmentation trained on an extensive\ndataset, we are able to obtain state-of-the-art performance in oil spill\ndetection, achieving results that are comparable to results produced by human\noperators. We also introduce a classification task, which is novel in the\ncontext of oil spill detection in SAR. Specifically, after being detected, each\noil spill is also classified according to different categories pertaining to\nits shape and texture characteristics. The classification results provide\nvaluable insights for improving the design of oil spill services by\nworld-leading providers. As the last contribution, we present our operational\npipeline and a visualization tool for large-scale data, which allows to detect\nand analyze the historical presence of oil spills worldwide.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2006.13575v1"
+    }
+]

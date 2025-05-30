@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Metastatic Breast Cancer Prognostication Through Multimodal Integration\n  of Dimensionality Reduction Algorithms and Classification Algorithms",
+        "authors": [
+            "Bliss Singhal",
+            "Fnu Pooja"
+        ],
+        "year": 2023,
+        "abstract": "Machine learning (ML) is a branch of Artificial Intelligence (AI) where\ncomputers analyze data and find patterns in the data. The study focuses on the\ndetection of metastatic cancer using ML. Metastatic cancer is the point where\nthe cancer has spread to other parts of the body and is the cause of\napproximately 90% of cancer related deaths. Normally, pathologists spend hours\neach day to manually classify whether tumors are benign or malignant. This\ntedious task contributes to mislabeling metastasis being over 60% of time and\nemphasizes the importance to be aware of human error, and other inefficiencies.\nML is a good candidate to improve the correct identification of metastatic\ncancer saving thousands of lives and can also improve the speed and efficiency\nof the process thereby taking less resources and time. So far, deep learning\nmethodology of AI has been used in the research to detect cancer. This study is\na novel approach to determine the potential of using preprocessing algorithms\ncombined with classification algorithms in detecting metastatic cancer. The\nstudy used two preprocessing algorithms: principal component analysis (PCA) and\nthe genetic algorithm to reduce the dimensionality of the dataset, and then\nused three classification algorithms: logistic regression, decision tree\nclassifier, and k-nearest neighbors to detect metastatic cancer in the\npathology scans. The highest accuracy of 71.14% was produced by the ML pipeline\ncomprising of PCA, the genetic algorithm, and the k-nearest neighbors\nalgorithm, suggesting that preprocessing and classification algorithms have\ngreat potential for detecting metastatic cancer.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2309.10324v1"
+    },
+    {
+        "title": "Machine learning methods for prediction of cancer driver genes: a survey\n  paper",
+        "authors": [
+            "Renan Andrades",
+            "Mariana Recamonde-Mendoza"
+        ],
+        "year": 2021,
+        "abstract": "Identifying the genes and mutations that drive the emergence of tumors is a\nmajor step to improve understanding of cancer and identify new directions for\ndisease diagnosis and treatment. Despite the large volume of genomics data, the\nprecise detection of driver mutations and their carrying genes, known as cancer\ndriver genes, from the millions of possible somatic mutations remains a\nchallenge. Computational methods play an increasingly important role in\nidentifying genomic patterns associated with cancer drivers and developing\nmodels to predict driver events. Machine learning (ML) has been the engine\nbehind many of these efforts and provides excellent opportunities for tackling\nremaining gaps in the field. Thus, this survey aims to perform a comprehensive\nanalysis of ML-based computational approaches to identify cancer driver\nmutations and genes, providing an integrated, panoramic view of the broad data\nand algorithmic landscape within this scientific problem. We discuss how the\ninteractions among data types and ML algorithms have been explored in previous\nsolutions and outline current analytical limitations that deserve further\nattention from the scientific community. We hope that by helping readers become\nmore familiar with significant developments in the field brought by ML, we may\ninspire new researchers to address open problems and advance our knowledge\ntowards cancer driver discovery.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2109.13685v1"
+    },
+    {
+        "title": "A Comprehensive Analysis on Machine Learning based Methods for Lung\n  Cancer Level Classification",
+        "authors": [
+            "Shayli Farshchiha",
+            "Salman Asoudeh",
+            "Maryam Shavali Kuhshuri",
+            "Mehrshad Eisaeid",
+            "Mohamadreza Azadie",
+            "Saba Hesaraki"
+        ],
+        "year": 2025,
+        "abstract": "Lung cancer is a major issue in worldwide public health, requiring early\ndiagnosis using stable techniques. This work begins a thorough investigation of\nthe use of machine learning (ML) methods for precise classification of lung\ncancer stages. A cautious analysis is performed to overcome overfitting issues\nin model performance, taking into account minimum child weight and learning\nrate. A set of machine learning (ML) models including XGBoost (XGB), LGBM,\nAdaboost, Logistic Regression (LR), Decision Tree (DT), Random Forest (RF),\nCatBoost, and k-Nearest Neighbor (k-NN) are run methodically and contrasted.\nFurthermore, the correlation between features and targets is examined using the\ndeep neural network (DNN) model and thus their capability in detecting complex\npatternsis established. It is argued that several ML models can be capable of\nclassifying lung cancer stages with great accuracy. In spite of the complexity\nof DNN architectures, traditional ML models like XGBoost, LGBM, and Logistic\nRegression excel with superior performance. The models perform better than the\nothers in lung cancer prediction on the complete set of comparative metrics\nlike accuracy, precision, recall, and F-1 score",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2501.18294v1"
+    },
+    {
+        "title": "Scalable privacy-preserving cancer type prediction with homomorphic\n  encryption",
+        "authors": [
+            "Esha Sarkar",
+            "Eduardo Chielle",
+            "Gamze Gursoy",
+            "Leo Chen",
+            "Mark Gerstein",
+            "Michail Maniatakos"
+        ],
+        "year": 2022,
+        "abstract": "Machine Learning (ML) alleviates the challenges of high-dimensional data\nanalysis and improves decision making in critical applications like healthcare.\nEffective cancer type from high-dimensional genetic mutation data can be useful\nfor cancer diagnosis and treatment, if the distinguishable patterns between\ncancer types are identified. At the same time, analysis of high-dimensional\ndata is computationally expensive and is often outsourced to cloud services.\nPrivacy concerns in outsourced ML, especially in the field of genetics,\nmotivate the use of encrypted computation, like Homomorphic Encryption (HE).\nBut restrictive overheads of encrypted computation deter its usage. In this\nwork, we explore the challenges of privacy preserving cancer detection using a\nreal-world dataset consisting of more than 2 million genetic information for\nseveral cancer types. Since the data is inherently high-dimensional, we explore\nsmaller ML models for cancer prediction to enable fast inference in the privacy\npreserving domain. We develop a solution for privacy preserving cancer\ninference which first leverages the domain knowledge on somatic mutations to\nefficiently encode genetic mutations and then uses statistical tests for\nfeature selection. Our logistic regression model, built using our novel\nencoding scheme, achieves 0.98 micro-average area under curve with 13% higher\ntest accuracy than similar studies. We exhaustively test our model's predictive\ncapabilities by analyzing the genes used by the model. Furthermore, we propose\na fast matrix multiplication algorithm that can efficiently handle\nhigh-dimensional data. Experimental results show that, even with 40,000\nfeatures, our proposed matrix multiplication algorithm can speed up concurrent\ninference of multiple individuals by approximately 10x and inference of a\nsingle individual by approximately 550x, in comparison to standard matrix\nmultiplication.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2204.05496v1"
+    }
+]

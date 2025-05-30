@@ -1,0 +1,38 @@
+[
+    {
+        "title": "The merits of using Ethereum MainNet as a Coordination Blockchain for\n  Ethereum Private Sidechains",
+        "authors": [
+            "Peter Robinson"
+        ],
+        "year": 2019,
+        "abstract": "A Coordination Blockchain is a blockchain with the task of coordinating\nactivities of multiple private blockchains. This paper discusses the pros and\ncons of using Ethereum MainNet, the public Ethereum blockchain, as a\nCoordination Blockchain. The requirements Ethereum MainNet needs to fulfil to\nperform this role are discussed within the context of Ethereum Private\nSidechains, a private blockchain technology which allows many blockchains to be\noperated in parallel, and allows atomic crosschain transactions to execute\nacross blockchains. Ethereum MainNet is a permissionless network which aims to\noffer strong authenticity, integrity, and non-repudiation properties, that\nincentivises good behaviour using crypto economics. This paper demonstrates\nthat Ethereum MainNet does deliver these properties. It then provides a\ncomprehensive review of the features of Ethereum Private Sidechains, with a\nfocus on the potential usage of Coordination Blockchains for these features.\nFinally, the merits of using Ethereum MainNet as a Coordination Blockchain are\nassessed. For Ethereum Private Sidechains, we found that Ethereum MainNet is\nbest suited to storing long term static data that needs to be widely available,\nsuch as the Ethereum Registration Authority information. However, due to\nEthereum MainNet's probabilistic finality, it is not well suited to information\nthat needs to be available and acted upon immediately, such as the Sidechain\nPublic Keys and Atomic Crosschain Transaction state information that need to be\naccessible prior to the first atomic crosschain transaction being issued on a\nsidechain. Although this paper examined the use of Ethereum MainNet as a\nCoordination Blockchain within reference to Ethereum Private Sidechains, the\ndiscussions and observations of the typical tasks a Coordination blockchain may\nbe expected to perform are applicable more widely to any multi-blockchain\nsystem.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/1906.04421v2"
+    },
+    {
+        "title": "Stateful to Stateless: Modelling Stateless Ethereum",
+        "authors": [
+            "Sandra Johnson",
+            "David Hyland-Wood",
+            "Anders L Madsen",
+            "Kerrie Mengersen"
+        ],
+        "year": 2022,
+        "abstract": "The concept of 'Stateless Ethereum' was conceived with the primary aim of\nmitigating Ethereum's unbounded state growth. The key facilitator of Stateless\nEthereum is through the introduction of 'witnesses' into the ecosystem. The\nchanges and potential consequences that these additional data packets pose on\nthe network need to be identified and analysed to ensure that the Ethereum\necosystem can continue operating securely and efficiently. In this paper we\npropose a Bayesian Network model, a probabilistic graphical modelling approach,\nto capture the key factors and their interactions in Ethereum mainnet, the\npublic Ethereum blockchain, focussing on the changes being introduced by\nStateless Ethereum to estimate the health of the resulting Ethereum ecosystem.\nWe use a mixture of empirical data and expert knowledge, where data are\nunavailable, to quantify the model. Based on the data and expert knowledge\navailable to use at the time of modelling, the Ethereum ecosystem is expected\nto remain healthy following the introduction of Stateless Ethereum.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2203.12435v1"
+    },
+    {
+        "title": "Does Money Laundering on Ethereum Have Traditional Traits?",
+        "authors": [
+            "Qishuang Fu",
+            "Dan Lin",
+            "Yiyue Cao",
+            "Jiajing Wu"
+        ],
+        "year": 2023,
+        "abstract": "As the largest blockchain platform that supports smart contracts, Ethereum\nhas developed with an incredible speed. Yet due to the anonymity of blockchain,\nthe popularity of Ethereum has fostered the emergence of various illegal\nactivities and money laundering by converting ill-gotten funds to cash. In the\ntraditional money laundering scenario, researchers have uncovered the prevalent\ntraits of money laundering. However, since money laundering on Ethereum is an\nemerging means, little is known about money laundering on Ethereum. To fill the\ngap, in this paper, we conduct an in-depth study on Ethereum money laundering\nnetworks through the lens of a representative security event on \\textit{Upbit\nExchange} to explore whether money laundering on Ethereum has traditional\ntraits. Specifically, we construct a money laundering network on Ethereum by\ncrawling the transaction records of \\textit{Upbit Hack}. Then, we present five\nquestions based on the traditional traits of money laundering networks. By\nleveraging network analysis, we characterize the money laundering network on\nEthereum and answer these questions. In the end, we summarize the findings of\nmoney laundering networks on Ethereum, which lay the groundwork for money\nlaundering detection on Ethereum.",
+        "techniques": [],
+        "url": "http://arxiv.org/abs/2303.15841v1"
+    }
+]
